@@ -83,7 +83,7 @@
     </div>
     <div class="axo-row">
       <canvas class="axo-canvas" id="learn-axo" width="140" height="140"></canvas>
-      <div class="bubble" id="learn-bubble"><span class="tag" id="learn-tag">Traducción en inglés</span><span id="learn-speech">...</span></div>
+      <div class="bubble" id="learn-bubble"><span class="tag" id="learn-tag">Chamoy • English</span><span id="learn-speech">...</span></div>
     </div>
     <div id="learn-actions"></div>
   </div>
@@ -96,7 +96,7 @@
     </div>
     <div class="axo-row">
       <canvas class="axo-canvas" id="quiz-axo" width="140" height="140"></canvas>
-      <div class="bubble" id="quiz-bubble"><span class="tag">Ajolote</span><span id="quiz-speech">¡Tú puedes! Elige la traducción correcta:</span></div>
+      <div class="bubble" id="quiz-bubble"><span class="tag">Chamoy</span><span id="quiz-speech">You've got this! Pick the correct translation:</span></div>
     </div>
     <div id="quiz-choices"></div>
   </div>
@@ -110,37 +110,30 @@
   function drawAxolotl(id) {
     const c = document.getElementById(id), g = c.getContext('2d');
     g.lineCap = 'round'; g.lineJoin = 'round';
-    // Tail
     g.fillStyle = '#f6aeb0'; g.strokeStyle = '#9e5b54'; g.lineWidth = 4.5;
     g.beginPath(); g.moveTo(92, 102); g.bezierCurveTo(118, 104, 130, 84, 126, 66);
     g.bezierCurveTo(114, 72, 102, 82, 92, 92); g.closePath(); g.fill(); g.stroke();
-    // Gills
     g.fillStyle = '#e6868a';
     const gills = [
       [38,38,16,24,22,42,36,48], [34,50,11,46,16,60,34,60], [36,62,16,70,26,80,42,72],
       [102,38,124,24,118,42,104,48], [106,50,129,46,124,60,106,60], [104,62,124,70,114,80,98,72]
     ];
     gills.forEach(p => { g.beginPath(); g.moveTo(p[0],p[1]); g.bezierCurveTo(p[2],p[3],p[4],p[5],p[6],p[7]); g.fill(); g.stroke(); });
-    // Body & Feet
     g.fillStyle = '#fbd3d2';
     g.beginPath(); g.moveTo(48, 76); g.quadraticCurveTo(44, 98, 48, 114);
     g.quadraticCurveTo(38, 122, 50, 124); g.quadraticCurveTo(60, 125, 60, 117);
     g.quadraticCurveTo(70, 119, 80, 117); g.quadraticCurveTo(80, 127, 92, 125);
     g.quadraticCurveTo(102, 122, 92, 114); g.quadraticCurveTo(96, 98, 92, 76);
     g.closePath(); g.fill(); g.stroke();
-    // Head
     g.beginPath(); g.ellipse(70, 56, 37, 30, 0, 0, Math.PI * 2); g.fill(); g.stroke();
-    // Cheeks
     g.fillStyle = '#f5a389';
     g.beginPath(); g.arc(47, 62, 6, 0, Math.PI * 2); g.arc(93, 62, 6, 0, Math.PI * 2); g.fill();
-    // Eyes & Smile
     g.fillStyle = '#3a231c';
     g.beginPath(); g.arc(52, 53, 4.8, 0, Math.PI * 2); g.arc(88, 53, 4.8, 0, Math.PI * 2); g.fill();
     g.fillStyle = '#fff';
     g.beginPath(); g.arc(50.5, 51.5, 1.5, 0, Math.PI * 2); g.arc(86.5, 51.5, 1.5, 0, Math.PI * 2); g.fill();
     g.strokeStyle = '#3a231c'; g.lineWidth = 3.8;
     g.beginPath(); g.arc(70, 58, 9, 0.2 * Math.PI, 0.8 * Math.PI); g.stroke();
-    // Little Arms
     g.strokeStyle = '#9e5b54'; g.lineWidth = 3.5;
     g.beginPath(); g.moveTo(52, 88); g.quadraticCurveTo(64, 92, 61, 100); g.stroke();
     g.beginPath(); g.moveTo(88, 88); g.quadraticCurveTo(76, 92, 79, 100); g.stroke();
@@ -193,14 +186,14 @@
 
     if (sc === 0) {
       badge.innerText = "ESTUDIAR PALABRA"; badge.style.color = "#38bdf8";
-      say('learn', '', '"' + curItem.def + '"', 'Traducción en inglés');
+      say('learn', '', '"' + curItem.def + '"', 'Chamoy • English');
       const btn = document.createElement('button');
       btn.className = 'action-btn'; btn.innerText = "¡Entendido! Ponme a prueba";
       btn.onclick = () => { addScore(curItem.word); nextLearnStep(); };
       box.appendChild(btn);
     } else {
       badge.innerText = "COMPROBAR MEMORIA"; badge.style.color = "#fbbf24";
-      say('learn', '', '¿Recuerdas qué significa en inglés?', 'Ajolote pregunta');
+      say('learn', '', 'Do you remember what this means in English?', 'Chamoy asks');
       const opts = [curItem];
       while (opts.length < 4) { const r = rawData[Math.floor(Math.random() * rawData.length)]; if (!opts.includes(r)) opts.push(r); }
       opts.sort(() => Math.random() - 0.5);
@@ -210,8 +203,8 @@
         b.className = 'choice-btn'; b.innerText = o.def;
         b.onclick = () => {
           if (lock) return; lock = true;
-          if (o === curItem) { b.classList.add('correct'); say('learn', 'ok', pick(PRAISE), 'Ajolote'); addScore(curItem.word); setTimeout(nextLearnStep, 850); }
-          else { b.classList.add('wrong'); say('learn', 'enc', pick(ENCOURAGE), 'Ajolote'); resetScore(curItem.word); setTimeout(nextLearnStep, 1100); }
+          if (o === curItem) { b.classList.add('correct'); say('learn', 'ok', pick(PRAISE), 'Chamoy'); addScore(curItem.word); setTimeout(nextLearnStep, 850); }
+          else { b.classList.add('wrong'); say('learn', 'enc', pick(ENCOURAGE), 'Chamoy'); resetScore(curItem.word); setTimeout(nextLearnStep, 1100); }
         };
         box.appendChild(b);
       });
@@ -222,7 +215,7 @@
     const item = rawData[Math.floor(Math.random() * rawData.length)];
     document.getElementById('quiz-word').innerText = item.word;
     document.getElementById('quiz-pos').innerText = item.pos || '';
-    say('quiz', '', '¡Tú puedes! Elige la traducción correcta:');
+    say('quiz', '', "You've got this! Pick the correct translation:");
     const opts = [item];
     while (opts.length < 4) { const r = rawData[Math.floor(Math.random() * rawData.length)]; if (!opts.includes(r)) opts.push(r); }
     opts.sort(() => Math.random() - 0.5);
@@ -264,8 +257,8 @@
   }
 
   Promise.all([
-    fetch('spanish.json?v=6').then(r => r.json()),
-    fetch('Mx_extra.json?v=6').then(r => r.json()).catch(() => [])
+    fetch('spanish.json?v=7').then(r => r.json()),
+    fetch('Mx_extra.json?v=7').then(r => r.json()).catch(() => [])
   ]).then(([base, extra]) => {
     rawData = [...base, ...extra];
     updateMasteryUI(); prepareBatch(); renderLibrary(rawData);
