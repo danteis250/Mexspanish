@@ -1,0 +1,8792 @@
+[
+  {
+    "word": "México",
+    "pos": "name",
+    "def": "Mexico City (the capital city of Mexico)"
+  },
+  {
+    "word": "hueso",
+    "pos": "noun",
+    "def": "political position (appointed or elected)"
+  },
+  {
+    "word": "dar",
+    "pos": "verb",
+    "def": "to surrender"
+  },
+  {
+    "word": "tuba",
+    "pos": "noun",
+    "def": "coconut wine made from sweet coconut sap"
+  },
+  {
+    "word": "lama",
+    "pos": "noun",
+    "def": "moss"
+  },
+  {
+    "word": "mosquito",
+    "pos": "noun",
+    "def": "trimmer"
+  },
+  {
+    "word": "tortilla",
+    "pos": "noun",
+    "def": "tortilla (flatbread)"
+  },
+  {
+    "word": "BS",
+    "pos": "name",
+    "def": "initialism of Baja California Sur: a state of Mexico"
+  },
+  {
+    "word": "we",
+    "pos": "noun",
+    "def": "chump, punk, dumbass, idiot, jerk"
+  },
+  {
+    "word": "pants",
+    "pos": "noun",
+    "def": "joggers (athletic trousers); sweatpants"
+  },
+  {
+    "word": "torta",
+    "pos": "noun",
+    "def": "submarine sandwich"
+  },
+  {
+    "word": "sale",
+    "pos": "intj",
+    "def": "ok"
+  },
+  {
+    "word": "gallo",
+    "pos": "noun",
+    "def": "serenade (love song sung directly to one's love interest)"
+  },
+  {
+    "word": "computadora",
+    "pos": "noun",
+    "def": "computer"
+  },
+  {
+    "word": "conejo",
+    "pos": "noun",
+    "def": "contracted biceps (having athletic or semi-athletic features, specially when exhibiting, intentionally or not)"
+  },
+  {
+    "word": "conductor",
+    "pos": "noun",
+    "def": "presenter; host (of a television show)"
+  },
+  {
+    "word": "chance",
+    "pos": "conj",
+    "def": "maybe, perchance, perhaps or possibly"
+  },
+  {
+    "word": "pay",
+    "pos": "noun",
+    "def": "pie (food)"
+  },
+  {
+    "word": "put",
+    "pos": "noun",
+    "def": "papaya"
+  },
+  {
+    "word": "box",
+    "pos": "noun",
+    "def": "boxing (sport)"
+  },
+  {
+    "word": "mole",
+    "pos": "noun",
+    "def": "mole, a type of stew"
+  },
+  {
+    "word": "goggles",
+    "pos": "noun",
+    "def": "swimming goggles"
+  },
+  {
+    "word": "sal",
+    "pos": "noun",
+    "def": "bad luck, misfortune"
+  },
+  {
+    "word": "mana",
+    "pos": "noun",
+    "def": "female equivalent of mano"
+  },
+  {
+    "word": "chingón",
+    "pos": "adj",
+    "def": "intelligent, skilled, capable"
+  },
+  {
+    "word": "ese",
+    "pos": "intj",
+    "def": "hello"
+  },
+  {
+    "word": "cesta",
+    "pos": "noun",
+    "def": "laundry basket, hamper (made of soft material such as polyester and/or cotton)"
+  },
+  {
+    "word": "tri",
+    "pos": "noun",
+    "def": "the Mexican national football team"
+  },
+  {
+    "word": "micro",
+    "pos": "noun",
+    "def": "minibus"
+  },
+  {
+    "word": "tomate",
+    "pos": "noun",
+    "def": "tomatillo"
+  },
+  {
+    "word": "palomita",
+    "pos": "noun",
+    "def": "check mark, tick"
+  },
+  {
+    "word": "cuerno",
+    "pos": "noun",
+    "def": "AK-47"
+  },
+  {
+    "word": "cacahuate",
+    "pos": "noun",
+    "def": "alternative form of cacahuete (“peanut”)"
+  },
+  {
+    "word": "acá",
+    "pos": "adj",
+    "def": "high quality"
+  },
+  {
+    "word": "primavera",
+    "pos": "noun",
+    "def": "American robin, Turdus migratorius"
+  },
+  {
+    "word": "coyote",
+    "pos": "noun",
+    "def": "coyote (smuggler of illegal immigrants)"
+  },
+  {
+    "word": "local",
+    "pos": "noun",
+    "def": "store or other retail unit in a shopping center"
+  },
+  {
+    "word": "mano",
+    "pos": "noun",
+    "def": "buddy, friend, bro, homie"
+  },
+  {
+    "word": "auto",
+    "pos": "noun",
+    "def": "car, automobile"
+  },
+  {
+    "word": "chupar",
+    "pos": "verb",
+    "def": "to drink an alcoholic beverage"
+  },
+  {
+    "word": "comer",
+    "pos": "verb",
+    "def": "to have sexual intercourse (because of similarity to coger)"
+  },
+  {
+    "word": "correr",
+    "pos": "verb",
+    "def": "to throw out; to fire; to expel"
+  },
+  {
+    "word": "pluma",
+    "pos": "noun",
+    "def": "ballpoint pen"
+  },
+  {
+    "word": "lira",
+    "pos": "noun",
+    "def": "guitar"
+  },
+  {
+    "word": "nel",
+    "pos": "adv",
+    "def": "no; no way; nope"
+  },
+  {
+    "word": "pedo",
+    "pos": "noun",
+    "def": "party"
+  },
+  {
+    "word": "ante",
+    "pos": "noun",
+    "def": "tapir (large odd-toed ungulate with a long prehensile upper lip)"
+  },
+  {
+    "word": "fresa",
+    "pos": "noun",
+    "def": "snob"
+  },
+  {
+    "word": "padre",
+    "pos": "adj",
+    "def": "cool, acceptable, easy"
+  },
+  {
+    "word": "pasto",
+    "pos": "noun",
+    "def": "grass"
+  },
+  {
+    "word": "gato",
+    "pos": "noun",
+    "def": "servant"
+  },
+  {
+    "word": "chaqueta",
+    "pos": "noun",
+    "def": "an act of masturbation"
+  },
+  {
+    "word": "mono",
+    "pos": "noun",
+    "def": "doll, puppet"
+  },
+  {
+    "word": "-udo",
+    "pos": "suffix",
+    "def": "forms adjectives and nouns from nouns of parts of the body to indicate that one has a big example or large quantity of such parts"
+  },
+  {
+    "word": "droga",
+    "pos": "noun",
+    "def": "indebtedness, debt"
+  },
+  {
+    "word": "mona",
+    "pos": "noun",
+    "def": "doll, puppet"
+  },
+  {
+    "word": "paste",
+    "pos": "noun",
+    "def": "pasty, pastie (a type of pie or turnover)"
+  },
+  {
+    "word": "culo",
+    "pos": "adj",
+    "def": "cowardly, gutless"
+  },
+  {
+    "word": "va",
+    "pos": "intj",
+    "def": "okay"
+  },
+  {
+    "word": "pinta",
+    "pos": "noun",
+    "def": "jail"
+  },
+  {
+    "word": "lima",
+    "pos": "noun",
+    "def": "sweet lime (fruit)"
+  },
+  {
+    "word": "madre",
+    "pos": "noun",
+    "def": "thing"
+  },
+  {
+    "word": "wey",
+    "pos": "noun",
+    "def": "alternative form of güey"
+  },
+  {
+    "word": "azul",
+    "pos": "noun",
+    "def": "a police officer"
+  },
+  {
+    "word": "pitillo",
+    "pos": "noun",
+    "def": "dick, penis"
+  },
+  {
+    "word": "popote",
+    "pos": "noun",
+    "def": "drinking straw"
+  },
+  {
+    "word": "res",
+    "pos": "noun",
+    "def": "cattle"
+  },
+  {
+    "word": "parar",
+    "pos": "verb",
+    "def": "to stand up"
+  },
+  {
+    "word": "alcatraz",
+    "pos": "noun",
+    "def": "calla lily"
+  },
+  {
+    "word": "freno",
+    "pos": "noun",
+    "def": "braces (device for straightening teeth)"
+  },
+  {
+    "word": "paro",
+    "pos": "noun",
+    "def": "pretext"
+  },
+  {
+    "word": "bolo",
+    "pos": "noun",
+    "def": "goody bag"
+  },
+  {
+    "word": "colonia",
+    "pos": "noun",
+    "def": "neighbourhood"
+  },
+  {
+    "word": "motel",
+    "pos": "noun",
+    "def": "brothel, whorehouse"
+  },
+  {
+    "word": "diablo",
+    "pos": "noun",
+    "def": "crowbar, wrecking bar, jemmy, jimmy, prybar, pinchbar, nail bar"
+  },
+  {
+    "word": "cholo",
+    "pos": "noun",
+    "def": "a poor Mexican, often living in California during the 19th century"
+  },
+  {
+    "word": "camión",
+    "pos": "noun",
+    "def": "bus"
+  },
+  {
+    "word": "cancel",
+    "pos": "noun",
+    "def": "room divider"
+  },
+  {
+    "word": "ladino",
+    "pos": "adj",
+    "def": "mestizo"
+  },
+  {
+    "word": "miss",
+    "pos": "noun",
+    "def": "female teacher"
+  },
+  {
+    "word": "carnal",
+    "pos": "noun",
+    "def": "ellipsis of hermano carnal (“brother by blood”); brother (in opposition to adopted or in-law)"
+  },
+  {
+    "word": "boli",
+    "pos": "noun",
+    "def": "freezie"
+  },
+  {
+    "word": "invite",
+    "pos": "noun",
+    "def": "invite, invitation"
+  },
+  {
+    "word": "federal",
+    "pos": "noun",
+    "def": "a federal law enforcement officer"
+  },
+  {
+    "word": "911",
+    "pos": "name",
+    "def": "911"
+  },
+  {
+    "word": "comal",
+    "pos": "noun",
+    "def": "comal"
+  },
+  {
+    "word": "rai",
+    "pos": "noun",
+    "def": "ride, lift"
+  },
+  {
+    "word": "flauta",
+    "pos": "noun",
+    "def": "a type of fried cylindrical tortilla or taco"
+  },
+  {
+    "word": "volar",
+    "pos": "verb",
+    "def": "to get carried away, to go too far"
+  },
+  {
+    "word": "dorso",
+    "pos": "noun",
+    "def": "backstroke"
+  },
+  {
+    "word": "gabacho",
+    "pos": "noun",
+    "def": "foreigner, gringo, especially from the United States"
+  },
+  {
+    "word": "tache",
+    "pos": "noun",
+    "def": "a line or lines written to cross out something"
+  },
+  {
+    "word": "bueno",
+    "pos": "intj",
+    "def": "expression used when answering the phone, often with the pronunciation /bweˈno/, rather than /ˈbweno/"
+  },
+  {
+    "word": "sé",
+    "pos": "intj",
+    "def": "yes"
+  },
+  {
+    "word": "neta",
+    "pos": "noun",
+    "def": "truth"
+  },
+  {
+    "word": "naco",
+    "pos": "adj",
+    "def": "indigenous; Indian"
+  },
+  {
+    "word": "cantina",
+    "pos": "noun",
+    "def": "saloon, speakeasy, bar"
+  },
+  {
+    "word": "noche",
+    "pos": "adv",
+    "def": "after dark, (late) at night, nocturnally"
+  },
+  {
+    "word": "viejo",
+    "pos": "noun",
+    "def": "guy or man, especially an adult or a male close to adulthood"
+  },
+  {
+    "word": "salón",
+    "pos": "noun",
+    "def": "ellipsis of salón de clases (“classroom”)"
+  },
+  {
+    "word": "coche",
+    "pos": "noun",
+    "def": "car, automobile"
+  },
+  {
+    "word": "clavado",
+    "pos": "adj",
+    "def": "attached, glued"
+  },
+  {
+    "word": "cohete",
+    "pos": "noun",
+    "def": "drunkenness"
+  },
+  {
+    "word": "zacate",
+    "pos": "noun",
+    "def": "grass; forage"
+  },
+  {
+    "word": "zaguán",
+    "pos": "noun",
+    "def": "gate protecting a front yard or patio"
+  },
+  {
+    "word": "raza",
+    "pos": "noun",
+    "def": "people"
+  },
+  {
+    "word": "zíper",
+    "pos": "noun",
+    "def": "zipper, zip fastener"
+  },
+  {
+    "word": "pájaro",
+    "pos": "noun",
+    "def": "penis"
+  },
+  {
+    "word": "yoyo",
+    "pos": "noun",
+    "def": "alternative form of yoyó"
+  },
+  {
+    "word": "paño",
+    "pos": "noun",
+    "def": "rebozo"
+  },
+  {
+    "word": "ultrajar",
+    "pos": "verb",
+    "def": "to rape"
+  },
+  {
+    "word": "maple",
+    "pos": "noun",
+    "def": "maple syrup"
+  },
+  {
+    "word": "dita",
+    "pos": "noun",
+    "def": "debt"
+  },
+  {
+    "word": "hot dog",
+    "pos": "noun",
+    "def": "hot dog (the complete snack, never just the sausage)"
+  },
+  {
+    "word": "joder",
+    "pos": "verb",
+    "def": "to fuck up, smash, wreak, break, damage"
+  },
+  {
+    "word": "vacacionar",
+    "pos": "verb",
+    "def": "to go on vacation"
+  },
+  {
+    "word": "vacacionista",
+    "pos": "noun",
+    "def": "vacationer"
+  },
+  {
+    "word": "sabor",
+    "pos": "noun",
+    "def": "seasoning"
+  },
+  {
+    "word": "jabalí",
+    "pos": "noun",
+    "def": "peccary, javelina"
+  },
+  {
+    "word": "jacal",
+    "pos": "noun",
+    "def": "jacal"
+  },
+  {
+    "word": "jalar",
+    "pos": "verb",
+    "def": "to function properly; to be in working order"
+  },
+  {
+    "word": "jalón",
+    "pos": "noun",
+    "def": "tug; pull; jerk"
+  },
+  {
+    "word": "jarana",
+    "pos": "noun",
+    "def": "a small guitar"
+  },
+  {
+    "word": "jefe",
+    "pos": "noun",
+    "def": "dad, father"
+  },
+  {
+    "word": "jeta",
+    "pos": "noun",
+    "def": "sleep (act)"
+  },
+  {
+    "word": "jícama",
+    "pos": "noun",
+    "def": "jicama (edible root of yam bean)"
+  },
+  {
+    "word": "jícara",
+    "pos": "noun",
+    "def": "calabash"
+  },
+  {
+    "word": "jiote",
+    "pos": "noun",
+    "def": "rash"
+  },
+  {
+    "word": "jitomate",
+    "pos": "noun",
+    "def": "tomato (usually red)"
+  },
+  {
+    "word": "jorongo",
+    "pos": "noun",
+    "def": "full-length poncho"
+  },
+  {
+    "word": "jota",
+    "pos": "noun",
+    "def": "alternative form of joto (“faggot”)"
+  },
+  {
+    "word": "quebrar",
+    "pos": "verb",
+    "def": "to kill"
+  },
+  {
+    "word": "quehacer",
+    "pos": "noun",
+    "def": "homemaking"
+  },
+  {
+    "word": "duro",
+    "pos": "adj",
+    "def": "drunk, tipsy"
+  },
+  {
+    "word": "Genesis",
+    "pos": "noun",
+    "def": "Sega Genesis"
+  },
+  {
+    "word": "chile",
+    "pos": "noun",
+    "def": "a chili pepper"
+  },
+  {
+    "word": "mande",
+    "pos": "intj",
+    "def": "Used as a polite invitation for a person to state what they need, want, etc."
+  },
+  {
+    "word": "llegue",
+    "pos": "noun",
+    "def": "stab; stabbing"
+  },
+  {
+    "word": "rinde",
+    "pos": "noun",
+    "def": "output"
+  },
+  {
+    "word": "tepezcuintle",
+    "pos": "noun",
+    "def": "paca (Agouti paca, large rodent)"
+  },
+  {
+    "word": "taco",
+    "pos": "noun",
+    "def": "heel (of a shoe)"
+  },
+  {
+    "word": "meco",
+    "pos": "adj",
+    "def": "brown-colored"
+  },
+  {
+    "word": "monte",
+    "pos": "noun",
+    "def": "desert"
+  },
+  {
+    "word": "medio",
+    "pos": "noun",
+    "def": "half (one of two equal parts of any whole)"
+  },
+  {
+    "word": "chido",
+    "pos": "adj",
+    "def": "cool, awesome"
+  },
+  {
+    "word": "bote",
+    "pos": "noun",
+    "def": "jail"
+  },
+  {
+    "word": "futbol",
+    "pos": "noun",
+    "def": "alternative form of fútbol"
+  },
+  {
+    "word": "bodega",
+    "pos": "noun",
+    "def": "warehouse (building where goods are stored)"
+  },
+  {
+    "word": "verga",
+    "pos": "intj",
+    "def": "damn!, shit! fuck! damn it!"
+  },
+  {
+    "word": "chela",
+    "pos": "noun",
+    "def": "beer"
+  },
+  {
+    "word": "auch",
+    "pos": "intj",
+    "def": "expression of pain, ouch"
+  },
+  {
+    "word": "nombre",
+    "pos": "intj",
+    "def": "wow!"
+  },
+  {
+    "word": "huitlacoche",
+    "pos": "noun",
+    "def": "corn smut (fungus that affects maize, eaten as a delicacy)"
+  },
+  {
+    "word": "cuitlacoche",
+    "pos": "noun",
+    "def": "corn smut"
+  },
+  {
+    "word": "nieve",
+    "pos": "noun",
+    "def": "ice cream"
+  },
+  {
+    "word": "bara",
+    "pos": "adj",
+    "def": "cheap"
+  },
+  {
+    "word": "toque",
+    "pos": "noun",
+    "def": "toke, puff of marijuana"
+  },
+  {
+    "word": "fon",
+    "pos": "noun",
+    "def": "phone"
+  },
+  {
+    "word": "tope",
+    "pos": "noun",
+    "def": "speed bump"
+  },
+  {
+    "word": "maya",
+    "pos": "noun",
+    "def": "Yucatec Maya language."
+  },
+  {
+    "word": "curro",
+    "pos": "noun",
+    "def": "Andalusian immigrant living in America"
+  },
+  {
+    "word": "zope",
+    "pos": "adj",
+    "def": "idiotic, stupid"
+  },
+  {
+    "word": "avión",
+    "pos": "noun",
+    "def": "hopscotch"
+  },
+  {
+    "word": "barrio",
+    "pos": "noun",
+    "def": "any neighbourhood of the original or ancient part of a city (usually excluding new growth after the 1930s, 40s or 50s, depending on the state or city)"
+  },
+  {
+    "word": "liga",
+    "pos": "noun",
+    "def": "hair tie, ponytail holder, ponytailer, hair elastic, bobble, hair boble"
+  },
+  {
+    "word": "defensa",
+    "pos": "noun",
+    "def": "bumper"
+  },
+  {
+    "word": "platillo",
+    "pos": "noun",
+    "def": "dish (type of prepared food)"
+  },
+  {
+    "word": "tenis",
+    "pos": "noun",
+    "def": "sneaker, trainer, tennis shoe (an athletic shoe)."
+  },
+  {
+    "word": "huella",
+    "pos": "noun",
+    "def": "path, trail"
+  },
+  {
+    "word": "pajarita",
+    "pos": "noun",
+    "def": "bowtie, bow tie"
+  },
+  {
+    "word": "ocupar",
+    "pos": "verb",
+    "def": "to need"
+  },
+  {
+    "word": "sitio",
+    "pos": "noun",
+    "def": "taxi stand"
+  },
+  {
+    "word": "pocho",
+    "pos": "noun",
+    "def": "pocho (Mexican-American assimilated into mainstream American culture)"
+  },
+  {
+    "word": "curar",
+    "pos": "verb",
+    "def": "to laugh, to burst out laughing"
+  },
+  {
+    "word": "chico",
+    "pos": "noun",
+    "def": "white-nosed coati (Nasua Narica)"
+  },
+  {
+    "word": "mamá",
+    "pos": "noun",
+    "def": "a term of affection for a woman"
+  },
+  {
+    "word": "codo",
+    "pos": "adj",
+    "def": "selfish, avaricious, stingy, cheap"
+  },
+  {
+    "word": "bajar",
+    "pos": "verb",
+    "def": "to menstruate."
+  },
+  {
+    "word": "goma",
+    "pos": "noun",
+    "def": "home plate"
+  },
+  {
+    "word": "departamento",
+    "pos": "noun",
+    "def": "apartment, flat"
+  },
+  {
+    "word": "arder",
+    "pos": "verb",
+    "def": "to cause someone resentment or irritation"
+  },
+  {
+    "word": "curso",
+    "pos": "noun",
+    "def": "diarrhea"
+  },
+  {
+    "word": "chichi",
+    "pos": "noun",
+    "def": "boob (breast)"
+  },
+  {
+    "word": "dama",
+    "pos": "noun",
+    "def": "a female member of the court of honor at a quinceañera"
+  },
+  {
+    "word": "barda",
+    "pos": "noun",
+    "def": "fence"
+  },
+  {
+    "word": "cuate",
+    "pos": "noun",
+    "def": "twin (fraternal)"
+  },
+  {
+    "word": "botar",
+    "pos": "verb",
+    "def": "to squander, to blow, to fritter away"
+  },
+  {
+    "word": "compadre",
+    "pos": "noun",
+    "def": "binge drinking or partying companion"
+  },
+  {
+    "word": "cabrón",
+    "pos": "noun",
+    "def": "bastard, motherfucker (compare English jackass)"
+  },
+  {
+    "word": "pendejo",
+    "pos": "noun",
+    "def": "stupid person, idiot"
+  },
+  {
+    "word": "chorizo",
+    "pos": "noun",
+    "def": "petty thief, pickpocket"
+  },
+  {
+    "word": "chingar",
+    "pos": "verb",
+    "def": "to bother, to fuck with"
+  },
+  {
+    "word": "mesquite",
+    "pos": "noun",
+    "def": "alternative spelling of mezquite"
+  },
+  {
+    "word": "madrina",
+    "pos": "noun",
+    "def": "euphemistic form of madriza (“beating, bashing”)"
+  },
+  {
+    "word": "rico",
+    "pos": "adj",
+    "def": "hot, sexy"
+  },
+  {
+    "word": "ejido",
+    "pos": "noun",
+    "def": "a cooperative farm; an ejido"
+  },
+  {
+    "word": "pachuco",
+    "pos": "adj",
+    "def": "flashy, flashily dressed"
+  },
+  {
+    "word": "chingadera",
+    "pos": "noun",
+    "def": "an immoral or illegal act, often with the idea of treason or deceit"
+  },
+  {
+    "word": "arrastrado",
+    "pos": "noun",
+    "def": "groveller, bootlicker, ass-kisser"
+  },
+  {
+    "word": "chamba",
+    "pos": "noun",
+    "def": "work, employment; task"
+  },
+  {
+    "word": "chanclo",
+    "pos": "noun",
+    "def": "galosh"
+  },
+  {
+    "word": "chapucero",
+    "pos": "adj",
+    "def": "dishonest"
+  },
+  {
+    "word": "chongo",
+    "pos": "noun",
+    "def": "bun (hairstyle)"
+  },
+  {
+    "word": "chorro",
+    "pos": "noun",
+    "def": "ton, tons; bunch; pile"
+  },
+  {
+    "word": "averiguar",
+    "pos": "verb",
+    "def": "to argue"
+  },
+  {
+    "word": "parque",
+    "pos": "noun",
+    "def": "ammo"
+  },
+  {
+    "word": "frijol",
+    "pos": "noun",
+    "def": "bean, bean seed"
+  },
+  {
+    "word": "medianoche",
+    "pos": "noun",
+    "def": "hot dog bun"
+  },
+  {
+    "word": "concha",
+    "pos": "noun",
+    "def": "kind of sweet bread that resembles a shell in design and in decoration"
+  },
+  {
+    "word": "enchilada",
+    "pos": "noun",
+    "def": "a meal consisting of tortillas cooked in a chile sauce, comes in several variations"
+  },
+  {
+    "word": "velador",
+    "pos": "noun",
+    "def": "nightstand; bedside table"
+  },
+  {
+    "word": "puñal",
+    "pos": "noun",
+    "def": "a gay man; faggot"
+  },
+  {
+    "word": "hinchar",
+    "pos": "verb",
+    "def": "to inflate or fill with air or liquid"
+  },
+  {
+    "word": "víbora",
+    "pos": "noun",
+    "def": "snake"
+  },
+  {
+    "word": "riata",
+    "pos": "noun",
+    "def": "alternative form of reata (“dick, cock”)"
+  },
+  {
+    "word": "reata",
+    "pos": "noun",
+    "def": "penis"
+  },
+  {
+    "word": "serape",
+    "pos": "noun",
+    "def": "blanket or rug"
+  },
+  {
+    "word": "llanta",
+    "pos": "noun",
+    "def": "fat, protruding belly"
+  },
+  {
+    "word": "pana",
+    "pos": "noun",
+    "def": "dude, friend"
+  },
+  {
+    "word": "bolsa",
+    "pos": "noun",
+    "def": "purse, handbag"
+  },
+  {
+    "word": "Cinco de Mayo",
+    "pos": "name",
+    "def": "Cinco de Mayo"
+  },
+  {
+    "word": "comida corrida",
+    "pos": "noun",
+    "def": "table d’hote, a small meal of several courses at a fixed price eaten between about 1 and 4 p.m."
+  },
+  {
+    "word": "mecate",
+    "pos": "noun",
+    "def": "rope, cord"
+  },
+  {
+    "word": "picar",
+    "pos": "verb",
+    "def": "to sexually penetrate, fuck"
+  },
+  {
+    "word": "panqueque",
+    "pos": "noun",
+    "def": "crepe, pancake"
+  },
+  {
+    "word": "rusa",
+    "pos": "noun",
+    "def": "tit fuck, titwank, titjob (mammary intercourse)"
+  },
+  {
+    "word": "feo",
+    "pos": "adj",
+    "def": "bad, gross, mean, nasty"
+  },
+  {
+    "word": "gripa",
+    "pos": "noun",
+    "def": "alternative form of gripe"
+  },
+  {
+    "word": "huevón",
+    "pos": "noun",
+    "def": "lazy person; loafer"
+  },
+  {
+    "word": "mara",
+    "pos": "noun",
+    "def": "criminal gang"
+  },
+  {
+    "word": "tina",
+    "pos": "noun",
+    "def": "bucket"
+  },
+  {
+    "word": "manis",
+    "pos": "noun",
+    "def": "bro; sis"
+  },
+  {
+    "word": "mula",
+    "pos": "noun",
+    "def": "a smart, somewhat abusive person"
+  },
+  {
+    "word": "bato",
+    "pos": "noun",
+    "def": "chump, punk"
+  },
+  {
+    "word": "cesto",
+    "pos": "noun",
+    "def": "laundry basket, hamper, mesh pop-up hamper (not made of plastic but rather consists of soft material such as polyester and/or cotton)"
+  },
+  {
+    "word": "chinga",
+    "pos": "noun",
+    "def": "work"
+  },
+  {
+    "word": "albur",
+    "pos": "noun",
+    "def": "a kind of humorous wordplay that relies on sexual innuendo; a risqué double entendre"
+  },
+  {
+    "word": "rastrillo",
+    "pos": "noun",
+    "def": "safety razor"
+  },
+  {
+    "word": "gringa",
+    "pos": "noun",
+    "def": "a type of taco filled with cheese, al pastor meat, and pineapple"
+  },
+  {
+    "word": "abarrotería",
+    "pos": "noun",
+    "def": "general store, local shop"
+  },
+  {
+    "word": "abrochar",
+    "pos": "verb",
+    "def": "to fuck"
+  },
+  {
+    "word": "arrachera",
+    "pos": "noun",
+    "def": "the hanger steak, a beef cut from the diaphragm"
+  },
+  {
+    "word": "guacamaya",
+    "pos": "noun",
+    "def": "macaw"
+  },
+  {
+    "word": "hidalgo",
+    "pos": "noun",
+    "def": "the final year that a public servant is in office"
+  },
+  {
+    "word": "intendente",
+    "pos": "noun",
+    "def": "inspector"
+  },
+  {
+    "word": "sapo",
+    "pos": "noun",
+    "def": "flapper valve"
+  },
+  {
+    "word": "tallar",
+    "pos": "verb",
+    "def": "to scrub, to rub in"
+  },
+  {
+    "word": "gomita",
+    "pos": "noun",
+    "def": "gummy, jelly candy"
+  },
+  {
+    "word": "metiche",
+    "pos": "noun",
+    "def": "busybody"
+  },
+  {
+    "word": "granadilla",
+    "pos": "noun",
+    "def": "passion fruit, sweet granadilla, grenadia (specifically Passiflora ligularis)"
+  },
+  {
+    "word": "grullo",
+    "pos": "adj",
+    "def": "having an ashen color"
+  },
+  {
+    "word": "sopa",
+    "pos": "noun",
+    "def": "noodles"
+  },
+  {
+    "word": "tianguis",
+    "pos": "noun",
+    "def": "an indigenous open-air market selling produce, small livestock and artwork"
+  },
+  {
+    "word": "porro",
+    "pos": "noun",
+    "def": "a member of a criminal shock group, mainly targeting student protesters"
+  },
+  {
+    "word": "dese",
+    "pos": "noun",
+    "def": "whatchamacallit, thingamabob"
+  },
+  {
+    "word": "mero",
+    "pos": "adj",
+    "def": "very, plain, simple (used for emphasis)"
+  },
+  {
+    "word": "tita",
+    "pos": "noun",
+    "def": "grandma"
+  },
+  {
+    "word": "tira",
+    "pos": "noun",
+    "def": "cop"
+  },
+  {
+    "word": "mariachi",
+    "pos": "noun",
+    "def": "an instrumental ensemble accompanying other types of popular Mexican dance and song"
+  },
+  {
+    "word": "bola",
+    "pos": "noun",
+    "def": "peso (MXN)."
+  },
+  {
+    "word": "calce",
+    "pos": "noun",
+    "def": "bottom, foot, lower margin (of a page)"
+  },
+  {
+    "word": "güero",
+    "pos": "adj",
+    "def": "having pale skin and/or blond hair; whitey"
+  },
+  {
+    "word": "pinche",
+    "pos": "adj",
+    "def": "fucking, goddamned"
+  },
+  {
+    "word": "cagar",
+    "pos": "verb",
+    "def": "to make a mistake"
+  },
+  {
+    "word": "rabo",
+    "pos": "noun",
+    "def": "buttocks"
+  },
+  {
+    "word": "capitalino",
+    "pos": "adj",
+    "def": "of, from or relating to Mexico City"
+  },
+  {
+    "word": "chale",
+    "pos": "intj",
+    "def": "Interjection that denotes surprise, sadness or disapproval."
+  },
+  {
+    "word": "facha",
+    "pos": "noun",
+    "def": "clothing that's either in poor condition or not appropriate for some occasion"
+  },
+  {
+    "word": "halcón",
+    "pos": "noun",
+    "def": "spotter employed by drug dealers to keep watch on the street"
+  },
+  {
+    "word": "totol",
+    "pos": "noun",
+    "def": "turkey"
+  },
+  {
+    "word": "híjole",
+    "pos": "intj",
+    "def": "son of a!"
+  },
+  {
+    "word": "plátano",
+    "pos": "noun",
+    "def": "banana (fruit)"
+  },
+  {
+    "word": "puerco",
+    "pos": "noun",
+    "def": "police officer; \"pig\""
+  },
+  {
+    "word": "quinceañera",
+    "pos": "noun",
+    "def": "quinceañera (fifteenth birthday celebration for a young woman)"
+  },
+  {
+    "word": "negrito",
+    "pos": "noun",
+    "def": "Citharexylum berlandieri, a Mexican shrub of the vervain family."
+  },
+  {
+    "word": "culear",
+    "pos": "verb",
+    "def": "to fuck (sexually; does not imply anal sex)"
+  },
+  {
+    "word": "abusado",
+    "pos": "adj",
+    "def": "witty, sharp, shrewd"
+  },
+  {
+    "word": "curado",
+    "pos": "adj",
+    "def": "funny, goofy, ridiculous, silly"
+  },
+  {
+    "word": "recibo",
+    "pos": "noun",
+    "def": "bill (for e.g. electricity or water services)"
+  },
+  {
+    "word": "manchar",
+    "pos": "verb",
+    "def": "to sully, to tarnish, to taint, to soil, to besmirch, to smear (one's name, reputation, honour, spirit, etc.)"
+  },
+  {
+    "word": "planchar",
+    "pos": "verb",
+    "def": "to talk or chat romantically with one's girlfriend/boyfriend"
+  },
+  {
+    "word": "acitronar",
+    "pos": "verb",
+    "def": "to fry until translucent, not golden nor crispy"
+  },
+  {
+    "word": "cachar",
+    "pos": "verb",
+    "def": "To discover someone infraganti."
+  },
+  {
+    "word": "pelar",
+    "pos": "verb",
+    "def": "to notice someone, to pay attention to someone"
+  },
+  {
+    "word": "latir",
+    "pos": "verb",
+    "def": "to sound good, to spark interest"
+  },
+  {
+    "word": "apapachar",
+    "pos": "verb",
+    "def": "to cuddle"
+  },
+  {
+    "word": "aplastar",
+    "pos": "verb",
+    "def": "to sit comfortably, especially by slumping down on a seat"
+  },
+  {
+    "word": "arrimar",
+    "pos": "verb",
+    "def": "to stay living on someone's elses house at the expense of them; to live in a person's house by freeloading"
+  },
+  {
+    "word": "bolsear",
+    "pos": "verb",
+    "def": "to pickpocket"
+  },
+  {
+    "word": "bombear",
+    "pos": "verb",
+    "def": "to steal (something)"
+  },
+  {
+    "word": "chambear",
+    "pos": "verb",
+    "def": "to work"
+  },
+  {
+    "word": "ponchar",
+    "pos": "verb",
+    "def": "to puncture (something like a balloon, a ball, a tire, etc.) and make it burst or unusable"
+  },
+  {
+    "word": "pegar",
+    "pos": "verb",
+    "def": "to be intoxicating (of alcohol)"
+  },
+  {
+    "word": "acomodado",
+    "pos": "noun",
+    "def": "a person who had obtained his job by influence or recommendation, not for his own merits"
+  },
+  {
+    "word": "anexo",
+    "pos": "noun",
+    "def": "rehab center"
+  },
+  {
+    "word": "apapacho",
+    "pos": "noun",
+    "def": "cuddle; affectionate hug"
+  },
+  {
+    "word": "desgranar",
+    "pos": "verb",
+    "def": "to have sex, bang, shag"
+  },
+  {
+    "word": "destapar",
+    "pos": "verb",
+    "def": "to reveal a political candidate"
+  },
+  {
+    "word": "encuerar",
+    "pos": "verb",
+    "def": "to fleece, to make someone leave without money"
+  },
+  {
+    "word": "enlistar",
+    "pos": "verb",
+    "def": "to list"
+  },
+  {
+    "word": "enyerbar",
+    "pos": "verb",
+    "def": "to give someone a poisonous drink"
+  },
+  {
+    "word": "batea",
+    "pos": "noun",
+    "def": "bed (of a truck)"
+  },
+  {
+    "word": "chapo",
+    "pos": "noun",
+    "def": "person of short stature"
+  },
+  {
+    "word": "chinche",
+    "pos": "adj",
+    "def": "fricking, dang"
+  },
+  {
+    "word": "conecte",
+    "pos": "noun",
+    "def": "an influential person who offers a job position without merit"
+  },
+  {
+    "word": "corrido",
+    "pos": "noun",
+    "def": "a ballad or folk song; a corrido"
+  },
+  {
+    "word": "desangre",
+    "pos": "noun",
+    "def": "bleeding"
+  },
+  {
+    "word": "destape",
+    "pos": "noun",
+    "def": "disclosure"
+  },
+  {
+    "word": "fundir",
+    "pos": "verb",
+    "def": "to burn out (of lightbulbs and similar light-producing devices)"
+  },
+  {
+    "word": "jalonear",
+    "pos": "verb",
+    "def": "to tug"
+  },
+  {
+    "word": "jefes",
+    "pos": "noun",
+    "def": "parents"
+  },
+  {
+    "word": "fumado",
+    "pos": "adj",
+    "def": "crazy"
+  },
+  {
+    "word": "guardado",
+    "pos": "noun",
+    "def": "hoard, secret saving"
+  },
+  {
+    "word": "guisado",
+    "pos": "noun",
+    "def": "casserole (meal)"
+  },
+  {
+    "word": "madrear",
+    "pos": "verb",
+    "def": "to strongly hit someone/something or beat someone/something up"
+  },
+  {
+    "word": "pepenar",
+    "pos": "verb",
+    "def": "to scrounge"
+  },
+  {
+    "word": "refaccionar",
+    "pos": "verb",
+    "def": "to repair"
+  },
+  {
+    "word": "jale",
+    "pos": "noun",
+    "def": "job, work"
+  },
+  {
+    "word": "calavera",
+    "pos": "noun",
+    "def": "taillight"
+  },
+  {
+    "word": "Cuauhtémoc",
+    "pos": "name",
+    "def": "a male given name from Classical Nahuatl"
+  },
+  {
+    "word": "sobar",
+    "pos": "verb",
+    "def": "to massage (someone's body or a part of a body)"
+  },
+  {
+    "word": "transar",
+    "pos": "verb",
+    "def": "to cheat, swindle, defraud, trick"
+  },
+  {
+    "word": "parado",
+    "pos": "adj",
+    "def": "erect (a penis, when using masculine nouns, preceded by the verb tener or traer)"
+  },
+  {
+    "word": "pelado",
+    "pos": "adj",
+    "def": "obscene, filthy"
+  },
+  {
+    "word": "pepena",
+    "pos": "noun",
+    "def": "collecting, gathering"
+  },
+  {
+    "word": "pulso",
+    "pos": "noun",
+    "def": "aim"
+  },
+  {
+    "word": "mamado",
+    "pos": "adj",
+    "def": "muscular (having well-developed muscles)"
+  },
+  {
+    "word": "mandado",
+    "pos": "noun",
+    "def": "groceries"
+  },
+  {
+    "word": "matado",
+    "pos": "adj",
+    "def": "bookish (lover of reading and or study)"
+  },
+  {
+    "word": "metido",
+    "pos": "adj",
+    "def": "nosy"
+  },
+  {
+    "word": "raspado",
+    "pos": "noun",
+    "def": "snow cone"
+  },
+  {
+    "word": "refrendo",
+    "pos": "noun",
+    "def": "annual vehicle tax"
+  },
+  {
+    "word": "sableo",
+    "pos": "noun",
+    "def": "rip-off"
+  },
+  {
+    "word": "tacha",
+    "pos": "noun",
+    "def": "An apparatus in which sugar cane syrup is evaporated to produce panela"
+  },
+  {
+    "word": "separo",
+    "pos": "noun",
+    "def": "solitary confinement cell"
+  },
+  {
+    "word": "traba",
+    "pos": "noun",
+    "def": "cockfight"
+  },
+  {
+    "word": "transa",
+    "pos": "noun",
+    "def": "loophole"
+  },
+  {
+    "word": "varo",
+    "pos": "noun",
+    "def": "a Mexican peso"
+  },
+  {
+    "word": "acomodarse",
+    "pos": "verb",
+    "def": "achieve good professional, financial or economic stability."
+  },
+  {
+    "word": "resaca",
+    "pos": "noun",
+    "def": "dry stream bed; resaca"
+  },
+  {
+    "word": "locuaz",
+    "pos": "adj",
+    "def": "crazy"
+  },
+  {
+    "word": "tlacuache",
+    "pos": "noun",
+    "def": "opossum"
+  },
+  {
+    "word": "huarache",
+    "pos": "noun",
+    "def": "sandal"
+  },
+  {
+    "word": "piocha",
+    "pos": "noun",
+    "def": "goatee"
+  },
+  {
+    "word": "chinampa",
+    "pos": "noun",
+    "def": "an artificial island used for farming"
+  },
+  {
+    "word": "playera",
+    "pos": "noun",
+    "def": "T-shirt"
+  },
+  {
+    "word": "crudo",
+    "pos": "adj",
+    "def": "hungover"
+  },
+  {
+    "word": "tamal",
+    "pos": "noun",
+    "def": "tamal, tamale"
+  },
+  {
+    "word": "camarón",
+    "pos": "noun",
+    "def": "prick, cock"
+  },
+  {
+    "word": "chiquito",
+    "pos": "noun",
+    "def": "anus"
+  },
+  {
+    "word": "camote",
+    "pos": "noun",
+    "def": "sweet potato"
+  },
+  {
+    "word": "mesero",
+    "pos": "noun",
+    "def": "waiter"
+  },
+  {
+    "word": "AFI",
+    "pos": "name",
+    "def": "acronym of Agencia Federal de Investigación (“Federal Investigation Agency”)"
+  },
+  {
+    "word": "pimiento",
+    "pos": "noun",
+    "def": "ellipsis of pimiento morrón (“bell pepper”)"
+  },
+  {
+    "word": "corpiño",
+    "pos": "noun",
+    "def": "training bra"
+  },
+  {
+    "word": "panocha",
+    "pos": "noun",
+    "def": "coarse brown sugar"
+  },
+  {
+    "word": "menso",
+    "pos": "adj",
+    "def": "foolish, dull"
+  },
+  {
+    "word": "chorrillana",
+    "pos": "noun",
+    "def": "Mexican seafood dish with tomatoes, fish, and vegetables"
+  },
+  {
+    "word": "cañón",
+    "pos": "adj",
+    "def": "powerful, intense, difficult"
+  },
+  {
+    "word": "cuica",
+    "pos": "noun",
+    "def": "marble (toy)"
+  },
+  {
+    "word": "chango",
+    "pos": "noun",
+    "def": "monkey"
+  },
+  {
+    "word": "papagayo",
+    "pos": "noun",
+    "def": "kite"
+  },
+  {
+    "word": "recámara",
+    "pos": "noun",
+    "def": "bedroom"
+  },
+  {
+    "word": "mayate",
+    "pos": "noun",
+    "def": "active (top) homosexual or bisexual"
+  },
+  {
+    "word": "trucha",
+    "pos": "adj",
+    "def": "sharp, clever, cunning"
+  },
+  {
+    "word": "buga",
+    "pos": "noun",
+    "def": "heterosexual (person)"
+  },
+  {
+    "word": "cotorra",
+    "pos": "noun",
+    "def": "an unmarried woman past the normal marrying age according to social traditions"
+  },
+  {
+    "word": "cotorro",
+    "pos": "adj",
+    "def": "pretty, attractive"
+  },
+  {
+    "word": "gamborimbo",
+    "pos": "noun",
+    "def": "dingleberry (a piece of excrement or dirty toilet paper stuck to the anus or the hairs of the anus)"
+  },
+  {
+    "word": "causante",
+    "pos": "noun",
+    "def": "taxpayer"
+  },
+  {
+    "word": "anís",
+    "pos": "noun",
+    "def": "the anus (because of similar sound, compare ano)"
+  },
+  {
+    "word": "prevenir",
+    "pos": "verb",
+    "def": "to prepare"
+  },
+  {
+    "word": "ése",
+    "pos": "pron",
+    "def": "dude, guy, pal, man, buddy; (sometimes) asshole"
+  },
+  {
+    "word": "ocotillo",
+    "pos": "noun",
+    "def": "ocotillo"
+  },
+  {
+    "word": "leño",
+    "pos": "noun",
+    "def": "joint (marijuana cigarette)"
+  },
+  {
+    "word": "güey",
+    "pos": "noun",
+    "def": "chump, punk, dumbass, idiot, jerk"
+  },
+  {
+    "word": "buey",
+    "pos": "noun",
+    "def": "guy, dumb, dude (depends on context and intonation, also denotes surprise, colloquially pronounced güey)"
+  },
+  {
+    "word": "regio",
+    "pos": "adj",
+    "def": "Monterreyan, born in Monterrey, clipping of regiomontano"
+  },
+  {
+    "word": "pico de gallo",
+    "pos": "noun",
+    "def": "pico de gallo (a condiment generally made with diced raw onions, tomatoes, chiles, and cilantro)"
+  },
+  {
+    "word": "cruda",
+    "pos": "noun",
+    "def": "hangover (illness caused by a previous bout of heavy drinking)"
+  },
+  {
+    "word": "endrogarse",
+    "pos": "verb",
+    "def": "to acquire a debt"
+  },
+  {
+    "word": "sándwich",
+    "pos": "noun",
+    "def": "a sandwich only made with sandwich bread"
+  },
+  {
+    "word": "horcón",
+    "pos": "noun",
+    "def": "a forked wooden post used to support the beams of a house"
+  },
+  {
+    "word": "menudo",
+    "pos": "noun",
+    "def": "a traditional Mexican spicy soup made with tripe"
+  },
+  {
+    "word": "tanque",
+    "pos": "noun",
+    "def": "tank (fuel reservoir of a vehicle)"
+  },
+  {
+    "word": "repetir",
+    "pos": "verb",
+    "def": "to burp"
+  },
+  {
+    "word": "caricatura",
+    "pos": "noun",
+    "def": "animated cartoon (especially in plural)"
+  },
+  {
+    "word": "bocina",
+    "pos": "noun",
+    "def": "loudspeaker"
+  },
+  {
+    "word": "mami",
+    "pos": "noun",
+    "def": "a term of affection for a woman"
+  },
+  {
+    "word": "mascar",
+    "pos": "verb",
+    "def": "to sense"
+  },
+  {
+    "word": "cerillo",
+    "pos": "noun",
+    "def": "match (stick)"
+  },
+  {
+    "word": "soya",
+    "pos": "noun",
+    "def": "soya, soybean"
+  },
+  {
+    "word": "aguamiel",
+    "pos": "noun",
+    "def": "agave nectar (sweet liquid secreted by plants of the genus Agave)"
+  },
+  {
+    "word": "aguacate",
+    "pos": "noun",
+    "def": "avocado (fruit)"
+  },
+  {
+    "word": "mueble",
+    "pos": "noun",
+    "def": "car"
+  },
+  {
+    "word": "tejón",
+    "pos": "noun",
+    "def": "white-nosed coati (Nasua narica)"
+  },
+  {
+    "word": "chichigua",
+    "pos": "noun",
+    "def": "wet nurse"
+  },
+  {
+    "word": "jodido",
+    "pos": "adj",
+    "def": "screwed, crappy, fucked"
+  },
+  {
+    "word": "elote",
+    "pos": "noun",
+    "def": "fresh ear of corn"
+  },
+  {
+    "word": "olote",
+    "pos": "noun",
+    "def": "corncob"
+  },
+  {
+    "word": "prieto",
+    "pos": "adj",
+    "def": "black"
+  },
+  {
+    "word": "enterrar",
+    "pos": "verb",
+    "def": "to stick (press something with a sharp point into something else)"
+  },
+  {
+    "word": "nalguear",
+    "pos": "verb",
+    "def": "to spank"
+  },
+  {
+    "word": "pisto",
+    "pos": "noun",
+    "def": "hard liquor"
+  },
+  {
+    "word": "ascensor",
+    "pos": "noun",
+    "def": "elevator, lift"
+  },
+  {
+    "word": "órgano",
+    "pos": "noun",
+    "def": "a general term for certain types of cactus"
+  },
+  {
+    "word": "crucero",
+    "pos": "noun",
+    "def": "crossing, crossroads, intersection (an intersection where roads cross)"
+  },
+  {
+    "word": "pusi",
+    "pos": "noun",
+    "def": "pussy, vagina, vulva"
+  },
+  {
+    "word": "chapulín",
+    "pos": "noun",
+    "def": "grasshopper, locust, especially when toasted as food"
+  },
+  {
+    "word": "pompa",
+    "pos": "noun",
+    "def": "buttock"
+  },
+  {
+    "word": "foco",
+    "pos": "noun",
+    "def": "light bulb"
+  },
+  {
+    "word": "calabaza",
+    "pos": "noun",
+    "def": "gourd, pumpkin"
+  },
+  {
+    "word": "moño",
+    "pos": "noun",
+    "def": "bow (of ribbon)"
+  },
+  {
+    "word": "tecolote",
+    "pos": "noun",
+    "def": "owl"
+  },
+  {
+    "word": "chalupa",
+    "pos": "noun",
+    "def": "two-man canoe"
+  },
+  {
+    "word": "sótano",
+    "pos": "noun",
+    "def": "pit"
+  },
+  {
+    "word": "machorra",
+    "pos": "noun",
+    "def": "tomboy, virago"
+  },
+  {
+    "word": "norteño",
+    "pos": "adj",
+    "def": "incestuous"
+  },
+  {
+    "word": "penoso",
+    "pos": "adj",
+    "def": "timid, easily embarrassed"
+  },
+  {
+    "word": "moler",
+    "pos": "verb",
+    "def": "to annoy, bother"
+  },
+  {
+    "word": "guajolote",
+    "pos": "noun",
+    "def": "turkey (bird)"
+  },
+  {
+    "word": "guanajo",
+    "pos": "noun",
+    "def": "fool (moron)"
+  },
+  {
+    "word": "lola",
+    "pos": "noun",
+    "def": "breasts, bosom, boobies, knockers"
+  },
+  {
+    "word": "aigre",
+    "pos": "noun",
+    "def": "alternative form of aire (“air”)"
+  },
+  {
+    "word": "tostón",
+    "pos": "noun",
+    "def": "a coin or a banknote worth 50 Mexican pesos"
+  },
+  {
+    "word": "extensión",
+    "pos": "noun",
+    "def": "extension cord (US), extension lead (UK), power extender, drop cord"
+  },
+  {
+    "word": "cubeta",
+    "pos": "noun",
+    "def": "bucket, pail (container)"
+  },
+  {
+    "word": "pisca",
+    "pos": "noun",
+    "def": "harvesting (of coffee, cotton and corn in particular)"
+  },
+  {
+    "word": "mordida",
+    "pos": "noun",
+    "def": "bribe"
+  },
+  {
+    "word": "pachanga",
+    "pos": "noun",
+    "def": "party, bash"
+  },
+  {
+    "word": "joto",
+    "pos": "noun",
+    "def": "gay (male homosexual)"
+  },
+  {
+    "word": "petaca",
+    "pos": "noun",
+    "def": "suitcase"
+  },
+  {
+    "word": "antro",
+    "pos": "noun",
+    "def": "dive, club (disreputable nightclub)"
+  },
+  {
+    "word": "acordeón",
+    "pos": "noun",
+    "def": "a cheat sheet folded like an accordion"
+  },
+  {
+    "word": "banqueta",
+    "pos": "noun",
+    "def": "sidewalk"
+  },
+  {
+    "word": "carriola",
+    "pos": "noun",
+    "def": "stroller; pram; baby carriage"
+  },
+  {
+    "word": "faceto",
+    "pos": "adj",
+    "def": "witty, humorous, facetious"
+  },
+  {
+    "word": "lechero",
+    "pos": "noun",
+    "def": "milk coffee"
+  },
+  {
+    "word": "cocotazo",
+    "pos": "noun",
+    "def": "hit on the head with the knuckles"
+  },
+  {
+    "word": "cafetería",
+    "pos": "noun",
+    "def": "diner"
+  },
+  {
+    "word": "depa",
+    "pos": "noun",
+    "def": "clipping of departamento (“apartment”)"
+  },
+  {
+    "word": "pensión",
+    "pos": "noun",
+    "def": "overnight parking"
+  },
+  {
+    "word": "güiro",
+    "pos": "noun",
+    "def": "kid"
+  },
+  {
+    "word": "estética",
+    "pos": "noun",
+    "def": "hair salon, beauty parlor"
+  },
+  {
+    "word": "cojudo",
+    "pos": "adj",
+    "def": "silly; foolish"
+  },
+  {
+    "word": "carretear",
+    "pos": "verb",
+    "def": "to taxi a plane"
+  },
+  {
+    "word": "migra",
+    "pos": "noun",
+    "def": "border patrol; immigration authorities, especially the U.S. Customs and Border Protection or U.S. Immigration and Customs Enforcement."
+  },
+  {
+    "word": "tabique",
+    "pos": "noun",
+    "def": "brick"
+  },
+  {
+    "word": "vato",
+    "pos": "noun",
+    "def": "guy; dude; boyfriend; significant other"
+  },
+  {
+    "word": "mijo",
+    "pos": "noun",
+    "def": "friend, guy"
+  },
+  {
+    "word": "coscorrón",
+    "pos": "noun",
+    "def": "alcoholic beverage, usually tequila, mixed with soda and served in a little thin glass that is consumed in one shot after hitting the bottom of the glass against the table"
+  },
+  {
+    "word": "escuincle",
+    "pos": "noun",
+    "def": "kid, little boy"
+  },
+  {
+    "word": "obscuro",
+    "pos": "adj",
+    "def": "alternative form of oscuro"
+  },
+  {
+    "word": "tlalcoyote",
+    "pos": "noun",
+    "def": "American badger"
+  },
+  {
+    "word": "cantada",
+    "pos": "noun",
+    "def": "singing"
+  },
+  {
+    "word": "INAH",
+    "pos": "name",
+    "def": "initialism of Instituto Nacional de Antropología e Historia (National Institute of Anthropology and History)"
+  },
+  {
+    "word": "peludo",
+    "pos": "noun",
+    "def": "drunkenness"
+  },
+  {
+    "word": "tronar",
+    "pos": "verb",
+    "def": "to kill (someone)"
+  },
+  {
+    "word": "piquera",
+    "pos": "noun",
+    "def": "dive, hole (a seedy bar, nightclub, etc.)"
+  },
+  {
+    "word": "fuchi",
+    "pos": "intj",
+    "def": "yuck; eww"
+  },
+  {
+    "word": "suera",
+    "pos": "noun",
+    "def": "pullover, sweater, jumper"
+  },
+  {
+    "word": "abarrote",
+    "pos": "noun",
+    "def": "groceries"
+  },
+  {
+    "word": "drogado",
+    "pos": "adj",
+    "def": "indebted"
+  },
+  {
+    "word": "piruja",
+    "pos": "noun",
+    "def": "prostitute"
+  },
+  {
+    "word": "sepa",
+    "pos": "phrase",
+    "def": "dunno, who knows"
+  },
+  {
+    "word": "gacho",
+    "pos": "adj",
+    "def": "bad, mean, nasty, rude, cruel"
+  },
+  {
+    "word": "ojete",
+    "pos": "noun",
+    "def": "asshole, dumbass"
+  },
+  {
+    "word": "chispa",
+    "pos": "adj",
+    "def": "funny"
+  },
+  {
+    "word": "refresco",
+    "pos": "noun",
+    "def": "soda, soft drink"
+  },
+  {
+    "word": "periférico",
+    "pos": "noun",
+    "def": "beltway, bypass (road)"
+  },
+  {
+    "word": "volador",
+    "pos": "noun",
+    "def": "a dancer in the Danza de los Voladores"
+  },
+  {
+    "word": "chuparrosa",
+    "pos": "noun",
+    "def": "hummingbird"
+  },
+  {
+    "word": "gis",
+    "pos": "noun",
+    "def": "chalk (a piece of chalk used for drawing and on a blackboard)"
+  },
+  {
+    "word": "a huevo",
+    "pos": "adv",
+    "def": "forcedly having no choice and with great effort"
+  },
+  {
+    "word": "empeño",
+    "pos": "noun",
+    "def": "pawnshop"
+  },
+  {
+    "word": "boludo",
+    "pos": "adj",
+    "def": "having the shape of a bola (ball, sphere)"
+  },
+  {
+    "word": "camellón",
+    "pos": "noun",
+    "def": "median; a dividing strip between two lanes of a road"
+  },
+  {
+    "word": "elevador",
+    "pos": "noun",
+    "def": "lift (UK), elevator (US)"
+  },
+  {
+    "word": "camotear",
+    "pos": "verb",
+    "def": "to wander with no specific purpose in mind"
+  },
+  {
+    "word": "chisparse",
+    "pos": "verb",
+    "def": "to escape"
+  },
+  {
+    "word": "pimiento morrón",
+    "pos": "noun",
+    "def": "bell pepper, sweet pepper"
+  },
+  {
+    "word": "taponear",
+    "pos": "verb",
+    "def": "to plug"
+  },
+  {
+    "word": "tuerca",
+    "pos": "noun",
+    "def": "penis"
+  },
+  {
+    "word": "fontanero",
+    "pos": "noun",
+    "def": "plumber"
+  },
+  {
+    "word": "mapache",
+    "pos": "noun",
+    "def": "electoral thief or fraudster"
+  },
+  {
+    "word": "PDC",
+    "pos": "noun",
+    "def": "initialism of Playa del Carmen"
+  },
+  {
+    "word": "mocasín",
+    "pos": "noun",
+    "def": "booger, bogey (see moco)"
+  },
+  {
+    "word": "azteca",
+    "pos": "adj",
+    "def": "Mexican, related to Mexico"
+  },
+  {
+    "word": "buzo",
+    "pos": "adj",
+    "def": "witty, sharp."
+  },
+  {
+    "word": "preparatoria",
+    "pos": "noun",
+    "def": "high school"
+  },
+  {
+    "word": "apretado",
+    "pos": "adj",
+    "def": "conceited, self-important, stuck-up"
+  },
+  {
+    "word": "tarro",
+    "pos": "noun",
+    "def": "mug (of beer)"
+  },
+  {
+    "word": "pitaya",
+    "pos": "noun",
+    "def": "alternative form of pitahaya (“dragon fruit”)"
+  },
+  {
+    "word": "fistol",
+    "pos": "noun",
+    "def": "tiepin, scarfpin"
+  },
+  {
+    "word": "alacena",
+    "pos": "noun",
+    "def": "pantry, larder"
+  },
+  {
+    "word": "alberca",
+    "pos": "noun",
+    "def": "swimming pool"
+  },
+  {
+    "word": "tacón",
+    "pos": "noun",
+    "def": "high heel"
+  },
+  {
+    "word": "ampolleta",
+    "pos": "noun",
+    "def": "ampoule"
+  },
+  {
+    "word": "libreto",
+    "pos": "noun",
+    "def": "script"
+  },
+  {
+    "word": "cocho",
+    "pos": "noun",
+    "def": "pig; swine"
+  },
+  {
+    "word": "alentar",
+    "pos": "verb",
+    "def": "to become or behave as a shy, shameful or fearful person"
+  },
+  {
+    "word": "sendo",
+    "pos": "adj",
+    "def": "great, of large proportions"
+  },
+  {
+    "word": "buró",
+    "pos": "noun",
+    "def": "a nightstand"
+  },
+  {
+    "word": "choro",
+    "pos": "noun",
+    "def": "lip service, empty talk"
+  },
+  {
+    "word": "galán",
+    "pos": "adj",
+    "def": "nice, enviable, without worries (said of a situation)"
+  },
+  {
+    "word": "nacatamal",
+    "pos": "noun",
+    "def": "a tamale filled with pork or chicken, rice, potatoes, herbs, spices, and other ingredients"
+  },
+  {
+    "word": "chaparro",
+    "pos": "noun",
+    "def": "netleaf oak (Quercus rugosa)"
+  },
+  {
+    "word": "pedorro",
+    "pos": "adj",
+    "def": "low-quality, crappy, especially if disappointingly"
+  },
+  {
+    "word": "culero",
+    "pos": "adj",
+    "def": "shitty, ugly"
+  },
+  {
+    "word": "reguero",
+    "pos": "noun",
+    "def": "mess, clutter (group of things in a disorganised state)"
+  },
+  {
+    "word": "regadera",
+    "pos": "noun",
+    "def": "shower head, showerhead"
+  },
+  {
+    "word": "chachalaca",
+    "pos": "noun",
+    "def": "babbler, yapper"
+  },
+  {
+    "word": "lero",
+    "pos": "intj",
+    "def": "used to indicate mockery"
+  },
+  {
+    "word": "topar",
+    "pos": "verb",
+    "def": "to finish (a videogame)"
+  },
+  {
+    "word": "aventón",
+    "pos": "noun",
+    "def": "ride, lift"
+  },
+  {
+    "word": "duela",
+    "pos": "noun",
+    "def": "floorboard"
+  },
+  {
+    "word": "loquear",
+    "pos": "verb",
+    "def": "to lock"
+  },
+  {
+    "word": "joda",
+    "pos": "noun",
+    "def": "annoyance"
+  },
+  {
+    "word": "apuntado",
+    "pos": "adj",
+    "def": "willing"
+  },
+  {
+    "word": "chocho",
+    "pos": "noun",
+    "def": "pill"
+  },
+  {
+    "word": "mamada",
+    "pos": "noun",
+    "def": "bullshit; horseshit; fuckery; bollocks; an intentional mean action or statement; a stupid action or statement; a practical joke"
+  },
+  {
+    "word": "licuado",
+    "pos": "noun",
+    "def": "smoothie"
+  },
+  {
+    "word": "arrancado",
+    "pos": "adj",
+    "def": "penniless; impoverished"
+  },
+  {
+    "word": "alzado",
+    "pos": "adj",
+    "def": "feral"
+  },
+  {
+    "word": "chingado",
+    "pos": "adj",
+    "def": "fucking"
+  },
+  {
+    "word": "chingaste",
+    "pos": "noun",
+    "def": "the dregs or sediment of beverages, especially of coffee"
+  },
+  {
+    "word": "chingo",
+    "pos": "noun",
+    "def": "a large amount of something, a shitload"
+  },
+  {
+    "word": "aguado",
+    "pos": "adj",
+    "def": "stale (no longer crisp or crunchy)"
+  },
+  {
+    "word": "simón",
+    "pos": "intj",
+    "def": "yes, hell yeah (commonly used to respond affirmatively to a question)"
+  },
+  {
+    "word": "encierre",
+    "pos": "noun",
+    "def": "synonym of encierro"
+  },
+  {
+    "word": "karcher",
+    "pos": "noun",
+    "def": "pressure washer"
+  },
+  {
+    "word": "chales",
+    "pos": "intj",
+    "def": "Alternate form of chale"
+  },
+  {
+    "word": "agazapado",
+    "pos": "adj",
+    "def": "hypocritical; two-faced"
+  },
+  {
+    "word": "golfa",
+    "pos": "noun",
+    "def": "a slut, tramp, or whore"
+  },
+  {
+    "word": "chinini",
+    "pos": "noun",
+    "def": "alternative form of chinín (tree)"
+  },
+  {
+    "word": "cantón",
+    "pos": "noun",
+    "def": "home, crib"
+  },
+  {
+    "word": "allanamiento",
+    "pos": "noun",
+    "def": "break-in"
+  },
+  {
+    "word": "cuarta",
+    "pos": "noun",
+    "def": "synonym of látigo (a short horse whip)"
+  },
+  {
+    "word": "tuza",
+    "pos": "noun",
+    "def": "gopher"
+  },
+  {
+    "word": "górgoro",
+    "pos": "noun",
+    "def": "sip, small drink"
+  },
+  {
+    "word": "onza",
+    "pos": "noun",
+    "def": "weasel (Mustela spp.)"
+  },
+  {
+    "word": "chabacano",
+    "pos": "noun",
+    "def": "apricot"
+  },
+  {
+    "word": "equis",
+    "pos": "adj",
+    "def": "meh"
+  },
+  {
+    "word": "chícharo",
+    "pos": "noun",
+    "def": "pea"
+  },
+  {
+    "word": "refresco normal",
+    "pos": "noun",
+    "def": "a non-diet, 600 milliliters soft drink or soda beverage"
+  },
+  {
+    "word": "epa",
+    "pos": "intj",
+    "def": "hey!"
+  },
+  {
+    "word": "tilcuate",
+    "pos": "noun",
+    "def": "Middle American indigo snake (Drymarchon melanurus)"
+  },
+  {
+    "word": "cantil",
+    "pos": "noun",
+    "def": "a type of venomous snake, Agkistrodon bilineatus"
+  },
+  {
+    "word": "morra",
+    "pos": "noun",
+    "def": "female equivalent of morro (“kid”), young girl"
+  },
+  {
+    "word": "chueco",
+    "pos": "adj",
+    "def": "hot, stolen"
+  },
+  {
+    "word": "mocho",
+    "pos": "adj",
+    "def": "having a hypocritical and ostentatious faith"
+  },
+  {
+    "word": "bisnes",
+    "pos": "name",
+    "def": "business (a person's occupation, work, or trade)"
+  },
+  {
+    "word": "mamón",
+    "pos": "noun",
+    "def": "jerk, stupid person, dumbass, bastard, dickhead"
+  },
+  {
+    "word": "bombón",
+    "pos": "noun",
+    "def": "marshmallow"
+  },
+  {
+    "word": "privada",
+    "pos": "noun",
+    "def": "cul-de-sac"
+  },
+  {
+    "word": "tito",
+    "pos": "noun",
+    "def": "grandfather, grandpa"
+  },
+  {
+    "word": "guacho",
+    "pos": "noun",
+    "def": "a soldier"
+  },
+  {
+    "word": "vientos",
+    "pos": "adv",
+    "def": "synonym of bien"
+  },
+  {
+    "word": "timba",
+    "pos": "noun",
+    "def": "belly"
+  },
+  {
+    "word": "cantinas",
+    "pos": "noun",
+    "def": "saddlebag"
+  },
+  {
+    "word": "cobija",
+    "pos": "noun",
+    "def": "blanket"
+  },
+  {
+    "word": "ANDA",
+    "pos": "name",
+    "def": "acronym of Asociación Nacional de Actores (“National Association of Actors”)"
+  },
+  {
+    "word": "cambiador",
+    "pos": "noun",
+    "def": "switchman"
+  },
+  {
+    "word": "pibil",
+    "pos": "adj",
+    "def": "Wrapped in banana or plantain leaves and cooked underground"
+  },
+  {
+    "word": "resbaloso",
+    "pos": "adj",
+    "def": "flirtatious"
+  },
+  {
+    "word": "hule",
+    "pos": "noun",
+    "def": "rubber tree"
+  },
+  {
+    "word": "callejero",
+    "pos": "noun",
+    "def": "a person who often goes out for unproductive activities"
+  },
+  {
+    "word": "narcocorrido",
+    "pos": "noun",
+    "def": "narcocorrido"
+  },
+  {
+    "word": "chon",
+    "pos": "noun",
+    "def": "underpants, panties (of men or women)"
+  },
+  {
+    "word": "lagartija",
+    "pos": "noun",
+    "def": "push-up, press-up"
+  },
+  {
+    "word": "molinillo",
+    "pos": "noun",
+    "def": "pepper mill"
+  },
+  {
+    "word": "chiclero",
+    "pos": "noun",
+    "def": "a person who extracts gum from wild or cultivated trees"
+  },
+  {
+    "word": "pompis",
+    "pos": "noun",
+    "def": "butt (buttocks)"
+  },
+  {
+    "word": "cajuela",
+    "pos": "noun",
+    "def": "trunk, boot (of a car)"
+  },
+  {
+    "word": "compa",
+    "pos": "noun",
+    "def": "buddy"
+  },
+  {
+    "word": "paliacate",
+    "pos": "noun",
+    "def": "a brightly colored scarf or handkerchief"
+  },
+  {
+    "word": "perro de agua",
+    "pos": "noun",
+    "def": "otter"
+  },
+  {
+    "word": "gachupín",
+    "pos": "noun",
+    "def": "Spaniard"
+  },
+  {
+    "word": "chiche",
+    "pos": "noun",
+    "def": "breast (female organs)"
+  },
+  {
+    "word": "barajear",
+    "pos": "verb",
+    "def": "to shuffle (mix up cards in a random order)"
+  },
+  {
+    "word": "tequilería",
+    "pos": "noun",
+    "def": "tequila distillery"
+  },
+  {
+    "word": "brasero",
+    "pos": "noun",
+    "def": "camp stove"
+  },
+  {
+    "word": "bronca",
+    "pos": "noun",
+    "def": "problem"
+  },
+  {
+    "word": "campechano",
+    "pos": "adj",
+    "def": "mixed, containing a mixture of different types"
+  },
+  {
+    "word": "yaca",
+    "pos": "noun",
+    "def": "breadfruit"
+  },
+  {
+    "word": "cantera",
+    "pos": "noun",
+    "def": "tuff"
+  },
+  {
+    "word": "charro",
+    "pos": "noun",
+    "def": "a traditional postindependence Mexican horseman"
+  },
+  {
+    "word": "charros",
+    "pos": "intj",
+    "def": "Used to express irritation or surprise."
+  },
+  {
+    "word": "culantro",
+    "pos": "noun",
+    "def": "culantro (Eryngium foetidum)"
+  },
+  {
+    "word": "palapa",
+    "pos": "noun",
+    "def": "a thatched roof"
+  },
+  {
+    "word": "boliche",
+    "pos": "noun",
+    "def": "bowling alley"
+  },
+  {
+    "word": "piloncillo",
+    "pos": "noun",
+    "def": "panela (unrefined sugar product)"
+  },
+  {
+    "word": "trastienda",
+    "pos": "noun",
+    "def": "buttocks"
+  },
+  {
+    "word": "tamarindo",
+    "pos": "noun",
+    "def": "An officer of the transit police"
+  },
+  {
+    "word": "caballito",
+    "pos": "noun",
+    "def": "shot (small serving of drink)"
+  },
+  {
+    "word": "fraccionamiento",
+    "pos": "noun",
+    "def": "a kind of neighbourhood"
+  },
+  {
+    "word": "pambol",
+    "pos": "noun",
+    "def": "soccer"
+  },
+  {
+    "word": "lonche",
+    "pos": "noun",
+    "def": "a sandwich on a roll, a torta"
+  },
+  {
+    "word": "vergas",
+    "pos": "adj",
+    "def": "awesome"
+  },
+  {
+    "word": "pincel",
+    "pos": "noun",
+    "def": "cornflower"
+  },
+  {
+    "word": "pegajosa",
+    "pos": "noun",
+    "def": "gumhead, Gymnosperma glutinosa"
+  },
+  {
+    "word": "azucarera",
+    "pos": "noun",
+    "def": "sugar container"
+  },
+  {
+    "word": "petate",
+    "pos": "noun",
+    "def": "a rustic cot"
+  },
+  {
+    "word": "bolillo",
+    "pos": "noun",
+    "def": "type of bread"
+  },
+  {
+    "word": "ababillarse",
+    "pos": "verb",
+    "def": "to be sick with the stifle (of horses and other quadrupeds)"
+  },
+  {
+    "word": "argüende",
+    "pos": "noun",
+    "def": "gossip"
+  },
+  {
+    "word": "atole",
+    "pos": "noun",
+    "def": "atole, a thick, sweet, corn-based drink or gruel served hot"
+  },
+  {
+    "word": "cheve",
+    "pos": "noun",
+    "def": "beer"
+  },
+  {
+    "word": "argüendear",
+    "pos": "verb",
+    "def": "to gossip"
+  },
+  {
+    "word": "piquete",
+    "pos": "noun",
+    "def": "a small or medium amount of a strong alcoholic beverage (usually tequila, rum or brandy) poured in a non-alcoholic beverage, such as punch, coffee, juice, soda beverage, etc."
+  },
+  {
+    "word": "betún",
+    "pos": "noun",
+    "def": "a mixture of egg white and sugar for pastries"
+  },
+  {
+    "word": "taco de ojo",
+    "pos": "noun",
+    "def": "a good or pleasant sight; a sight for sore eyes"
+  },
+  {
+    "word": "echarse al plato",
+    "pos": "verb",
+    "def": "to eat, eat up, devour; to consume"
+  },
+  {
+    "word": "frigobar",
+    "pos": "noun",
+    "def": "minibar"
+  },
+  {
+    "word": "búmeran",
+    "pos": "noun",
+    "def": "alternative form of bumerán"
+  },
+  {
+    "word": "tenate",
+    "pos": "noun",
+    "def": "tenate"
+  },
+  {
+    "word": "ostión",
+    "pos": "noun",
+    "def": "oyster (particularly from genus Crassostrea), specially when prepared or served for food"
+  },
+  {
+    "word": "antiamericanismo",
+    "pos": "noun",
+    "def": "Opposition or disdain towards the Club América"
+  },
+  {
+    "word": "brasier",
+    "pos": "noun",
+    "def": "bra"
+  },
+  {
+    "word": "interior de la República",
+    "pos": "noun",
+    "def": "the national territories outside of the capital territory or city"
+  },
+  {
+    "word": "guateque",
+    "pos": "noun",
+    "def": "a joyful social gathering with dancing and drinking"
+  },
+  {
+    "word": "amague",
+    "pos": "noun",
+    "def": "false lead or hint; a feint"
+  },
+  {
+    "word": "tatemar",
+    "pos": "verb",
+    "def": "to roast, to grill"
+  },
+  {
+    "word": "amá",
+    "pos": "noun",
+    "def": "apheretic form of mamá (“mom”)"
+  },
+  {
+    "word": "chipote",
+    "pos": "noun",
+    "def": "bump on the head"
+  },
+  {
+    "word": "palito",
+    "pos": "noun",
+    "def": "sexual intercourse"
+  },
+  {
+    "word": "rola",
+    "pos": "noun",
+    "def": "a song"
+  },
+  {
+    "word": "madrugador",
+    "pos": "noun",
+    "def": "small bird of the tyrant flycatcher family"
+  },
+  {
+    "word": "papalote",
+    "pos": "noun",
+    "def": "kite (toy)"
+  },
+  {
+    "word": "alegato",
+    "pos": "noun",
+    "def": "dispute, discussion"
+  },
+  {
+    "word": "mandilón",
+    "pos": "noun",
+    "def": "henpecked husband (powerless married man) (man who complies with every desire of his partner in order to avoid conflict)"
+  },
+  {
+    "word": "UDI",
+    "pos": "noun",
+    "def": "initialism of unidad de inversión"
+  },
+  {
+    "word": "chesco",
+    "pos": "noun",
+    "def": "soft drink"
+  },
+  {
+    "word": "checar",
+    "pos": "verb",
+    "def": "alternative form of chequear"
+  },
+  {
+    "word": "estadunidense",
+    "pos": "adj",
+    "def": "alternative form of estadounidense"
+  },
+  {
+    "word": "nerdo",
+    "pos": "noun",
+    "def": "nerd"
+  },
+  {
+    "word": "chafa",
+    "pos": "adj",
+    "def": "cheap, low quality; lame"
+  },
+  {
+    "word": "teto",
+    "pos": "adj",
+    "def": "silly; immature; childishly foolish"
+  },
+  {
+    "word": "morro",
+    "pos": "noun",
+    "def": "Mexican calabash (Crescentia alata)"
+  },
+  {
+    "word": "chamorro",
+    "pos": "noun",
+    "def": "shank (of pork, beef, etc.), e.g. 'chamorro de puerco', pork shank"
+  },
+  {
+    "word": "cachucha",
+    "pos": "noun",
+    "def": "baseball cap"
+  },
+  {
+    "word": "pizarrín",
+    "pos": "noun",
+    "def": "the penis"
+  },
+  {
+    "word": "canilla",
+    "pos": "noun",
+    "def": "faucet"
+  },
+  {
+    "word": "peda",
+    "pos": "noun",
+    "def": "drunkenness"
+  },
+  {
+    "word": "edecán",
+    "pos": "noun",
+    "def": "attendant; assistant; aide"
+  },
+  {
+    "word": "campamocha",
+    "pos": "noun",
+    "def": "green praying mantis"
+  },
+  {
+    "word": "allicito",
+    "pos": "adv",
+    "def": "synonym of allacito (“nearer than there; right over there”)"
+  },
+  {
+    "word": "fierro",
+    "pos": "noun",
+    "def": "weapon"
+  },
+  {
+    "word": "9-1-1",
+    "pos": "name",
+    "def": "9-1-1"
+  },
+  {
+    "word": "pitufo",
+    "pos": "noun",
+    "def": "20-peso note (after the blue color of the note)"
+  },
+  {
+    "word": "chicloso",
+    "pos": "adj",
+    "def": "clingy"
+  },
+  {
+    "word": "botellón",
+    "pos": "noun",
+    "def": "demijohn"
+  },
+  {
+    "word": "chapopote",
+    "pos": "noun",
+    "def": "tar"
+  },
+  {
+    "word": "cuina",
+    "pos": "noun",
+    "def": "queen (playing card)"
+  },
+  {
+    "word": "guaje",
+    "pos": "adj",
+    "def": "foolish, stupid"
+  },
+  {
+    "word": "chairo",
+    "pos": "noun",
+    "def": "a person with left-wing views; a lefty."
+  },
+  {
+    "word": "locación",
+    "pos": "noun",
+    "def": "location"
+  },
+  {
+    "word": "asigún",
+    "pos": "prep",
+    "def": "synonym of según"
+  },
+  {
+    "word": "zacatuche",
+    "pos": "noun",
+    "def": "volcano rabbit"
+  },
+  {
+    "word": "fucha",
+    "pos": "intj",
+    "def": "yuck!; eww!"
+  },
+  {
+    "word": "hueva",
+    "pos": "noun",
+    "def": "sloth, laziness"
+  },
+  {
+    "word": "ajolote",
+    "pos": "noun",
+    "def": "tadpole"
+  },
+  {
+    "word": "volantín",
+    "pos": "noun",
+    "def": "kite (flying toy on string)"
+  },
+  {
+    "word": "raite",
+    "pos": "noun",
+    "def": "ride, lift"
+  },
+  {
+    "word": "queque",
+    "pos": "noun",
+    "def": "ass, arse, butt"
+  },
+  {
+    "word": "reclusorio",
+    "pos": "noun",
+    "def": "prison"
+  },
+  {
+    "word": "troca",
+    "pos": "noun",
+    "def": "pickup truck"
+  },
+  {
+    "word": "luneta",
+    "pos": "noun",
+    "def": "a lens-shaped colour-varied sugar-coated chocolate confectionery"
+  },
+  {
+    "word": "rompope",
+    "pos": "noun",
+    "def": "rompope"
+  },
+  {
+    "word": "sempasúchil",
+    "pos": "noun",
+    "def": "alternative spelling of cempasúchil"
+  },
+  {
+    "word": "zempasúchil",
+    "pos": "noun",
+    "def": "alternative spelling of cempasúchil"
+  },
+  {
+    "word": "malvavisco",
+    "pos": "noun",
+    "def": "marsh mallow"
+  },
+  {
+    "word": "básquet",
+    "pos": "noun",
+    "def": "basketball (sport)"
+  },
+  {
+    "word": "picha",
+    "pos": "noun",
+    "def": "cunt"
+  },
+  {
+    "word": "ñengo",
+    "pos": "adj",
+    "def": "sickly, stunted, weak"
+  },
+  {
+    "word": "ñango",
+    "pos": "adj",
+    "def": "alternative form of ñengo"
+  },
+  {
+    "word": "demonial",
+    "pos": "noun",
+    "def": "shedload; bucketful"
+  },
+  {
+    "word": "pichel",
+    "pos": "noun",
+    "def": "water jug"
+  },
+  {
+    "word": "deveras",
+    "pos": "adv",
+    "def": "alternative form of de veras (“really, truly”)"
+  },
+  {
+    "word": "cachureco",
+    "pos": "adj",
+    "def": "crooked, twisted"
+  },
+  {
+    "word": "biznaga",
+    "pos": "noun",
+    "def": "any of several species of small, prickly cacti, especially barrel cacti"
+  },
+  {
+    "word": "mosquete",
+    "pos": "noun",
+    "def": "pit (of a theatre)"
+  },
+  {
+    "word": "perrilla",
+    "pos": "noun",
+    "def": "stye"
+  },
+  {
+    "word": "jotear",
+    "pos": "verb",
+    "def": "(being a man) to flirt with another man, usually as a joke without any intention of having sexual intercourse"
+  },
+  {
+    "word": "maroma",
+    "pos": "noun",
+    "def": "acrobatic stunt"
+  },
+  {
+    "word": "fierros",
+    "pos": "noun",
+    "def": "money (currency)"
+  },
+  {
+    "word": "jambarse",
+    "pos": "verb",
+    "def": "to gorge, to pig-out, to devour (stuff oneself with food)"
+  },
+  {
+    "word": "sucte",
+    "pos": "noun",
+    "def": "alternative spelling of chucte (tree and its fruit)"
+  },
+  {
+    "word": "boleta",
+    "pos": "noun",
+    "def": "ballot"
+  },
+  {
+    "word": "champurrado",
+    "pos": "noun",
+    "def": "a traditional chocolate-based atole, containing panela, vanilla, anise and cinnamon"
+  },
+  {
+    "word": "calaca",
+    "pos": "noun",
+    "def": "Death"
+  },
+  {
+    "word": "jícaro",
+    "pos": "noun",
+    "def": "calabash tree (Crescentia cujete); Mexican calabash (Crescentia alata)"
+  },
+  {
+    "word": "azálea",
+    "pos": "noun",
+    "def": "alternative form of azalea"
+  },
+  {
+    "word": "mancuerna",
+    "pos": "noun",
+    "def": "close associate, partner in crime"
+  },
+  {
+    "word": "pan de Dios",
+    "pos": "noun",
+    "def": "a godsend (person)"
+  },
+  {
+    "word": "frenillo",
+    "pos": "noun",
+    "def": "bridle of a kite"
+  },
+  {
+    "word": "añal",
+    "pos": "noun",
+    "def": "eon (long period of time)"
+  },
+  {
+    "word": "mora azul",
+    "pos": "noun",
+    "def": "blueberry"
+  },
+  {
+    "word": "achichincle",
+    "pos": "noun",
+    "def": "minion, servant"
+  },
+  {
+    "word": "ocote",
+    "pos": "noun",
+    "def": "any of several aromatic, resinous pine species native to Mexico and Central America, especially the Montezuma pine (Pinus montezumae)"
+  },
+  {
+    "word": "ejote",
+    "pos": "noun",
+    "def": "green bean"
+  },
+  {
+    "word": "jocoque",
+    "pos": "noun",
+    "def": "strained yogurt"
+  },
+  {
+    "word": "tlapalería",
+    "pos": "noun",
+    "def": "hardware store, paint store"
+  },
+  {
+    "word": "tilma",
+    "pos": "noun",
+    "def": "an indigenous outer garment for men, worn on the front like a long apron, or fastened over the shoulders as a cloak"
+  },
+  {
+    "word": "foja",
+    "pos": "noun",
+    "def": "leaf, sheet (especially of an official document)"
+  },
+  {
+    "word": "jilote",
+    "pos": "noun",
+    "def": "Immature, green ear of maize"
+  },
+  {
+    "word": "concuño",
+    "pos": "noun",
+    "def": "alternative spelling of concuñado"
+  },
+  {
+    "word": "mesquital",
+    "pos": "noun",
+    "def": "alternative spelling of mezquital"
+  },
+  {
+    "word": "pedregal",
+    "pos": "noun",
+    "def": "lava field"
+  },
+  {
+    "word": "escuintle",
+    "pos": "noun",
+    "def": "alternative form of escuincle"
+  },
+  {
+    "word": "Xóchitl",
+    "pos": "name",
+    "def": "a female given name from Classical Nahuatl"
+  },
+  {
+    "word": "atepocate",
+    "pos": "noun",
+    "def": "tadpole"
+  },
+  {
+    "word": "itacate",
+    "pos": "noun",
+    "def": "food provisions, rations"
+  },
+  {
+    "word": "ahuizote",
+    "pos": "noun",
+    "def": "an annoying person; pest, nuisance"
+  },
+  {
+    "word": "huilo",
+    "pos": "adj",
+    "def": "crippled"
+  },
+  {
+    "word": "cenzonte",
+    "pos": "noun",
+    "def": "alternative form of cenzontle"
+  },
+  {
+    "word": "sinsonte",
+    "pos": "noun",
+    "def": "alternative form of cenzontle"
+  },
+  {
+    "word": "cacaotero",
+    "pos": "noun",
+    "def": "cacao tree"
+  },
+  {
+    "word": "coquero",
+    "pos": "noun",
+    "def": "a cultivator of coconut palms"
+  },
+  {
+    "word": "petatearse",
+    "pos": "verb",
+    "def": "to die"
+  },
+  {
+    "word": "musaraña",
+    "pos": "noun",
+    "def": "face (exaggerated facial expression)"
+  },
+  {
+    "word": "guacarear",
+    "pos": "verb",
+    "def": "to vomit"
+  },
+  {
+    "word": "guácara",
+    "pos": "noun",
+    "def": "vomit"
+  },
+  {
+    "word": "órale",
+    "pos": "intj",
+    "def": "let's go, come on, hurry (used to exhort)"
+  },
+  {
+    "word": "chapote",
+    "pos": "noun",
+    "def": "Texas persimmon, Mexican persimmon (Diospyros texana)"
+  },
+  {
+    "word": "diablito",
+    "pos": "noun",
+    "def": "hand truck"
+  },
+  {
+    "word": "gordita",
+    "pos": "noun",
+    "def": "a thick tortilla, frequently stuffed and made of corn flour"
+  },
+  {
+    "word": "rumbear",
+    "pos": "verb",
+    "def": "to party"
+  },
+  {
+    "word": "agüitarse",
+    "pos": "verb",
+    "def": "to become saddened; to feel let down or disillusioned"
+  },
+  {
+    "word": "tejocote",
+    "pos": "noun",
+    "def": "Crataegus mexicana, a species of fruit-bearing hawthorn"
+  },
+  {
+    "word": "quelite",
+    "pos": "noun",
+    "def": "any of a number of plants eaten fresh as leaf vegetables or herbs"
+  },
+  {
+    "word": "guachinango",
+    "pos": "noun",
+    "def": "red snapper"
+  },
+  {
+    "word": "huachinango",
+    "pos": "noun",
+    "def": "alternative form of guachinango"
+  },
+  {
+    "word": "quiote",
+    "pos": "noun",
+    "def": "the edible peduncle of an agave plant, which supports its inflorescence"
+  },
+  {
+    "word": "chiquihuite",
+    "pos": "noun",
+    "def": "a small, handleless woven wicker or reed basket"
+  },
+  {
+    "word": "mecapal",
+    "pos": "noun",
+    "def": "tumpline"
+  },
+  {
+    "word": "huauzontle",
+    "pos": "noun",
+    "def": "huauzontle"
+  },
+  {
+    "word": "escamole",
+    "pos": "noun",
+    "def": "the larvae of certain ants eaten as a delicacy"
+  },
+  {
+    "word": "beisbol",
+    "pos": "noun",
+    "def": "alternative form of béisbol"
+  },
+  {
+    "word": "chavo",
+    "pos": "noun",
+    "def": "boy, kid"
+  },
+  {
+    "word": "destemplar",
+    "pos": "verb",
+    "def": "to feel uneasiness or unpleasantness in the teeth and gums due to sour food, jarring noises or certain textures."
+  },
+  {
+    "word": "chocolatín",
+    "pos": "noun",
+    "def": "pain au chocolat, chocolatine"
+  },
+  {
+    "word": "taquero",
+    "pos": "noun",
+    "def": "Someone who makes or sells tacos"
+  },
+  {
+    "word": "me vale",
+    "pos": "intj",
+    "def": "I don't care"
+  },
+  {
+    "word": "zacatal",
+    "pos": "noun",
+    "def": "grassland, pasture"
+  },
+  {
+    "word": "chapuza",
+    "pos": "noun",
+    "def": "cheat, trick, cheating, deceit (specially in sports, games, gambling, elections, seldom in commerce, almost never in sentimental relationships)"
+  },
+  {
+    "word": "pejelagarto",
+    "pos": "noun",
+    "def": "gar; garfish (fish of the family Lepisosteidae)"
+  },
+  {
+    "word": "hierbero",
+    "pos": "noun",
+    "def": "Someone who sells or cultivates herbs, especially medicinal ones"
+  },
+  {
+    "word": "hocicón",
+    "pos": "noun",
+    "def": "bigmouth (who talks too much or says things which should not be said)"
+  },
+  {
+    "word": "flor de muertos",
+    "pos": "noun",
+    "def": "Mexican marigold"
+  },
+  {
+    "word": "changarro",
+    "pos": "noun",
+    "def": "small shop or business"
+  },
+  {
+    "word": "acocil",
+    "pos": "noun",
+    "def": "acocil (Cambarellus montezumae)"
+  },
+  {
+    "word": "cacle",
+    "pos": "noun",
+    "def": "shoe (any kind of footwear)"
+  },
+  {
+    "word": "pulquero",
+    "pos": "adj",
+    "def": "Pertaining or relating to pulque"
+  },
+  {
+    "word": "pulquería",
+    "pos": "noun",
+    "def": "an establishment where pulque is sold"
+  },
+  {
+    "word": "súchil",
+    "pos": "noun",
+    "def": "flower"
+  },
+  {
+    "word": "temazcal",
+    "pos": "noun",
+    "def": "a sweat lodge, traditionally one made from adobe bricks"
+  },
+  {
+    "word": "tlazol",
+    "pos": "noun",
+    "def": "trash, garbage"
+  },
+  {
+    "word": "taxcal",
+    "pos": "noun",
+    "def": "a basket used to carry or store tortillas"
+  },
+  {
+    "word": "chichicuilote",
+    "pos": "noun",
+    "def": "plover"
+  },
+  {
+    "word": "xóchil",
+    "pos": "noun",
+    "def": "flower"
+  },
+  {
+    "word": "xocoyote",
+    "pos": "noun",
+    "def": "the youngest child of a family"
+  },
+  {
+    "word": "chinampero",
+    "pos": "adj",
+    "def": "Cultivated in a chinampa"
+  },
+  {
+    "word": "neutle",
+    "pos": "noun",
+    "def": "pulque"
+  },
+  {
+    "word": "xoconostle",
+    "pos": "noun",
+    "def": "a species of prickly pear cactus, Opuntia matudae, native to Central Mexico"
+  },
+  {
+    "word": "xocoatole",
+    "pos": "noun",
+    "def": "soured atole"
+  },
+  {
+    "word": "pinacate",
+    "pos": "noun",
+    "def": "pinacate beetle, stink beetle"
+  },
+  {
+    "word": "ahuate",
+    "pos": "noun",
+    "def": "a slender, hairlike thorn (villus) such as that of the cornstalk or sugar cane"
+  },
+  {
+    "word": "tepalcate",
+    "pos": "noun",
+    "def": "potsherd"
+  },
+  {
+    "word": "cacahuacintle",
+    "pos": "noun",
+    "def": "a variety of maize with large, whitish grains, used in the making of pozole and other traditional dishes"
+  },
+  {
+    "word": "teocinte",
+    "pos": "noun",
+    "def": "teosinte"
+  },
+  {
+    "word": "sotol",
+    "pos": "noun",
+    "def": "sotol (desert plant)"
+  },
+  {
+    "word": "uchepo",
+    "pos": "noun",
+    "def": "a tamale prepared with sweet corn, originating from the state of Michoacán"
+  },
+  {
+    "word": "nahual",
+    "pos": "noun",
+    "def": "sorcerer"
+  },
+  {
+    "word": "cacomixtle",
+    "pos": "noun",
+    "def": "ring-tailed cat (Bassariscus astutus)"
+  },
+  {
+    "word": "chamaco",
+    "pos": "noun",
+    "def": "a boy or teenager; a male youth"
+  },
+  {
+    "word": "rocola",
+    "pos": "noun",
+    "def": "jukebox, nickelodeon"
+  },
+  {
+    "word": "listón",
+    "pos": "noun",
+    "def": "ribbon"
+  },
+  {
+    "word": "tameme",
+    "pos": "noun",
+    "def": "porter, carrier"
+  },
+  {
+    "word": "tapanco",
+    "pos": "noun",
+    "def": "loft, attic"
+  },
+  {
+    "word": "cócono",
+    "pos": "noun",
+    "def": "turkey"
+  },
+  {
+    "word": "zacamecate",
+    "pos": "noun",
+    "def": "a scourer made from plant fiber"
+  },
+  {
+    "word": "cábula",
+    "pos": "noun",
+    "def": "joking, mischievous person; bully (doing pranks)"
+  },
+  {
+    "word": "nanacate",
+    "pos": "noun",
+    "def": "an edible or hallucinogenic mushroom"
+  },
+  {
+    "word": "metlapil",
+    "pos": "noun",
+    "def": "a cylindrical grinding stone, especially one used with a metate"
+  },
+  {
+    "word": "cuartilla",
+    "pos": "noun",
+    "def": "A5 (a paper size)"
+  },
+  {
+    "word": "moyote",
+    "pos": "noun",
+    "def": "mosquito"
+  },
+  {
+    "word": "teporingo",
+    "pos": "noun",
+    "def": "volcano rabbit"
+  },
+  {
+    "word": "equipal",
+    "pos": "noun",
+    "def": "a type of reed or wicker chair with a leather-sheathed seat and back"
+  },
+  {
+    "word": "barandilla",
+    "pos": "noun",
+    "def": "detention centre; jailhouse"
+  },
+  {
+    "word": "zotol",
+    "pos": "noun",
+    "def": "alternative spelling of sotol"
+  },
+  {
+    "word": "chinicuil",
+    "pos": "noun",
+    "def": "the edible larva of the moth Hypopta agavis, used in traditional Mexican cuisine"
+  },
+  {
+    "word": "tecol",
+    "pos": "noun",
+    "def": "the edible larva of the moth Hypopta agavis, used in traditional Mexican cuisine"
+  },
+  {
+    "word": "ayate",
+    "pos": "noun",
+    "def": "a cloth made from the fiber of the maguey plant, similar to henequen or sisal"
+  },
+  {
+    "word": "achís",
+    "pos": "intj",
+    "def": "damn!"
+  },
+  {
+    "word": "fresón",
+    "pos": "noun",
+    "def": "snob"
+  },
+  {
+    "word": "calentón",
+    "pos": "noun",
+    "def": "heater (device that produces and radiates heat)"
+  },
+  {
+    "word": "cabronazo",
+    "pos": "noun",
+    "def": "a sharp blow, punch or strike; thump; thwack; whack; bash"
+  },
+  {
+    "word": "acal",
+    "pos": "noun",
+    "def": "canoe"
+  },
+  {
+    "word": "tianguista",
+    "pos": "noun",
+    "def": "a vendor located in a tianguis; a marketeer"
+  },
+  {
+    "word": "tianguero",
+    "pos": "noun",
+    "def": "a vendor located in a tianguis; a marketeer"
+  },
+  {
+    "word": "hula-hula",
+    "pos": "noun",
+    "def": "a game in which a person spins a hula hoop around the waist with the movements of the hips"
+  },
+  {
+    "word": "overo",
+    "pos": "adj",
+    "def": "piebald, mottled"
+  },
+  {
+    "word": "niguas",
+    "pos": "intj",
+    "def": "Used to express negation: no"
+  },
+  {
+    "word": "tráiler",
+    "pos": "noun",
+    "def": "(USA, Canada) semi-truck, 18-wheeler, eighteen-wheeler, semi-trailer truck, tractor-trailer, semi, big rig ; (UK) articulated lorry, artic, HGV, LGV, juggernaut, jugger (a semi-trailer plus the truck or tractor pulling it)"
+  },
+  {
+    "word": "chalán",
+    "pos": "noun",
+    "def": "an assistant or helper of a construction worker, especially of a mason or painter"
+  },
+  {
+    "word": "trancazo",
+    "pos": "noun",
+    "def": "hit, blow, strike"
+  },
+  {
+    "word": "verdiblanco",
+    "pos": "noun",
+    "def": "a player, supporter, or someone who works for Club León, a football club in León, Mexico"
+  },
+  {
+    "word": "tenamaste",
+    "pos": "noun",
+    "def": "a hearthstone, any of the three stones traditionally used to elevate a comal above a fire"
+  },
+  {
+    "word": "ámpula",
+    "pos": "noun",
+    "def": "blister (bubble on the skin)"
+  },
+  {
+    "word": "aditar",
+    "pos": "verb",
+    "def": "to add (something)"
+  },
+  {
+    "word": "agrura",
+    "pos": "noun",
+    "def": "heartburn"
+  },
+  {
+    "word": "agruras",
+    "pos": "noun",
+    "def": "heartburn"
+  },
+  {
+    "word": "aventar",
+    "pos": "verb",
+    "def": "to do a good job, to do something well"
+  },
+  {
+    "word": "ensopar",
+    "pos": "verb",
+    "def": "to drench"
+  },
+  {
+    "word": "traste",
+    "pos": "noun",
+    "def": "dirty dishes"
+  },
+  {
+    "word": "güila",
+    "pos": "noun",
+    "def": "prostitute"
+  },
+  {
+    "word": "domada",
+    "pos": "noun",
+    "def": "taming"
+  },
+  {
+    "word": "esponjar",
+    "pos": "verb",
+    "def": "to dry or wipe with a sponge"
+  },
+  {
+    "word": "quiúbole",
+    "pos": "phrase",
+    "def": "alternative spelling of quehúbole"
+  },
+  {
+    "word": "qué ondas",
+    "pos": "intj",
+    "def": "what's up?"
+  },
+  {
+    "word": "pipián",
+    "pos": "noun",
+    "def": "a type of sauce made with pumpkin seeds or almonds, toasted corn and green chili"
+  },
+  {
+    "word": "chota",
+    "pos": "noun",
+    "def": "the police"
+  },
+  {
+    "word": "encular",
+    "pos": "verb",
+    "def": "to fall madly in love, to have a crush on"
+  },
+  {
+    "word": "emputarse",
+    "pos": "verb",
+    "def": "to get really angry"
+  },
+  {
+    "word": "tambo",
+    "pos": "noun",
+    "def": "milk churn"
+  },
+  {
+    "word": "guaro",
+    "pos": "noun",
+    "def": "guaro, a clear liquor distilled from sugar cane juice"
+  },
+  {
+    "word": "ostionería",
+    "pos": "noun",
+    "def": "synonym of ostionera (oyster bar)"
+  },
+  {
+    "word": "ostionera",
+    "pos": "noun",
+    "def": "an oyster bar; a place where oysters can be bought (and eaten)"
+  },
+  {
+    "word": "ostrería",
+    "pos": "noun",
+    "def": "synonym of ostionera (oyster bar)"
+  },
+  {
+    "word": "calabacita",
+    "pos": "noun",
+    "def": "courgette, zucchini"
+  },
+  {
+    "word": "terracería",
+    "pos": "noun",
+    "def": "dirt track"
+  },
+  {
+    "word": "fiaca",
+    "pos": "noun",
+    "def": "boredom, apathy, can't-be-bothered attitude"
+  },
+  {
+    "word": "cajete",
+    "pos": "noun",
+    "def": "a bowl, basin or similar container"
+  },
+  {
+    "word": "berengo",
+    "pos": "adj",
+    "def": "stupid, naive"
+  },
+  {
+    "word": "jicote",
+    "pos": "noun",
+    "def": "bumblebee"
+  },
+  {
+    "word": "jicotera",
+    "pos": "noun",
+    "def": "bumblebee hive"
+  },
+  {
+    "word": "jicotillo",
+    "pos": "noun",
+    "def": "diminutive of jicote; a small bumblebee"
+  },
+  {
+    "word": "chambelán",
+    "pos": "noun",
+    "def": "a male member of the court of honor at a quinceañera"
+  },
+  {
+    "word": "flor de Nochebuena",
+    "pos": "noun",
+    "def": "poinsettia"
+  },
+  {
+    "word": "chichifo",
+    "pos": "noun",
+    "def": "male prostitute, he-whore (he who has only or chiefly male clients)"
+  },
+  {
+    "word": "catrín",
+    "pos": "adj",
+    "def": "elegant dressed, stylish, posh"
+  },
+  {
+    "word": "plomería",
+    "pos": "noun",
+    "def": "plumbing"
+  },
+  {
+    "word": "fontanería",
+    "pos": "noun",
+    "def": "plumbing"
+  },
+  {
+    "word": "chilchote",
+    "pos": "noun",
+    "def": "a spicy, green variety of chili pepper used in cooking"
+  },
+  {
+    "word": "tamaleada",
+    "pos": "noun",
+    "def": "a gathering of people to make and eat tamales"
+  },
+  {
+    "word": "acuyo",
+    "pos": "noun",
+    "def": "Mexican pepperleaf, root beer plant, an aromatic herb used in Mexican cuisine (Piper auritum)"
+  },
+  {
+    "word": "desenraizar",
+    "pos": "verb",
+    "def": "to uproot, root out"
+  },
+  {
+    "word": "nevería",
+    "pos": "noun",
+    "def": "ice cream shop"
+  },
+  {
+    "word": "me la pela",
+    "pos": "phrase",
+    "def": "I don't give a shit"
+  },
+  {
+    "word": "fodongo",
+    "pos": "adj",
+    "def": "lazy, filthy, sloppy (of a person)"
+  },
+  {
+    "word": "zonte",
+    "pos": "noun",
+    "def": "A set of four hundred (especially of agricultural products)"
+  },
+  {
+    "word": "cotonete",
+    "pos": "noun",
+    "def": "cotton swab"
+  },
+  {
+    "word": "putero",
+    "pos": "noun",
+    "def": "a lot, a bunch"
+  },
+  {
+    "word": "gato montés",
+    "pos": "noun",
+    "def": "gray fox (Urocyon cinereoargenteus)"
+  },
+  {
+    "word": "cuacha",
+    "pos": "noun",
+    "def": "shit"
+  },
+  {
+    "word": "casquete",
+    "pos": "noun",
+    "def": "poultice, plaster, cataplas"
+  },
+  {
+    "word": "pambazo",
+    "pos": "noun",
+    "def": "augmentative of pamba"
+  },
+  {
+    "word": "mestengo",
+    "pos": "noun",
+    "def": "a wild or feral animal"
+  },
+  {
+    "word": "pollero",
+    "pos": "noun",
+    "def": "smuggler of illegal immigrants"
+  },
+  {
+    "word": "chuchupate",
+    "pos": "noun",
+    "def": "balsam of Peru, Myroxylon balsamum"
+  },
+  {
+    "word": "tlacoyo",
+    "pos": "noun",
+    "def": "tlacoyo"
+  },
+  {
+    "word": "juida",
+    "pos": "noun",
+    "def": "run, hurry, lam"
+  },
+  {
+    "word": "huizache",
+    "pos": "noun",
+    "def": "alternative form of huisache"
+  },
+  {
+    "word": "acotamiento",
+    "pos": "noun",
+    "def": "hard shoulder, emergency lane (part of a road where drivers may stop in an emergency)"
+  },
+  {
+    "word": "agujeta",
+    "pos": "noun",
+    "def": "shoelace, lace (cord for fastening a shoe or garment)"
+  },
+  {
+    "word": "alipús",
+    "pos": "noun",
+    "def": "alcoholic drink; booze"
+  },
+  {
+    "word": "amistar",
+    "pos": "verb",
+    "def": "to befriend"
+  },
+  {
+    "word": "requisitar",
+    "pos": "verb",
+    "def": "to fill out"
+  },
+  {
+    "word": "anteburro",
+    "pos": "noun",
+    "def": "tapir (large odd-toed ungulate with a long prehensile upper lip of the family Tapiridae)"
+  },
+  {
+    "word": "tijuanense",
+    "pos": "adj",
+    "def": "Tijuanan (of, from or relating to Tijuana)"
+  },
+  {
+    "word": "vagoneta",
+    "pos": "noun",
+    "def": "station wagon; estate car"
+  },
+  {
+    "word": "chingada",
+    "pos": "noun",
+    "def": "hooker, whore"
+  },
+  {
+    "word": "tolete",
+    "pos": "noun",
+    "def": "bat; cudgel"
+  },
+  {
+    "word": "libramiento",
+    "pos": "noun",
+    "def": "bypass road"
+  },
+  {
+    "word": "estelarizar",
+    "pos": "verb",
+    "def": "to star in"
+  },
+  {
+    "word": "corralón",
+    "pos": "noun",
+    "def": "augmentative of corral; a municipal impounding lot"
+  },
+  {
+    "word": "mucamo",
+    "pos": "noun",
+    "def": "servant, houseboy"
+  },
+  {
+    "word": "atajada",
+    "pos": "noun",
+    "def": "an ending; a termination"
+  },
+  {
+    "word": "peleada",
+    "pos": "noun",
+    "def": "fight"
+  },
+  {
+    "word": "tosida",
+    "pos": "noun",
+    "def": "a coughing; a cough"
+  },
+  {
+    "word": "nejo",
+    "pos": "adj",
+    "def": "dirty, stained"
+  },
+  {
+    "word": "boleada",
+    "pos": "noun",
+    "def": "polishing; polish"
+  },
+  {
+    "word": "pelona",
+    "pos": "noun",
+    "def": "bald spot"
+  },
+  {
+    "word": "chingados",
+    "pos": "intj",
+    "def": "fuck, hell"
+  },
+  {
+    "word": "qué tanto",
+    "pos": "adj",
+    "def": "how many or how much"
+  },
+  {
+    "word": "moco de pavo",
+    "pos": "noun",
+    "def": "amaranth"
+  },
+  {
+    "word": "chochos",
+    "pos": "noun",
+    "def": "plural of chocho (“roids, anabolic steroids”)"
+  },
+  {
+    "word": "horneada",
+    "pos": "noun",
+    "def": "a quick bake"
+  },
+  {
+    "word": "hijo de la chingada",
+    "pos": "noun",
+    "def": "motherfucker"
+  },
+  {
+    "word": "oncena",
+    "pos": "noun",
+    "def": "A team of eleven players."
+  },
+  {
+    "word": "onceno",
+    "pos": "adj",
+    "def": "synonym of undécimo (“eleventh”)"
+  },
+  {
+    "word": "rascuache",
+    "pos": "adj",
+    "def": "of poor quality, of little value"
+  },
+  {
+    "word": "Choco",
+    "pos": "name",
+    "def": "a diminutive of the female given name María del Socorro"
+  },
+  {
+    "word": "seño",
+    "pos": "noun",
+    "def": "Ms. (a shortened form of address for women, usually those who are 15 years or older, in some places 12 or older)"
+  },
+  {
+    "word": "sangrón",
+    "pos": "adj",
+    "def": "disagreeable, antipathic"
+  },
+  {
+    "word": "Día de Muertos",
+    "pos": "name",
+    "def": "Day of the Dead"
+  },
+  {
+    "word": "macana",
+    "pos": "noun",
+    "def": "a type of long club, sometimes studded with sharp pieces of rock, used by the natives of America"
+  },
+  {
+    "word": "chicalote",
+    "pos": "noun",
+    "def": "cardosanto (Argemone mexicana)"
+  },
+  {
+    "word": "esquite",
+    "pos": "noun",
+    "def": "a saladlike dish of boiled or fried corn kernels seasoned with epazote"
+  },
+  {
+    "word": "jocho",
+    "pos": "noun",
+    "def": "hot dog"
+  },
+  {
+    "word": "escarpa",
+    "pos": "noun",
+    "def": "sidewalk"
+  },
+  {
+    "word": "mitote",
+    "pos": "noun",
+    "def": "party, celebration"
+  },
+  {
+    "word": "trinquete",
+    "pos": "noun",
+    "def": "rip-off, ripoff"
+  },
+  {
+    "word": "sincho",
+    "pos": "intj",
+    "def": "yeah, yep, yeppers, yup, yuppers"
+  },
+  {
+    "word": "lunada",
+    "pos": "noun",
+    "def": "moonlight party"
+  },
+  {
+    "word": "hijo de la verga",
+    "pos": "noun",
+    "def": "motherfucker"
+  },
+  {
+    "word": "charola",
+    "pos": "noun",
+    "def": "tray"
+  },
+  {
+    "word": "chillón",
+    "pos": "adj",
+    "def": "crybabyish; weepy"
+  },
+  {
+    "word": "Coco",
+    "pos": "name",
+    "def": "a diminutive of the female given name María del Socorro"
+  },
+  {
+    "word": "haiga",
+    "pos": "verb",
+    "def": "archaic, nonstandard, humorous form of haya (“there is, there are”)"
+  },
+  {
+    "word": "agiotista",
+    "pos": "noun",
+    "def": "usurer"
+  },
+  {
+    "word": "viaducto",
+    "pos": "noun",
+    "def": "in Mexico City, a limited-access high-speed roadway below street level, built on top of a river which has been channeled underground"
+  },
+  {
+    "word": "suadero",
+    "pos": "noun",
+    "def": "a thin cut of fried beef that is commonly used as a taco filling (≈rose meat)"
+  },
+  {
+    "word": "bemba",
+    "pos": "noun",
+    "def": "Mouth with large and bulky lips stereotypical of a person of African descent."
+  },
+  {
+    "word": "valedor",
+    "pos": "noun",
+    "def": "friend"
+  },
+  {
+    "word": "mañanera",
+    "pos": "noun",
+    "def": "Early daily press conference from the President of Mexico."
+  },
+  {
+    "word": "añar",
+    "pos": "noun",
+    "def": "alternative form of añal"
+  },
+  {
+    "word": "Vocho",
+    "pos": "noun",
+    "def": "Volkswagen Beetle"
+  },
+  {
+    "word": "botana",
+    "pos": "noun",
+    "def": "appetizer"
+  },
+  {
+    "word": "san Miguelito",
+    "pos": "noun",
+    "def": "a person devoted archangel Michael, especially one who makes pilgrimage in his honor"
+  },
+  {
+    "word": "mopear",
+    "pos": "verb",
+    "def": "to mop"
+  },
+  {
+    "word": "birria",
+    "pos": "noun",
+    "def": "birria (“stewed meat”)"
+  },
+  {
+    "word": "pipope",
+    "pos": "adj",
+    "def": "Related to people described as pipope"
+  },
+  {
+    "word": "pringar",
+    "pos": "verb",
+    "def": "to splash"
+  },
+  {
+    "word": "narcomenudista",
+    "pos": "noun",
+    "def": "a small-time drug dealer"
+  },
+  {
+    "word": "garapiña",
+    "pos": "noun",
+    "def": "drink made with fermented pineapple juice"
+  },
+  {
+    "word": "jimar",
+    "pos": "verb",
+    "def": "to harvest and process agave to make mezcal"
+  },
+  {
+    "word": "profesionista",
+    "pos": "noun",
+    "def": "professional; practitioner"
+  },
+  {
+    "word": "jima",
+    "pos": "noun",
+    "def": "the harvesting and processing of agave to make mezcal"
+  },
+  {
+    "word": "asadero",
+    "pos": "noun",
+    "def": "a type of cheese"
+  },
+  {
+    "word": "desacomodar",
+    "pos": "verb",
+    "def": "to mess up"
+  },
+  {
+    "word": "marihuano",
+    "pos": "adj",
+    "def": "stoned, high (under a mood-influencing drug)"
+  },
+  {
+    "word": "lonchear",
+    "pos": "verb",
+    "def": "to lunch"
+  },
+  {
+    "word": "alburear",
+    "pos": "verb",
+    "def": "to engage in albures, a kind of wordplay involving sexual innuendo"
+  },
+  {
+    "word": "machote",
+    "pos": "noun",
+    "def": "model (a successful example to be copied, with or without modifications.)"
+  },
+  {
+    "word": "cruceta",
+    "pos": "noun",
+    "def": "the cactus Acanthocereus tetragonus used as vegetable"
+  },
+  {
+    "word": "encajuelado",
+    "pos": "adj",
+    "def": "Murdered and stuffed into the trunk of an automobile"
+  },
+  {
+    "word": "encobijado",
+    "pos": "adj",
+    "def": "Murdered and left in public, wrapped up in a blanket, as a warning"
+  },
+  {
+    "word": "tiendita",
+    "pos": "noun",
+    "def": "a place where small quantities of drugs are sold on the street"
+  },
+  {
+    "word": "narcotiendita",
+    "pos": "noun",
+    "def": "a place where small quantities of drugs are sold on the street"
+  },
+  {
+    "word": "cuerno de chivo",
+    "pos": "noun",
+    "def": "AK-47, Kalashnikov"
+  },
+  {
+    "word": "trastero",
+    "pos": "noun",
+    "def": "cupboard"
+  },
+  {
+    "word": "camastro",
+    "pos": "noun",
+    "def": "outdoor lounge chair"
+  },
+  {
+    "word": "palanqueta",
+    "pos": "noun",
+    "def": "cereal bar"
+  },
+  {
+    "word": "chorrera",
+    "pos": "noun",
+    "def": "diarrhea"
+  },
+  {
+    "word": "bagazo",
+    "pos": "noun",
+    "def": "a despicable person"
+  },
+  {
+    "word": "ándale",
+    "pos": "intj",
+    "def": "hurry up! come on! let's go!"
+  },
+  {
+    "word": "turistear",
+    "pos": "verb",
+    "def": "to visit as a tourist"
+  },
+  {
+    "word": "mirrey",
+    "pos": "noun",
+    "def": "yuppie"
+  },
+  {
+    "word": "chamaquito",
+    "pos": "noun",
+    "def": "kid, guy, kiddo"
+  },
+  {
+    "word": "torito",
+    "pos": "noun",
+    "def": "A sweet cocktail made from a mix of milk, rum, and various flavorings."
+  },
+  {
+    "word": "cuete",
+    "pos": "noun",
+    "def": "pistol"
+  },
+  {
+    "word": "gasolinería",
+    "pos": "noun",
+    "def": "petrol station, garage, filling station, gas station, service station"
+  },
+  {
+    "word": "chupaflor",
+    "pos": "noun",
+    "def": "hummingbird"
+  },
+  {
+    "word": "balacear",
+    "pos": "verb",
+    "def": "to shoot up, shoot"
+  },
+  {
+    "word": "arrancón",
+    "pos": "noun",
+    "def": "synonym of arrancada"
+  },
+  {
+    "word": "bísquet",
+    "pos": "noun",
+    "def": "a type of lightly salted biscuit"
+  },
+  {
+    "word": "restaurantero",
+    "pos": "noun",
+    "def": "restauranter"
+  },
+  {
+    "word": "carrilla",
+    "pos": "noun",
+    "def": "joke, fun"
+  },
+  {
+    "word": "dar carrilla",
+    "pos": "verb",
+    "def": "to poke fun at"
+  },
+  {
+    "word": "calafia",
+    "pos": "noun",
+    "def": "small bus"
+  },
+  {
+    "word": "cateo",
+    "pos": "noun",
+    "def": "raid (of a building)"
+  },
+  {
+    "word": "colegiatura",
+    "pos": "noun",
+    "def": "fee (for school or university), tuition"
+  },
+  {
+    "word": "catear",
+    "pos": "verb",
+    "def": "to raid"
+  },
+  {
+    "word": "chinchín",
+    "pos": "noun",
+    "def": "a rattle (baby's toy)"
+  },
+  {
+    "word": "membresía",
+    "pos": "noun",
+    "def": "membership"
+  },
+  {
+    "word": "empeñero",
+    "pos": "noun",
+    "def": "pawnbroker"
+  },
+  {
+    "word": "tranzar",
+    "pos": "verb",
+    "def": "to trick, to con"
+  },
+  {
+    "word": "arrecho",
+    "pos": "adj",
+    "def": "brave, energetic"
+  },
+  {
+    "word": "vulka",
+    "pos": "noun",
+    "def": "a tire repair shop"
+  },
+  {
+    "word": "shido",
+    "pos": "adj",
+    "def": "alternative form of chido"
+  },
+  {
+    "word": "tarugada",
+    "pos": "noun",
+    "def": "barbarity"
+  },
+  {
+    "word": "malcriadez",
+    "pos": "noun",
+    "def": "spoiledness"
+  },
+  {
+    "word": "taquear",
+    "pos": "verb",
+    "def": "to eat tacos"
+  },
+  {
+    "word": "chorear",
+    "pos": "verb",
+    "def": "to tell exaggerated tales"
+  },
+  {
+    "word": "tigrecillo",
+    "pos": "noun",
+    "def": "ocelot"
+  },
+  {
+    "word": "chava",
+    "pos": "noun",
+    "def": "female equivalent of chavo, young girl"
+  },
+  {
+    "word": "dedazo",
+    "pos": "noun",
+    "def": "an act in which a politician or public servant appoints their successor without first following a public and/or democratic selection process"
+  },
+  {
+    "word": "bartolina",
+    "pos": "noun",
+    "def": "prison cell"
+  },
+  {
+    "word": "defeccionar",
+    "pos": "verb",
+    "def": "to defect"
+  },
+  {
+    "word": "guarura",
+    "pos": "noun",
+    "def": "bodyguard"
+  },
+  {
+    "word": "sololoy",
+    "pos": "noun",
+    "def": "celluloid"
+  },
+  {
+    "word": "jagüey",
+    "pos": "noun",
+    "def": "a pool, waterhole or reservoir"
+  },
+  {
+    "word": "puchar",
+    "pos": "verb",
+    "def": "to push"
+  },
+  {
+    "word": "malón",
+    "pos": "adj",
+    "def": "very bad"
+  },
+  {
+    "word": "chavorruco",
+    "pos": "noun",
+    "def": "a middle-aged person engaging in behavior typical of younger people; an adultescent."
+  },
+  {
+    "word": "talacha",
+    "pos": "noun",
+    "def": "repetitive and tedious work"
+  },
+  {
+    "word": "fregón",
+    "pos": "adj",
+    "def": "intelligent, skilled, capable"
+  },
+  {
+    "word": "caminadora",
+    "pos": "noun",
+    "def": "treadmill"
+  },
+  {
+    "word": "maría",
+    "pos": "noun",
+    "def": "Indian immigrant from the countryside to Mexico City"
+  },
+  {
+    "word": "no mames",
+    "pos": "phrase",
+    "def": "no way!; are you fucking kidding?; gimme a break"
+  },
+  {
+    "word": "resbaladilla",
+    "pos": "noun",
+    "def": "slide (play equipment)"
+  },
+  {
+    "word": "fletero",
+    "pos": "noun",
+    "def": "draught animal"
+  },
+  {
+    "word": "machucón",
+    "pos": "noun",
+    "def": "bruise"
+  },
+  {
+    "word": "pifiar",
+    "pos": "verb",
+    "def": "to nick, rob"
+  },
+  {
+    "word": "matraquero",
+    "pos": "noun",
+    "def": "One who sells matracas (wooden rattles)"
+  },
+  {
+    "word": "sobreruedas",
+    "pos": "noun",
+    "def": "flea market"
+  },
+  {
+    "word": "guayacán",
+    "pos": "noun",
+    "def": "any tree of the genus Guaiacum"
+  },
+  {
+    "word": "guajolotero",
+    "pos": "noun",
+    "def": "tightly-packed passenger bus (cheap public transport for the lowest classes, used in conurbation areas)"
+  },
+  {
+    "word": "gasolinazo",
+    "pos": "noun",
+    "def": "gasoline price gouge (artificial rise in prices)"
+  },
+  {
+    "word": "noviar",
+    "pos": "verb",
+    "def": "to date; go steady with"
+  },
+  {
+    "word": "ambulantaje",
+    "pos": "noun",
+    "def": "street vending"
+  },
+  {
+    "word": "jola",
+    "pos": "noun",
+    "def": "small change, a few cents"
+  },
+  {
+    "word": "veladora",
+    "pos": "noun",
+    "def": "votive candle, prayer candle, religious candle (ceremonial or nonceremonial ones sold in stores)"
+  },
+  {
+    "word": "el que no transa no avanza",
+    "pos": "proverb",
+    "def": "he who does not compromise, does not progress; he who does not cheat, does not get ahead"
+  },
+  {
+    "word": "poceta",
+    "pos": "noun",
+    "def": "pothole"
+  },
+  {
+    "word": "ayacote",
+    "pos": "noun",
+    "def": "alternative form of ayocote"
+  },
+  {
+    "word": "día festivo",
+    "pos": "noun",
+    "def": "holiday; bank holiday"
+  },
+  {
+    "word": "reatazo",
+    "pos": "noun",
+    "def": "dickslap, cockslap"
+  },
+  {
+    "word": "espumear",
+    "pos": "verb",
+    "def": "to foam"
+  },
+  {
+    "word": "trapeador",
+    "pos": "noun",
+    "def": "mop"
+  },
+  {
+    "word": "desarmador",
+    "pos": "noun",
+    "def": "screwdriver"
+  },
+  {
+    "word": "timbiriche",
+    "pos": "noun",
+    "def": "dots and boxes"
+  },
+  {
+    "word": "amontonadero",
+    "pos": "noun",
+    "def": "heap, especially a disorderly one"
+  },
+  {
+    "word": "caca de luna",
+    "pos": "noun",
+    "def": "star jelly, false puffball (slime mold, Enteridium lycoperdon)"
+  },
+  {
+    "word": "cachito",
+    "pos": "noun",
+    "def": "a tenth or twentieth of a lottery ticket"
+  },
+  {
+    "word": "catarina",
+    "pos": "noun",
+    "def": "ladybug, ladybird (insect of the family Coccinellidae)"
+  },
+  {
+    "word": "cenaduría",
+    "pos": "noun",
+    "def": "restaurant"
+  },
+  {
+    "word": "vulcanizadora",
+    "pos": "noun",
+    "def": "a tire repair shop"
+  },
+  {
+    "word": "carnear",
+    "pos": "verb",
+    "def": "to slaughter (for meat)"
+  },
+  {
+    "word": "plátano macho",
+    "pos": "noun",
+    "def": "plantain"
+  },
+  {
+    "word": "chamagoso",
+    "pos": "adj",
+    "def": "filthy; grubby"
+  },
+  {
+    "word": "enchinar",
+    "pos": "verb",
+    "def": "to curl (hair)"
+  },
+  {
+    "word": "ayacotli",
+    "pos": "noun",
+    "def": "haricot"
+  },
+  {
+    "word": "crayola",
+    "pos": "noun",
+    "def": "crayon"
+  },
+  {
+    "word": "sueño guajiro",
+    "pos": "noun",
+    "def": "pipe dream"
+  },
+  {
+    "word": "huachicolero",
+    "pos": "noun",
+    "def": "One who sells adulterated (possibly stolen) gasoline outside of normal distribution channels"
+  },
+  {
+    "word": "huachicol",
+    "pos": "noun",
+    "def": "an adulterated alcoholic drink"
+  },
+  {
+    "word": "deschavetado",
+    "pos": "adj",
+    "def": "crazy"
+  },
+  {
+    "word": "podadora",
+    "pos": "noun",
+    "def": "lawn mower, lawnmower"
+  },
+  {
+    "word": "panqué",
+    "pos": "noun",
+    "def": "pound cake"
+  },
+  {
+    "word": "pantaleta",
+    "pos": "noun",
+    "def": "slip, underpants"
+  },
+  {
+    "word": "conchudo",
+    "pos": "adj",
+    "def": "indolent"
+  },
+  {
+    "word": "maromero",
+    "pos": "noun",
+    "def": "acrobat"
+  },
+  {
+    "word": "grenetina",
+    "pos": "noun",
+    "def": "gelatin"
+  },
+  {
+    "word": "chunche",
+    "pos": "noun",
+    "def": "unnecessary thingy, thingamajig, crowding a place; trinket"
+  },
+  {
+    "word": "pistear",
+    "pos": "verb",
+    "def": "to drink alcohol in a social setting"
+  },
+  {
+    "word": "refaccionaria",
+    "pos": "noun",
+    "def": "repair shop"
+  },
+  {
+    "word": "molote",
+    "pos": "noun",
+    "def": "a filled corn-based pastry usually served as an appetizer or snack"
+  },
+  {
+    "word": "cetemista",
+    "pos": "adj",
+    "def": "of the Confederation of Mexican Workers (Confederación de Trabajadores de México)"
+  },
+  {
+    "word": "tarugo",
+    "pos": "adj",
+    "def": "dumb"
+  },
+  {
+    "word": "xate",
+    "pos": "noun",
+    "def": "the leaves of three palm tree species, Chamaedorea ernesti-augusti, Chamaedorea elegans, and Chamaedorea oblongata, used primarily in floral arrangements"
+  },
+  {
+    "word": "xatero",
+    "pos": "noun",
+    "def": "someone who gathers xate"
+  },
+  {
+    "word": "vocho",
+    "pos": "noun",
+    "def": "Beetle (type of car)"
+  },
+  {
+    "word": "lomito",
+    "pos": "noun",
+    "def": "dog"
+  },
+  {
+    "word": "malinchista",
+    "pos": "noun",
+    "def": "One who has a preference or infatuation for foreign (non-Mexican) culture, products or people"
+  },
+  {
+    "word": "tapabocas",
+    "pos": "noun",
+    "def": "surgical mask"
+  },
+  {
+    "word": "ganoso",
+    "pos": "adj",
+    "def": "sexually aroused"
+  },
+  {
+    "word": "desazolve",
+    "pos": "noun",
+    "def": "unblocking"
+  },
+  {
+    "word": "desazolvar",
+    "pos": "verb",
+    "def": "to unblock"
+  },
+  {
+    "word": "visoría",
+    "pos": "noun",
+    "def": "training session attended by scouts"
+  },
+  {
+    "word": "conflictuar",
+    "pos": "verb",
+    "def": "to cause a conflict"
+  },
+  {
+    "word": "pamba",
+    "pos": "noun",
+    "def": "series of blows, beating"
+  },
+  {
+    "word": "olla express",
+    "pos": "noun",
+    "def": "pressure cooker"
+  },
+  {
+    "word": "jalador",
+    "pos": "noun",
+    "def": "squeegee mop"
+  },
+  {
+    "word": "pípila",
+    "pos": "noun",
+    "def": "(female) turkey"
+  },
+  {
+    "word": "franelero",
+    "pos": "noun",
+    "def": "car park attendant (especially, an illegal one)"
+  },
+  {
+    "word": "infraccionar",
+    "pos": "verb",
+    "def": "to fine"
+  },
+  {
+    "word": "primazo",
+    "pos": "noun",
+    "def": "a nickname for Alfredo Del Mazo Maza"
+  },
+  {
+    "word": "tuzo",
+    "pos": "noun",
+    "def": "mole"
+  },
+  {
+    "word": "chiquear",
+    "pos": "verb",
+    "def": "to pamper; spoil rotten"
+  },
+  {
+    "word": "irse de pinta",
+    "pos": "verb",
+    "def": "to play hooky"
+  },
+  {
+    "word": "triate",
+    "pos": "noun",
+    "def": "triplet"
+  },
+  {
+    "word": "rostizar",
+    "pos": "verb",
+    "def": "to barbecue; to spitroast"
+  },
+  {
+    "word": "descarapelar",
+    "pos": "verb",
+    "def": "to flake; flake off"
+  },
+  {
+    "word": "chingarle",
+    "pos": "verb",
+    "def": "to work hard; to bust one's ass"
+  },
+  {
+    "word": "antecomedor",
+    "pos": "noun",
+    "def": "dinette (a small room next to the dining room)"
+  },
+  {
+    "word": "marquesita",
+    "pos": "noun",
+    "def": "a dessert made from a thin wafer rolled into a tube and stuffed with cheese and sweet fillings"
+  },
+  {
+    "word": "apenitas",
+    "pos": "adv",
+    "def": "diminutive of apenas (“hardly at all”)"
+  },
+  {
+    "word": "federico",
+    "pos": "adj",
+    "def": "ugly as sin, fugly"
+  },
+  {
+    "word": "bóiler",
+    "pos": "noun",
+    "def": "boiler"
+  },
+  {
+    "word": "casa rodante",
+    "pos": "noun",
+    "def": "caravan; recreational vehicle; motor home"
+  },
+  {
+    "word": "fustán",
+    "pos": "noun",
+    "def": "petticoat"
+  },
+  {
+    "word": "unicel",
+    "pos": "noun",
+    "def": "styrofoam"
+  },
+  {
+    "word": "pepenador",
+    "pos": "noun",
+    "def": "scavenger"
+  },
+  {
+    "word": "madrazo",
+    "pos": "noun",
+    "def": "a sharp blow or strike; thump; thwack; whack; bash"
+  },
+  {
+    "word": "tanate",
+    "pos": "noun",
+    "def": "a palm-leaf basket carried on the back; tenate"
+  },
+  {
+    "word": "chumazo",
+    "pos": "noun",
+    "def": "handful, bunch"
+  },
+  {
+    "word": "bacacho",
+    "pos": "noun",
+    "def": "Bacardi white rum"
+  },
+  {
+    "word": "bachicha",
+    "pos": "noun",
+    "def": "dregs"
+  },
+  {
+    "word": "ecónomo",
+    "pos": "noun",
+    "def": "manager"
+  },
+  {
+    "word": "atrapanovios",
+    "pos": "noun",
+    "def": "Chinese finger trap"
+  },
+  {
+    "word": "bolón",
+    "pos": "noun",
+    "def": "a lot; a bunch"
+  },
+  {
+    "word": "chaquetero",
+    "pos": "noun",
+    "def": "masturbator; wanker, especially a man"
+  },
+  {
+    "word": "prepa",
+    "pos": "noun",
+    "def": "clipping of preparatoria (“high school”)"
+  },
+  {
+    "word": "pirrurris",
+    "pos": "noun",
+    "def": "posho; snob"
+  },
+  {
+    "word": "inconformarse",
+    "pos": "verb",
+    "def": "to rebel; to go against the grain"
+  },
+  {
+    "word": "pambolero",
+    "pos": "adj",
+    "def": "footballing; football"
+  },
+  {
+    "word": "garrafón",
+    "pos": "noun",
+    "def": "20 liter water jug"
+  },
+  {
+    "word": "cabildante",
+    "pos": "noun",
+    "def": "town councillor"
+  },
+  {
+    "word": "briago",
+    "pos": "adj",
+    "def": "drunk"
+  },
+  {
+    "word": "caguama",
+    "pos": "noun",
+    "def": "a 940 ml (32 oz.) beer bottle with a distinctive squat shape, commonly sold in Mexico"
+  },
+  {
+    "word": "orzuela",
+    "pos": "noun",
+    "def": "split ends (of hair)"
+  },
+  {
+    "word": "cañabar",
+    "pos": "noun",
+    "def": "homemade rum"
+  },
+  {
+    "word": "disímbolo",
+    "pos": "adj",
+    "def": "different"
+  },
+  {
+    "word": "cantinflesco",
+    "pos": "adj",
+    "def": "in the style of Cantinflas, a Mexican comedy actor"
+  },
+  {
+    "word": "acantinflado",
+    "pos": "adj",
+    "def": "in the style of Cantinflas, a Mexican comedy actor"
+  },
+  {
+    "word": "belatobe",
+    "pos": "noun",
+    "def": "maguey worm"
+  },
+  {
+    "word": "verificentro",
+    "pos": "noun",
+    "def": "a center where vehicles are tested for emissions"
+  },
+  {
+    "word": "trajinera",
+    "pos": "noun",
+    "def": "a type of small colourful boat maneuvered with a pole"
+  },
+  {
+    "word": "supervía",
+    "pos": "noun",
+    "def": "highway"
+  },
+  {
+    "word": "autolavado",
+    "pos": "noun",
+    "def": "carwash, car wash"
+  },
+  {
+    "word": "tiliche",
+    "pos": "noun",
+    "def": "knick-knack"
+  },
+  {
+    "word": "contlapache",
+    "pos": "noun",
+    "def": "accomplice"
+  },
+  {
+    "word": "macrosimulacro",
+    "pos": "noun",
+    "def": "large-scale earthquake drill"
+  },
+  {
+    "word": "piojito",
+    "pos": "noun",
+    "def": "a stroke, caress or scratch, done on a person's scalp with one's fingers"
+  },
+  {
+    "word": "tristear",
+    "pos": "verb",
+    "def": "to wallow; to be sad"
+  },
+  {
+    "word": "de deveras",
+    "pos": "adv",
+    "def": "alternative form of de veras (“really; actually”)"
+  },
+  {
+    "word": "de a deveras",
+    "pos": "adv",
+    "def": "alternative form of de veras (“really; actually”)"
+  },
+  {
+    "word": "videohome",
+    "pos": "noun",
+    "def": "B-movie"
+  },
+  {
+    "word": "maicear",
+    "pos": "verb",
+    "def": "to feed corn"
+  },
+  {
+    "word": "yonke",
+    "pos": "noun",
+    "def": "junk yard, scrapyard"
+  },
+  {
+    "word": "yonkero",
+    "pos": "noun",
+    "def": "junk yard worker"
+  },
+  {
+    "word": "turbosina",
+    "pos": "noun",
+    "def": "jet fuel"
+  },
+  {
+    "word": "temblorina",
+    "pos": "noun",
+    "def": "violent shaking"
+  },
+  {
+    "word": "standopero",
+    "pos": "noun",
+    "def": "stand-up (comedian)"
+  },
+  {
+    "word": "palero",
+    "pos": "noun",
+    "def": "shill (accomplice of a con artist)"
+  },
+  {
+    "word": "botanero",
+    "pos": "noun",
+    "def": "snack bar"
+  },
+  {
+    "word": "agandalle",
+    "pos": "noun",
+    "def": "stealing; robbery"
+  },
+  {
+    "word": "tornamesa",
+    "pos": "noun",
+    "def": "turntable, record player"
+  },
+  {
+    "word": "machona",
+    "pos": "noun",
+    "def": "tomboy"
+  },
+  {
+    "word": "guango",
+    "pos": "noun",
+    "def": "baggy or loose-fitting clothing"
+  },
+  {
+    "word": "tepezcohuite",
+    "pos": "noun",
+    "def": "jurema or black jurema (Mimosa tenuiflora), a tree of Brazil and Central America, also known as jurema preta, calumbi (Brazil), carbonal, cabrera, and vinho de jurema"
+  },
+  {
+    "word": "centro de autoacceso",
+    "pos": "noun",
+    "def": "self-study centre"
+  },
+  {
+    "word": "rafaguear",
+    "pos": "verb",
+    "def": "to mow down; to riddle with bullets (from a machine gun)"
+  },
+  {
+    "word": "puñetear",
+    "pos": "verb",
+    "def": "to punch"
+  },
+  {
+    "word": "papaloquelite",
+    "pos": "noun",
+    "def": "any of several culinary herbs in the genus Porophyllum, notable for a very strong, distinctive flavor reminiscent of cilantro"
+  },
+  {
+    "word": "cuerear",
+    "pos": "verb",
+    "def": "to flay; to whip (with a leather belt)"
+  },
+  {
+    "word": "cuche",
+    "pos": "noun",
+    "def": "pig"
+  },
+  {
+    "word": "cucho",
+    "pos": "noun",
+    "def": "person with a cleft lip"
+  },
+  {
+    "word": "aventurilla",
+    "pos": "noun",
+    "def": "vermilion flycatcher (Pyrocephalus obscurus)"
+  },
+  {
+    "word": "supervigilar",
+    "pos": "verb",
+    "def": "to surveil; to oversee"
+  },
+  {
+    "word": "tortuguismo",
+    "pos": "noun",
+    "def": "slow progress"
+  },
+  {
+    "word": "momiza",
+    "pos": "noun",
+    "def": "the older, old-fashioned generation"
+  },
+  {
+    "word": "palomilla",
+    "pos": "noun",
+    "def": "clique; club;. band (of people with a similar hobby)"
+  },
+  {
+    "word": "chupamiel",
+    "pos": "noun",
+    "def": "hummingbird"
+  },
+  {
+    "word": "cotón",
+    "pos": "noun",
+    "def": "shirt, blouse"
+  },
+  {
+    "word": "apaste",
+    "pos": "noun",
+    "def": "earthenware pot, earthenware tub with handles"
+  },
+  {
+    "word": "malacara",
+    "pos": "noun",
+    "def": "horse with a mostly white face"
+  },
+  {
+    "word": "huarachudo",
+    "pos": "noun",
+    "def": "bumpkin"
+  },
+  {
+    "word": "guarachudo",
+    "pos": "noun",
+    "def": "bumpkin"
+  },
+  {
+    "word": "huerco",
+    "pos": "noun",
+    "def": "little child"
+  },
+  {
+    "word": "chacmool",
+    "pos": "noun",
+    "def": "jaguar"
+  },
+  {
+    "word": "zacuaro",
+    "pos": "noun",
+    "def": "cattle egret (Bubulcus ibis)"
+  },
+  {
+    "word": "cuatitud",
+    "pos": "noun",
+    "def": "cronyism"
+  },
+  {
+    "word": "tener un buen tiempo",
+    "pos": "verb",
+    "def": "to have a good time"
+  },
+  {
+    "word": "ratón lavandero",
+    "pos": "noun",
+    "def": "raccoon"
+  },
+  {
+    "word": "xaminí",
+    "pos": "noun",
+    "def": "a cultivar of Agave salmiana maguey"
+  },
+  {
+    "word": "pan dulce",
+    "pos": "noun",
+    "def": "pan dulce"
+  },
+  {
+    "word": "fuereño",
+    "pos": "noun",
+    "def": "outsider; foreigner; gringo"
+  },
+  {
+    "word": "chahuistle",
+    "pos": "noun",
+    "def": "wheat leaf rust, brown rust (Puccinia triticina)"
+  },
+  {
+    "word": "chaquiste",
+    "pos": "noun",
+    "def": "no-see-um, biting midge (Forcipomyia nodosa, from the midge family Ceratopogonidae)"
+  },
+  {
+    "word": "chanate",
+    "pos": "noun",
+    "def": "great-tailed grackle (Quiscalus mexicanus)"
+  },
+  {
+    "word": "engrapadora",
+    "pos": "noun",
+    "def": "stapler"
+  },
+  {
+    "word": "lambeculo",
+    "pos": "noun",
+    "def": "alternative form of lameculos"
+  },
+  {
+    "word": "tequio",
+    "pos": "noun",
+    "def": "a type of community service consisting of cooperating together on various projects"
+  },
+  {
+    "word": "despeluzar",
+    "pos": "verb",
+    "def": "to bleed dry; to clean out"
+  },
+  {
+    "word": "unión americana",
+    "pos": "noun",
+    "def": "United States of America"
+  },
+  {
+    "word": "entremedio",
+    "pos": "adv",
+    "def": "in between, in the middle"
+  },
+  {
+    "word": "retrato hablado",
+    "pos": "noun",
+    "def": "identikit, police sketch, composite sketch, facial composite"
+  },
+  {
+    "word": "dragonear",
+    "pos": "verb",
+    "def": "to pose (as a professional), to pretend"
+  },
+  {
+    "word": "sobajar",
+    "pos": "verb",
+    "def": "to humiliate"
+  },
+  {
+    "word": "T-MEC",
+    "pos": "name",
+    "def": "USMCA; acronym of Tratado entre México y Estados Unidos y Canadá"
+  },
+  {
+    "word": "padrote",
+    "pos": "noun",
+    "def": "pimp (prostitution solicitor)"
+  },
+  {
+    "word": "cuarraco",
+    "pos": "adj",
+    "def": "hobbling; limping"
+  },
+  {
+    "word": "chichiquelite",
+    "pos": "noun",
+    "def": "black nightshade (Solanum nigrum)"
+  },
+  {
+    "word": "ocotoso",
+    "pos": "adj",
+    "def": "full of pine resin"
+  },
+  {
+    "word": "guerrista",
+    "pos": "adj",
+    "def": "very bad, very naughty, very mischievous"
+  },
+  {
+    "word": "chingonería",
+    "pos": "noun",
+    "def": "badass, awesome, kickass, wonder, belter, ripper, something great"
+  },
+  {
+    "word": "tiricia",
+    "pos": "noun",
+    "def": "sloth, laziness"
+  },
+  {
+    "word": "coyol",
+    "pos": "noun",
+    "def": "grugru palm; coyol palm; or its fruit"
+  },
+  {
+    "word": "buchón",
+    "pos": "noun",
+    "def": "drug trafficker"
+  },
+  {
+    "word": "visoriar",
+    "pos": "verb",
+    "def": "to scout"
+  },
+  {
+    "word": "dentrar",
+    "pos": "verb",
+    "def": "to enter, go in"
+  },
+  {
+    "word": "salpicadera",
+    "pos": "noun",
+    "def": "mudguard"
+  },
+  {
+    "word": "huachicoleo",
+    "pos": "noun",
+    "def": "the selling of huachicol"
+  },
+  {
+    "word": "hacer el fuchi",
+    "pos": "verb",
+    "def": "to snub; turn up one's nose (at)"
+  },
+  {
+    "word": "bancazo",
+    "pos": "noun",
+    "def": "bank robbery; hold-up"
+  },
+  {
+    "word": "pipirisnáis",
+    "pos": "adj",
+    "def": "expensive and fancy (said of an object)"
+  },
+  {
+    "word": "chimuelo",
+    "pos": "adj",
+    "def": "missing at least one tooth"
+  },
+  {
+    "word": "borlote",
+    "pos": "noun",
+    "def": "fuss; uproar"
+  },
+  {
+    "word": "destapacaños",
+    "pos": "noun",
+    "def": "plunger"
+  },
+  {
+    "word": "chopear",
+    "pos": "verb",
+    "def": "to dunk (e.g. bread in a drink)"
+  },
+  {
+    "word": "chaineada",
+    "pos": "noun",
+    "def": "clean (act of cleaning)"
+  },
+  {
+    "word": "chaviza",
+    "pos": "noun",
+    "def": "youngsters; yoofs; youth"
+  },
+  {
+    "word": "chingadazo",
+    "pos": "noun",
+    "def": "a sharp blow or strike; thump; thwack; whack; bash"
+  },
+  {
+    "word": "licencia de manejo",
+    "pos": "noun",
+    "def": "driver's license"
+  },
+  {
+    "word": "pelar el gallo",
+    "pos": "verb",
+    "def": "kick the bucket; snuff it"
+  },
+  {
+    "word": "seguro social",
+    "pos": "noun",
+    "def": "alternative form of seguridad social"
+  },
+  {
+    "word": "vinagrón",
+    "pos": "noun",
+    "def": "whip scorpion"
+  },
+  {
+    "word": "llégale",
+    "pos": "intj",
+    "def": "get lost, go away (used to ask someone to leave)"
+  },
+  {
+    "word": "clemole",
+    "pos": "noun",
+    "def": "a traditional soup where meat, vegetables and strong flavor elements are combined"
+  },
+  {
+    "word": "no manches",
+    "pos": "phrase",
+    "def": "don't screw around, stop joking, stop being silly"
+  },
+  {
+    "word": "necuazal",
+    "pos": "noun",
+    "def": "honey ant (Myrmecocystus spp.)"
+  },
+  {
+    "word": "velís",
+    "pos": "noun",
+    "def": "carry-on"
+  },
+  {
+    "word": "cacalosúchil",
+    "pos": "noun",
+    "def": "frangipani (Plumeria spp.)"
+  },
+  {
+    "word": "camotal",
+    "pos": "noun",
+    "def": "a field or plot of land where sweet potatoes are grown"
+  },
+  {
+    "word": "verguear",
+    "pos": "verb",
+    "def": "to give a beating to (someone)"
+  },
+  {
+    "word": "ababábite",
+    "pos": "noun",
+    "def": "Poulsenia armata"
+  },
+  {
+    "word": "mayora",
+    "pos": "noun",
+    "def": "an elderly female cook, who may work in a commercial kitchen but typically does not have formal training"
+  },
+  {
+    "word": "cesto de basura",
+    "pos": "noun",
+    "def": "wastebasket"
+  },
+  {
+    "word": "repelar",
+    "pos": "verb",
+    "def": "to moan; grumble"
+  },
+  {
+    "word": "vergazo",
+    "pos": "noun",
+    "def": "blow, strike, knock, smack"
+  },
+  {
+    "word": "tlecuil",
+    "pos": "noun",
+    "def": "brazier"
+  },
+  {
+    "word": "ocotal",
+    "pos": "noun",
+    "def": "a place where pine trees grow; pinery"
+  },
+  {
+    "word": "molón",
+    "pos": "adj",
+    "def": "(of a person) annoying"
+  },
+  {
+    "word": "campechanería",
+    "pos": "noun",
+    "def": "good manners; kindliness"
+  },
+  {
+    "word": "chingar a su madre",
+    "pos": "verb",
+    "def": "to fuck oneself"
+  },
+  {
+    "word": "zapalote",
+    "pos": "noun",
+    "def": "a kind of banana"
+  },
+  {
+    "word": "alquimila",
+    "pos": "noun",
+    "def": "Geranium mexicanum"
+  },
+  {
+    "word": "árbol del algodón",
+    "pos": "noun",
+    "def": "kapok tree (Ceiba pentandra)"
+  },
+  {
+    "word": "olotera",
+    "pos": "noun",
+    "def": "olotera"
+  },
+  {
+    "word": "enchapopotar",
+    "pos": "verb",
+    "def": "to pave"
+  },
+  {
+    "word": "obrajero",
+    "pos": "noun",
+    "def": "pork butcher"
+  },
+  {
+    "word": "alcapate",
+    "pos": "noun",
+    "def": "coriander"
+  },
+  {
+    "word": "pedorriento",
+    "pos": "adj",
+    "def": "farty (prone to farting)"
+  },
+  {
+    "word": "cuaco",
+    "pos": "noun",
+    "def": "a horse"
+  },
+  {
+    "word": "yorkino",
+    "pos": "adj",
+    "def": "of or relating to the Yorkinos, a Masonic lodge belonging to the York Rite"
+  },
+  {
+    "word": "luego de",
+    "pos": "prep",
+    "def": "right after, following"
+  },
+  {
+    "word": "tuche",
+    "pos": "noun",
+    "def": "vagina"
+  },
+  {
+    "word": "machín",
+    "pos": "noun",
+    "def": "monkey"
+  },
+  {
+    "word": "chilpayate",
+    "pos": "noun",
+    "def": "kid (young child)"
+  },
+  {
+    "word": "tololoche",
+    "pos": "noun",
+    "def": "a traditional musical instrument from northern Mexico, similar to a double bass"
+  },
+  {
+    "word": "cojolite",
+    "pos": "noun",
+    "def": "crested guan (Penelope purpurascens)"
+  },
+  {
+    "word": "rolin",
+    "pos": "noun",
+    "def": "baseball glove"
+  },
+  {
+    "word": "enchuecar",
+    "pos": "verb",
+    "def": "to cause to bend"
+  },
+  {
+    "word": "atarragar",
+    "pos": "verb",
+    "def": "to wolf down"
+  },
+  {
+    "word": "reyecito",
+    "pos": "noun",
+    "def": "phainopepla"
+  },
+  {
+    "word": "ya ni modo",
+    "pos": "intj",
+    "def": "That's too bad! Oh well! alas"
+  },
+  {
+    "word": "DLV",
+    "pos": "adj",
+    "def": "initialism of de la verga: very bad; terrible; crappy"
+  },
+  {
+    "word": "chúntaro",
+    "pos": "noun",
+    "def": "hermit"
+  },
+  {
+    "word": "ñero",
+    "pos": "noun",
+    "def": "A vulgar or uneducated person"
+  },
+  {
+    "word": "betabel",
+    "pos": "noun",
+    "def": "beet, beetroot"
+  },
+  {
+    "word": "bocabajeado",
+    "pos": "adj",
+    "def": "crestfallen; downbeat"
+  },
+  {
+    "word": "papel de China",
+    "pos": "noun",
+    "def": "tissue paper (for gift bags or to wrap delicate items)"
+  },
+  {
+    "word": "papalomé",
+    "pos": "noun",
+    "def": "butterfly agave (Agave potatorum)"
+  },
+  {
+    "word": "toletazo",
+    "pos": "noun",
+    "def": "hit with a cudgel"
+  },
+  {
+    "word": "apantallar",
+    "pos": "verb",
+    "def": "to impress (someone), to cause awe to (someone)."
+  },
+  {
+    "word": "león de montaña",
+    "pos": "noun",
+    "def": "mountain lion, cougar, puma"
+  },
+  {
+    "word": "marcador fluorescente",
+    "pos": "noun",
+    "def": "highlighter"
+  },
+  {
+    "word": "andobas",
+    "pos": "noun",
+    "def": "alternative form of andoba"
+  },
+  {
+    "word": "totomostle",
+    "pos": "noun",
+    "def": "corn husk, dried maize leaves"
+  },
+  {
+    "word": "ortejo",
+    "pos": "noun",
+    "def": "toe"
+  },
+  {
+    "word": "méndigo",
+    "pos": "noun",
+    "def": "despicable person"
+  },
+  {
+    "word": "charal",
+    "pos": "noun",
+    "def": "any of numerous species of small freshwater fish, especially when dried and used as food"
+  },
+  {
+    "word": "corbata de moño",
+    "pos": "noun",
+    "def": "bowtie"
+  },
+  {
+    "word": "nicuatole",
+    "pos": "noun",
+    "def": "a dessert made from ground corn and sugar, traditional in Oaxaca, Mexico"
+  },
+  {
+    "word": "bolsista",
+    "pos": "noun",
+    "def": "pickpocket"
+  },
+  {
+    "word": "pasón",
+    "pos": "noun",
+    "def": "wonder, marvel (something astonishing)"
+  },
+  {
+    "word": "guajolota",
+    "pos": "noun",
+    "def": "turkey hen"
+  },
+  {
+    "word": "tejate",
+    "pos": "noun",
+    "def": "a traditional Oaxacan beverage made from maize, rosita de cacao, mamey sapote and cacao"
+  },
+  {
+    "word": "chambarete",
+    "pos": "noun",
+    "def": "shank (cut of meat)"
+  },
+  {
+    "word": "pitiona",
+    "pos": "noun",
+    "def": "Lippia alba (flowering plant used in cooking and traditional medicine)"
+  },
+  {
+    "word": "Día de los Muertos",
+    "pos": "name",
+    "def": "alternative form of Día de Muertos"
+  },
+  {
+    "word": "tompeate",
+    "pos": "noun",
+    "def": "tenate (basket)"
+  },
+  {
+    "word": "propela",
+    "pos": "noun",
+    "def": "propeller"
+  },
+  {
+    "word": "cemita",
+    "pos": "noun",
+    "def": "a type of bread roll, or a sandwich served on this type of roll"
+  },
+  {
+    "word": "charpe",
+    "pos": "noun",
+    "def": "slingshot"
+  },
+  {
+    "word": "yonque",
+    "pos": "noun",
+    "def": "alternative spelling of yonke"
+  },
+  {
+    "word": "teporocho",
+    "pos": "noun",
+    "def": "drunkard; lush"
+  },
+  {
+    "word": "guantear",
+    "pos": "verb",
+    "def": "to slap"
+  },
+  {
+    "word": "bajux",
+    "pos": "adv",
+    "def": "how much"
+  },
+  {
+    "word": "pan bimbo",
+    "pos": "noun",
+    "def": "sliced bread"
+  },
+  {
+    "word": "a la mejor",
+    "pos": "adv",
+    "def": "alternative form of a lo mejor"
+  },
+  {
+    "word": "balero",
+    "pos": "noun",
+    "def": "rolling-element bearing"
+  },
+  {
+    "word": "tacuche",
+    "pos": "noun",
+    "def": "suit (men's clothing)"
+  },
+  {
+    "word": "alux",
+    "pos": "noun",
+    "def": "sprite, fairy"
+  },
+  {
+    "word": "muertear",
+    "pos": "verb",
+    "def": "to carry out a certain process to remember the dead"
+  },
+  {
+    "word": "despapaye",
+    "pos": "noun",
+    "def": "mess, disorder"
+  },
+  {
+    "word": "chamuco",
+    "pos": "noun",
+    "def": "devil, demon"
+  },
+  {
+    "word": "rosticería",
+    "pos": "noun",
+    "def": "rotisserie (shop or restaurant)"
+  },
+  {
+    "word": "buchaca",
+    "pos": "noun",
+    "def": "a mouth, especially if big"
+  },
+  {
+    "word": "dar bajín",
+    "pos": "verb",
+    "def": "to end; to finish"
+  },
+  {
+    "word": "darse color",
+    "pos": "verb",
+    "def": "to notice, to realize, to figure out, to pick up on"
+  },
+  {
+    "word": "me vale madre",
+    "pos": "intj",
+    "def": "I don't care"
+  },
+  {
+    "word": "enmicar",
+    "pos": "verb",
+    "def": "to laminate"
+  },
+  {
+    "word": "ver la cara",
+    "pos": "verb",
+    "def": "to trick, to deceive, to hoodwink"
+  },
+  {
+    "word": "madriza",
+    "pos": "noun",
+    "def": "beating, bashing"
+  },
+  {
+    "word": "fomi",
+    "pos": "noun",
+    "def": "polymeric foam; polyfoam"
+  },
+  {
+    "word": "alburero",
+    "pos": "adj",
+    "def": "related to albures (form of sexual innuendo)"
+  },
+  {
+    "word": "no tener madre",
+    "pos": "verb",
+    "def": "to be the limit; to be an asshole"
+  },
+  {
+    "word": "venganza de Moctezuma",
+    "pos": "noun",
+    "def": "Montezuma's revenge (diarrhea experienced by a tourist in Mexico)"
+  },
+  {
+    "word": "escobeta",
+    "pos": "noun",
+    "def": "a brush made with sacaton root"
+  },
+  {
+    "word": "brincolín",
+    "pos": "noun",
+    "def": "bouncy castle"
+  },
+  {
+    "word": "revoltura",
+    "pos": "noun",
+    "def": "mixture"
+  },
+  {
+    "word": "analco",
+    "pos": "noun",
+    "def": "a neighborhood of a town or village divided by a river"
+  },
+  {
+    "word": "coscomate",
+    "pos": "noun",
+    "def": "a closed earthenware vessel used to store corn"
+  },
+  {
+    "word": "piñanona",
+    "pos": "noun",
+    "def": "Swiss cheese plant, Monstera deliciosa"
+  },
+  {
+    "word": "guacamote",
+    "pos": "noun",
+    "def": "cassava, Manihot esculenta"
+  },
+  {
+    "word": "cacalote",
+    "pos": "noun",
+    "def": "raven"
+  },
+  {
+    "word": "nauyaca",
+    "pos": "noun",
+    "def": "fer-de-lance, Bothrops atrox"
+  },
+  {
+    "word": "saltapared",
+    "pos": "noun",
+    "def": "canyon wren (Catherpes mexicanus)"
+  },
+  {
+    "word": "isuate",
+    "pos": "noun",
+    "def": "a species of palm tree, Brahea dulcis"
+  },
+  {
+    "word": "iquimite",
+    "pos": "noun",
+    "def": "flame coral tree, Erythrina coralloides"
+  },
+  {
+    "word": "zompancle",
+    "pos": "noun",
+    "def": "flame coral tree, Erythrina coralloides"
+  },
+  {
+    "word": "mazacuata",
+    "pos": "noun",
+    "def": "Mexican boa constrictor (scientific name Boa imperator)"
+  },
+  {
+    "word": "sopa seca",
+    "pos": "noun",
+    "def": "Mexican dry soup"
+  },
+  {
+    "word": "chípil",
+    "pos": "adj",
+    "def": "sad, melancholy"
+  },
+  {
+    "word": "pijuy",
+    "pos": "noun",
+    "def": "groove-billed ani, a native bird species of Mesoamerica"
+  },
+  {
+    "word": "chirrión",
+    "pos": "noun",
+    "def": "thick leather whip"
+  },
+  {
+    "word": "Vallarta",
+    "pos": "name",
+    "def": "a placename"
+  },
+  {
+    "word": "popal",
+    "pos": "noun",
+    "def": "swamp"
+  },
+  {
+    "word": "chiflón",
+    "pos": "noun",
+    "def": "walling in"
+  },
+  {
+    "word": "letra chica",
+    "pos": "noun",
+    "def": "fine print, small print"
+  },
+  {
+    "word": "colmilludo",
+    "pos": "adj",
+    "def": "astute, shrewd"
+  },
+  {
+    "word": "mercedar",
+    "pos": "verb",
+    "def": "to concede (land for exploitation)"
+  },
+  {
+    "word": "malinche",
+    "pos": "noun",
+    "def": "traitor"
+  },
+  {
+    "word": "pastel de frutas",
+    "pos": "noun",
+    "def": "fruit tart"
+  },
+  {
+    "word": "bembo",
+    "pos": "adj",
+    "def": "having large lips"
+  },
+  {
+    "word": "emputar",
+    "pos": "verb",
+    "def": "get (really) angry"
+  },
+  {
+    "word": "camotero",
+    "pos": "noun",
+    "def": "sweet potato seller"
+  },
+  {
+    "word": "chipileño",
+    "pos": "adj",
+    "def": "of, from or relating to Chipilo"
+  },
+  {
+    "word": "apanicado",
+    "pos": "adj",
+    "def": "panic-stricken"
+  },
+  {
+    "word": "copetín",
+    "pos": "noun",
+    "def": "apéritif"
+  },
+  {
+    "word": "carrerear",
+    "pos": "verb",
+    "def": "to rush"
+  },
+  {
+    "word": "enojón",
+    "pos": "adj",
+    "def": "grouchy, bad-tempered"
+  },
+  {
+    "word": "trailero",
+    "pos": "noun",
+    "def": "truck driver"
+  },
+  {
+    "word": "chambrita",
+    "pos": "noun",
+    "def": "a knitted baby top"
+  },
+  {
+    "word": "tóper",
+    "pos": "noun",
+    "def": "alternative form of tupper"
+  },
+  {
+    "word": "pajuelear",
+    "pos": "verb",
+    "def": "to whip; to spank"
+  },
+  {
+    "word": "menjurje",
+    "pos": "noun",
+    "def": "alternative form of mejunje"
+  },
+  {
+    "word": "yagual",
+    "pos": "noun",
+    "def": "circular thick ring, typically of cloth, used to hold a weight on one's head"
+  },
+  {
+    "word": "ni modo",
+    "pos": "phrase",
+    "def": "too bad; tough luck; it is what it is (used to express acceptance of a misfortune)"
+  },
+  {
+    "word": "callejonear",
+    "pos": "verb",
+    "def": "to go through alleys, usually to get to the destination faster or to avoid wider streets"
+  },
+  {
+    "word": "firuláis",
+    "pos": "name",
+    "def": "alternative letter-case form of Firulais: a generic name used for a stray dog"
+  },
+  {
+    "word": "tejamanil",
+    "pos": "noun",
+    "def": "a thin wooden plank, used to tile buildings"
+  },
+  {
+    "word": "ahora es cuando, chile verde, le has de dar sabor al caldo",
+    "pos": "proverb",
+    "def": "the floor is now yours; it's your turn to act/speak/shine"
+  },
+  {
+    "word": "chile verde",
+    "pos": "noun",
+    "def": "any of various green chili peppers"
+  },
+  {
+    "word": "radiofusora",
+    "pos": "noun",
+    "def": "radio station"
+  },
+  {
+    "word": "morrito",
+    "pos": "adj",
+    "def": "young"
+  },
+  {
+    "word": "ex profesamente",
+    "pos": "adv",
+    "def": "synonym of ex profeso"
+  },
+  {
+    "word": "apiñonado",
+    "pos": "adj",
+    "def": "pine nut colored (often used to describe skin color)"
+  },
+  {
+    "word": "toche",
+    "pos": "noun",
+    "def": "nine-banded armadillo"
+  },
+  {
+    "word": "engargolar",
+    "pos": "verb",
+    "def": "to bind with plastic coil"
+  },
+  {
+    "word": "interfón",
+    "pos": "noun",
+    "def": "intercom"
+  },
+  {
+    "word": "arcinar",
+    "pos": "verb",
+    "def": "to pile up"
+  },
+  {
+    "word": "exprofesamente",
+    "pos": "adv",
+    "def": "synonym of ex profeso"
+  },
+  {
+    "word": "taquiza",
+    "pos": "noun",
+    "def": "taco party (a buffet where tacos are served)"
+  },
+  {
+    "word": "arrimón",
+    "pos": "noun",
+    "def": "pelvic thrust"
+  },
+  {
+    "word": "chilillo",
+    "pos": "noun",
+    "def": "a kind of whip"
+  },
+  {
+    "word": "chivear",
+    "pos": "verb",
+    "def": "to make (someone) embarrassed"
+  },
+  {
+    "word": "recarpetear",
+    "pos": "verb",
+    "def": "to repave"
+  },
+  {
+    "word": "quihubo",
+    "pos": "phrase",
+    "def": "what's up?; what's new?"
+  },
+  {
+    "word": "a todo dar",
+    "pos": "adj",
+    "def": "really great, the best"
+  },
+  {
+    "word": "a toda madre",
+    "pos": "adj",
+    "def": "amazing, off the hook, the bomb"
+  },
+  {
+    "word": "quehúbole",
+    "pos": "phrase",
+    "def": "what's up?"
+  },
+  {
+    "word": "quihúbole",
+    "pos": "phrase",
+    "def": "alternative spelling of quehúbole"
+  },
+  {
+    "word": "empedar",
+    "pos": "verb",
+    "def": "to get oneself drunk"
+  },
+  {
+    "word": "chíngale",
+    "pos": "intj",
+    "def": "get a move on, hurry up"
+  },
+  {
+    "word": "parián",
+    "pos": "noun",
+    "def": "public market"
+  },
+  {
+    "word": "guangoche",
+    "pos": "noun",
+    "def": "a coarse sackcloth or burlap (for packaging, covers, etc.)"
+  },
+  {
+    "word": "pluma de gel",
+    "pos": "noun",
+    "def": "gel pen"
+  },
+  {
+    "word": "cruzazulear",
+    "pos": "verb",
+    "def": "to choke; to choke up (lose a game after victory was almost assured)"
+  },
+  {
+    "word": "choquiya",
+    "pos": "noun",
+    "def": "an unpleasant lingering odor associated with poorly-washed dishes"
+  },
+  {
+    "word": "chepito",
+    "pos": "noun",
+    "def": "orange-billed nightingale-thrush (Catharus aurantiirostris)"
+  },
+  {
+    "word": "excursionar",
+    "pos": "verb",
+    "def": "to go on an excursion"
+  },
+  {
+    "word": "huateque",
+    "pos": "noun",
+    "def": "alternative spelling of guateque"
+  },
+  {
+    "word": "bataclana",
+    "pos": "noun",
+    "def": "showgirl"
+  },
+  {
+    "word": "echar porras",
+    "pos": "verb",
+    "def": "to cheer on"
+  },
+  {
+    "word": "escamocha",
+    "pos": "noun",
+    "def": "scraps, leftovers, slops"
+  },
+  {
+    "word": "lambrín",
+    "pos": "noun",
+    "def": "wooden wall tiling"
+  },
+  {
+    "word": "cuamil",
+    "pos": "noun",
+    "def": "a milpa; a cultivated account; a cuamil"
+  },
+  {
+    "word": "teibol",
+    "pos": "noun",
+    "def": "strip club"
+  },
+  {
+    "word": "predialazo",
+    "pos": "noun",
+    "def": "excessive increase in property tax"
+  },
+  {
+    "word": "de vuelta",
+    "pos": "adv",
+    "def": "again; once more"
+  },
+  {
+    "word": "del nabo",
+    "pos": "adj",
+    "def": "unwell, awful"
+  },
+  {
+    "word": "a la chingada",
+    "pos": "phrase",
+    "def": "screw this; to hell with..."
+  },
+  {
+    "word": "de la chingada",
+    "pos": "adj",
+    "def": "shitty, awful, horrible"
+  },
+  {
+    "word": "a poco",
+    "pos": "intj",
+    "def": "really, seriously (used to express surprise or disbelief)"
+  },
+  {
+    "word": "charcheta",
+    "pos": "noun",
+    "def": "a Mexican banda alto horn"
+  },
+  {
+    "word": "saxore",
+    "pos": "noun",
+    "def": "alto horn"
+  },
+  {
+    "word": "ponchadura",
+    "pos": "noun",
+    "def": "puncture"
+  },
+  {
+    "word": "bolsa de dormir",
+    "pos": "noun",
+    "def": "sleeping bag"
+  },
+  {
+    "word": "agua va",
+    "pos": "intj",
+    "def": "watch out!"
+  },
+  {
+    "word": "de un brinco",
+    "pos": "adv",
+    "def": "in one go"
+  },
+  {
+    "word": "ñora",
+    "pos": "noun",
+    "def": "old woman, hag"
+  },
+  {
+    "word": "presidente municipal",
+    "pos": "noun",
+    "def": "mayor"
+  },
+  {
+    "word": "macanazo",
+    "pos": "noun",
+    "def": "a hit with a macana"
+  },
+  {
+    "word": "dormir a pata ancha",
+    "pos": "phrase",
+    "def": "to sleep like a log"
+  },
+  {
+    "word": "hotel Camarena",
+    "pos": "phrase",
+    "def": "the beach sand, used as a bed to sleep, or spend the night in a reunion, get-together, meeting, etc."
+  },
+  {
+    "word": "móndrigo",
+    "pos": "adj",
+    "def": "crappy; lame"
+  },
+  {
+    "word": "ganarse los frijoles",
+    "pos": "verb",
+    "def": "to make a living"
+  },
+  {
+    "word": "acasillado",
+    "pos": "adj",
+    "def": "live-in"
+  },
+  {
+    "word": "preparatoriano",
+    "pos": "adj",
+    "def": "prep school; of or pertaining to the preparatoria (Mexican high school)"
+  },
+  {
+    "word": "pambacear",
+    "pos": "verb",
+    "def": "to beat, to thrash"
+  },
+  {
+    "word": "patín del diablo",
+    "pos": "noun",
+    "def": "scooter"
+  },
+  {
+    "word": "un tanto cuanto",
+    "pos": "adv",
+    "def": "a bit; ever so slightly"
+  },
+  {
+    "word": "caja de velocidades",
+    "pos": "noun",
+    "def": "gearbox"
+  },
+  {
+    "word": "barra de abogados",
+    "pos": "noun",
+    "def": "bar (lawyer's organisation)"
+  },
+  {
+    "word": "cadenero",
+    "pos": "noun",
+    "def": "bouncer"
+  },
+  {
+    "word": "cambio de velocidades",
+    "pos": "noun",
+    "def": "gearbox"
+  },
+  {
+    "word": "panel de instrumentos",
+    "pos": "noun",
+    "def": "instrument panel"
+  },
+  {
+    "word": "a todo mecate",
+    "pos": "adv",
+    "def": "full pelt"
+  },
+  {
+    "word": "coyámel",
+    "pos": "noun",
+    "def": "white-lipped peccary (Tayassu pecari)"
+  },
+  {
+    "word": "criandera",
+    "pos": "noun",
+    "def": "nanny"
+  },
+  {
+    "word": "toloque",
+    "pos": "noun",
+    "def": "basilisk lizard"
+  },
+  {
+    "word": "de pura uva",
+    "pos": "adj",
+    "def": "top-class"
+  },
+  {
+    "word": "acambarense",
+    "pos": "adj",
+    "def": "of, from or relating to Acámbaro"
+  },
+  {
+    "word": "terapia intensiva",
+    "pos": "noun",
+    "def": "emergency room; casualty department"
+  },
+  {
+    "word": "juguería",
+    "pos": "noun",
+    "def": "juicery"
+  },
+  {
+    "word": "tamalería",
+    "pos": "noun",
+    "def": "place where tamales are made or sold"
+  },
+  {
+    "word": "salchichonería",
+    "pos": "noun",
+    "def": "sausage shop"
+  },
+  {
+    "word": "mezcalería",
+    "pos": "noun",
+    "def": "mescal distillery"
+  },
+  {
+    "word": "mezcalear",
+    "pos": "verb",
+    "def": "to distil mezcal"
+  },
+  {
+    "word": "sepa la bola",
+    "pos": "phrase",
+    "def": "who knows?"
+  },
+  {
+    "word": "pendejez",
+    "pos": "noun",
+    "def": "stupidity, foolishness, silliness, asshattery, arseholery"
+  },
+  {
+    "word": "resistol",
+    "pos": "noun",
+    "def": "glue"
+  },
+  {
+    "word": "cabús",
+    "pos": "noun",
+    "def": "caboose (last car on a freight train)"
+  },
+  {
+    "word": "luis grande",
+    "pos": "noun",
+    "def": "great kiskadee (Pitangus sulphuratus)"
+  },
+  {
+    "word": "sabritas",
+    "pos": "noun",
+    "def": "potato chips"
+  },
+  {
+    "word": "contoy",
+    "pos": "contraction",
+    "def": "together with"
+  },
+  {
+    "word": "lamehuevos",
+    "pos": "noun",
+    "def": "ass-licker (US), arse-licker, ass-kisser, (US), arse-kisser (UK), brown-noser, toady, sycophant"
+  },
+  {
+    "word": "confleis",
+    "pos": "noun",
+    "def": "alternative form of cornfleiks"
+  },
+  {
+    "word": "carichís",
+    "pos": "noun",
+    "def": "cottage cheese"
+  },
+  {
+    "word": "azquel",
+    "pos": "noun",
+    "def": "small ant"
+  },
+  {
+    "word": "cagar el palo",
+    "pos": "verb",
+    "def": "to pester; to bother, to piss off."
+  },
+  {
+    "word": "chingar la madre",
+    "pos": "verb",
+    "def": "to annoy, to pester, to bug."
+  },
+  {
+    "word": "lambehuevos",
+    "pos": "noun",
+    "def": "alternative form of lamehuevos"
+  },
+  {
+    "word": "azquelín",
+    "pos": "noun",
+    "def": "little black ant"
+  },
+  {
+    "word": "echar un palo",
+    "pos": "verb",
+    "def": "to have sex"
+  },
+  {
+    "word": "echar pata",
+    "pos": "verb",
+    "def": "to have sex"
+  },
+  {
+    "word": "al ahí se va",
+    "pos": "adv",
+    "def": "carelessly; without thinking it through."
+  },
+  {
+    "word": "pediche",
+    "pos": "noun",
+    "def": "someone who asks for things frequently and importunately"
+  },
+  {
+    "word": "apá",
+    "pos": "noun",
+    "def": "apheretic form of papá (“dad”)"
+  },
+  {
+    "word": "apúrale",
+    "pos": "intj",
+    "def": "hurry up!"
+  },
+  {
+    "word": "zacahuil",
+    "pos": "noun",
+    "def": ". Huastec tamale."
+  },
+  {
+    "word": "dar atole con el dedo",
+    "pos": "verb",
+    "def": "to deceive (someone)."
+  },
+  {
+    "word": "putazo",
+    "pos": "noun",
+    "def": "a sharp blow, punch or strike; thump; thwack; whack; bash"
+  },
+  {
+    "word": "zapotazo",
+    "pos": "noun",
+    "def": "thump; thwack; whack; bash"
+  },
+  {
+    "word": "valer verga",
+    "pos": "verb",
+    "def": "to be worthless, not to care, to be not worth a damn fight"
+  },
+  {
+    "word": "nortear",
+    "pos": "verb",
+    "def": "to have strong winds blow from the north."
+  },
+  {
+    "word": "hacerse bola",
+    "pos": "verb",
+    "def": "to get confused."
+  },
+  {
+    "word": "mal de pinto",
+    "pos": "noun",
+    "def": "pinta (disease)"
+  },
+  {
+    "word": "callo de hacha",
+    "pos": "noun",
+    "def": "A mollusc of species Atrina maura"
+  },
+  {
+    "word": "agarrar a putazos",
+    "pos": "verb",
+    "def": "to beat up; come to blows"
+  },
+  {
+    "word": "al chile",
+    "pos": "adv",
+    "def": "frankly, to be honest, honestly, sincerely"
+  },
+  {
+    "word": "algotro",
+    "pos": "det",
+    "def": "other, another"
+  },
+  {
+    "word": "tapesco",
+    "pos": "noun",
+    "def": "a type of wattle, generally used as a bed or shelf."
+  },
+  {
+    "word": "frentudo",
+    "pos": "adj",
+    "def": "large-foreheaded"
+  },
+  {
+    "word": "chaineado",
+    "pos": "adj",
+    "def": "well-dressed"
+  },
+  {
+    "word": "épale",
+    "pos": "intj",
+    "def": "hey!"
+  },
+  {
+    "word": "colgar los tenis",
+    "pos": "verb",
+    "def": "to die"
+  },
+  {
+    "word": "chucte",
+    "pos": "noun",
+    "def": "Persea schiedeana (the tree or its fruit)"
+  },
+  {
+    "word": "chinín",
+    "pos": "noun",
+    "def": "Persea schiedeana (the tree or its fruit)"
+  },
+  {
+    "word": "chinene",
+    "pos": "noun",
+    "def": "alternative spelling of chinín (tree)"
+  },
+  {
+    "word": "xinene",
+    "pos": "noun",
+    "def": "alternative spelling of chinín (tree and its fruit)"
+  },
+  {
+    "word": "pahua",
+    "pos": "noun",
+    "def": "Persea schiedeana (the tree or its fruit)"
+  },
+  {
+    "word": "pagua",
+    "pos": "noun",
+    "def": "alternative spelling of pahua (the tree or its fruit)"
+  },
+  {
+    "word": "chachaco",
+    "pos": "adj",
+    "def": "alternative spelling of shashaco (pockmarked because of smallpox)"
+  },
+  {
+    "word": "estar hasta la verga",
+    "pos": "verb",
+    "def": "to be full or filled"
+  },
+  {
+    "word": "hasta la verga",
+    "pos": "adj",
+    "def": "full or filled"
+  },
+  {
+    "word": "hasta la madre",
+    "pos": "adj",
+    "def": "full or filled"
+  },
+  {
+    "word": "caer el veinte",
+    "pos": "verb",
+    "def": "to dawn on (someone)."
+  },
+  {
+    "word": "milusos",
+    "pos": "noun",
+    "def": "a person that does several jobs and is not a specialist in any of them."
+  },
+  {
+    "word": "qué pedo",
+    "pos": "phrase",
+    "def": "what's up? (A casual greeting)"
+  },
+  {
+    "word": "convenenciero",
+    "pos": "adj",
+    "def": "self-centered"
+  },
+  {
+    "word": "mesabanco",
+    "pos": "noun",
+    "def": "a student desk"
+  },
+  {
+    "word": "lépero",
+    "pos": "adj",
+    "def": "rude, obscene"
+  },
+  {
+    "word": "lonchar",
+    "pos": "verb",
+    "def": "to lunch"
+  },
+  {
+    "word": "traila",
+    "pos": "noun",
+    "def": "mobile home"
+  },
+  {
+    "word": "fúchila",
+    "pos": "intj",
+    "def": "yuck; eww"
+  },
+  {
+    "word": "está pariendo la venada",
+    "pos": "phrase",
+    "def": "said when it rains while the sun is shining; that is, when a sun shower occurs: the devil's beating his wife"
+  },
+  {
+    "word": "Firulais",
+    "pos": "name",
+    "def": "a generic name used for a stray dog"
+  },
+  {
+    "word": "frikiplaza",
+    "pos": "noun",
+    "def": "a mall focused on geek culture"
+  },
+  {
+    "word": "chincual",
+    "pos": "noun",
+    "def": "diaper rash"
+  },
+  {
+    "word": "awiwi",
+    "pos": "intj",
+    "def": "of course!"
+  },
+  {
+    "word": "whitexican",
+    "pos": "noun",
+    "def": "A snobby person exhibiting a sense of entitlement or white privilege, overlooking class consciousness and existent inequality issues in Mexico."
+  },
+  {
+    "word": "Juanga",
+    "pos": "name",
+    "def": "A nickname for the Mexican singer-songwriter and actor Juan Gabriel (1950–2016)."
+  },
+  {
+    "word": "por el chiquito",
+    "pos": "adv",
+    "def": "anal sex"
+  },
+  {
+    "word": "chapulinear",
+    "pos": "verb",
+    "def": "To flirt with or come on to one's friends' partners or romantic interests."
+  },
+  {
+    "word": "rascacazuelas",
+    "pos": "noun",
+    "def": "a person who doesn't have anything to eat; pot scraper."
+  },
+  {
+    "word": "jetón",
+    "pos": "adj",
+    "def": "a person prone to have an anger face"
+  },
+  {
+    "word": "morrita",
+    "pos": "noun",
+    "def": "diminutive of morra (“young girl”)"
+  },
+  {
+    "word": "cuachalote",
+    "pos": "adj",
+    "def": "lazy, filthy (of a person)"
+  },
+  {
+    "word": "sentón",
+    "pos": "noun",
+    "def": "landing on the arse or receiving or meting an impact thereupon"
+  },
+  {
+    "word": "a vuelta de rueda",
+    "pos": "adv",
+    "def": "very slowly"
+  },
+  {
+    "word": "chainear",
+    "pos": "verb",
+    "def": "to polish (shoes)"
+  },
+  {
+    "word": "en fa",
+    "pos": "adv",
+    "def": "immediately, quickly, rapidly"
+  },
+  {
+    "word": "en chinga",
+    "pos": "adv",
+    "def": "immediately, quickly, rapidly"
+  },
+  {
+    "word": "engentar",
+    "pos": "verb",
+    "def": "to overwhelm or exhaust one's capacity to socialize"
+  },
+  {
+    "word": "mero mero",
+    "pos": "noun",
+    "def": "head honcho, big cheese"
+  },
+  {
+    "word": "güinche",
+    "pos": "noun",
+    "def": "crane (machine for lifting heavy objects)"
+  },
+  {
+    "word": "puberto",
+    "pos": "noun",
+    "def": "teenager (person aged between thirteen and nineteen)"
+  },
+  {
+    "word": "queveres",
+    "pos": "noun",
+    "def": "love affairs, situationships; informal romantic or sexual relationships."
+  },
+  {
+    "word": "abogánster",
+    "pos": "noun",
+    "def": "a corrupt, criminal, or dishonest lawyer"
+  },
+  {
+    "word": "nel pastel",
+    "pos": "adv",
+    "def": "synonym of nel (no; no way; nope)"
+  },
+  {
+    "word": "achis",
+    "pos": "intj",
+    "def": "synonym of achís (damn!)"
+  },
+  {
+    "word": "chisperío",
+    "pos": "noun",
+    "def": "a group of sparks"
+  },
+  {
+    "word": "fiesterío",
+    "pos": "noun",
+    "def": "a series of continuous parties"
+  },
+  {
+    "word": "putiza",
+    "pos": "noun",
+    "def": "beating; bashing"
+  },
+  {
+    "word": "madral",
+    "pos": "noun",
+    "def": "shitload; fuckton"
+  },
+  {
+    "word": "putamadral",
+    "pos": "noun",
+    "def": "synonym of madral (shitload; fuckton)"
+  },
+  {
+    "word": "putimadral",
+    "pos": "noun",
+    "def": "synonym of madral (shitload; fuckton)"
+  },
+  {
+    "word": "chingamadral",
+    "pos": "noun",
+    "def": "synonym of madral (shitload; fuckton)"
+  },
+  {
+    "word": "mita y mita",
+    "pos": "adv",
+    "def": "half and half; in two equal parts"
+  },
+  {
+    "word": "miguelito",
+    "pos": "pron",
+    "def": "synonym of mí (me)"
+  },
+  {
+    "word": "primero Dios",
+    "pos": "intj",
+    "def": "hopefully; God willing"
+  },
+  {
+    "word": "cristofué",
+    "pos": "noun",
+    "def": "great kiskadee (Pitangus sulphuratus)."
+  },
+  {
+    "word": "justofué",
+    "pos": "noun",
+    "def": "great kiskadee (Pitangus sulphuratus)."
+  },
+  {
+    "word": "justojuez",
+    "pos": "noun",
+    "def": "great kiskadee (Pitangus sulphuratus)."
+  },
+  {
+    "word": "pistoqué",
+    "pos": "noun",
+    "def": "great kiskadee (Pitangus sulphuratus)."
+  },
+  {
+    "word": "quesque",
+    "pos": "adv",
+    "def": "synonym of dizque"
+  },
+  {
+    "word": "nuncamente",
+    "pos": "adv",
+    "def": "synonym of nunca (never)"
+  },
+  {
+    "word": "montonal",
+    "pos": "noun",
+    "def": "shedload; bucketful"
+  },
+  {
+    "word": "chinguero",
+    "pos": "noun",
+    "def": "shitload"
+  },
+  {
+    "word": "entrefalda",
+    "pos": "noun",
+    "def": "petticoat; underskirt"
+  },
+  {
+    "word": "entresijado",
+    "pos": "adj",
+    "def": "skinny; thin; lean"
+  },
+  {
+    "word": "chingazo",
+    "pos": "noun",
+    "def": "punch"
+  },
+  {
+    "word": "chingatal",
+    "pos": "noun",
+    "def": "shedload; bucketful"
+  },
+  {
+    "word": "íngrimo",
+    "pos": "adj",
+    "def": "alone"
+  },
+  {
+    "word": "irigote",
+    "pos": "noun",
+    "def": "an overreaction"
+  },
+  {
+    "word": "qué pex",
+    "pos": "phrase",
+    "def": "synonym of qué pedo: what's up? (A casual greeting)"
+  },
+  {
+    "word": "mafufada",
+    "pos": "noun",
+    "def": "nonsense; stupidity"
+  },
+  {
+    "word": "hacer piojito",
+    "pos": "verb",
+    "def": "to stroke, scratch or massage fondly (someone)'s scalp with one's fingers"
+  },
+  {
+    "word": "dedulce",
+    "pos": "noun",
+    "def": "synonym of dedo (finger)"
+  },
+  {
+    "word": "desmother",
+    "pos": "noun",
+    "def": "synonym of desmadre"
+  },
+  {
+    "word": "barbaján",
+    "pos": "adj",
+    "def": "rustic; uncivilized"
+  },
+  {
+    "word": "biyuyo",
+    "pos": "noun",
+    "def": "money"
+  },
+  {
+    "word": "dos que tres",
+    "pos": "adv",
+    "def": "so-so; neither good nor bad"
+  },
+  {
+    "word": "manflora",
+    "pos": "noun",
+    "def": "a lesbian who behaves in a typically boyish manner; a tomboyish lesbian"
+  },
+  {
+    "word": "totoreco",
+    "pos": "adj",
+    "def": "foolish; dumb"
+  },
+  {
+    "word": "jelengue",
+    "pos": "noun",
+    "def": "ruckus; commotion"
+  },
+  {
+    "word": "merequetengue",
+    "pos": "noun",
+    "def": "mess; fuss;"
+  },
+  {
+    "word": "chispotear",
+    "pos": "verb",
+    "def": "to blurt out (something)"
+  },
+  {
+    "word": "bironga",
+    "pos": "noun",
+    "def": "beer"
+  },
+  {
+    "word": "a las quinientas",
+    "pos": "adv",
+    "def": "occasionally; every now and then"
+  },
+  {
+    "word": "contumerioso",
+    "pos": "adj",
+    "def": "nitpicky, finicky, fussy, picky, persnickety, fastidious"
+  },
+  {
+    "word": "írsele la onda",
+    "pos": "verb",
+    "def": "to lose the plot; to lose sight of an important objective or principle"
+  },
+  {
+    "word": "írsele el avión",
+    "pos": "verb",
+    "def": "synonym of írsele la onda (several senses)"
+  },
+  {
+    "word": "a patín",
+    "pos": "adv",
+    "def": "afoot; on foot; walking"
+  },
+  {
+    "word": "acuache",
+    "pos": "noun",
+    "def": "close friend; buddy"
+  },
+  {
+    "word": "adiós mis flores",
+    "pos": "intj",
+    "def": "Used to express surprise, disgust or disappointment for having lost something."
+  },
+  {
+    "word": "bocafloja",
+    "pos": "adj",
+    "def": "alternative spelling of boca floja"
+  },
+  {
+    "word": "afigurarse",
+    "pos": "verb",
+    "def": "to imagine (something)"
+  },
+  {
+    "word": "albarda sobre aparejo",
+    "pos": "noun",
+    "def": "a redundant thing"
+  },
+  {
+    "word": "alucín",
+    "pos": "noun",
+    "def": "a high; euphoria from excitement or from an intake of drugs"
+  },
+  {
+    "word": "amansalocos",
+    "pos": "noun",
+    "def": "police baton"
+  },
+  {
+    "word": "aniceto",
+    "pos": "noun",
+    "def": "anus"
+  },
+  {
+    "word": "apendejado",
+    "pos": "adj",
+    "def": "dumbstruck"
+  },
+  {
+    "word": "apendejar",
+    "pos": "verb",
+    "def": "to cower"
+  },
+  {
+    "word": "apersogar",
+    "pos": "verb",
+    "def": "to tie an animal with a rope, especially for them to graze"
+  },
+  {
+    "word": "persogar",
+    "pos": "verb",
+    "def": "to tie an animal with a rope, especially for them to graze"
+  },
+  {
+    "word": "aplanar calles",
+    "pos": "verb",
+    "def": "to wander; to roam"
+  },
+  {
+    "word": "pucuyo",
+    "pos": "noun",
+    "def": "the chuck-will's-widow or the Eastern whippoorwill"
+  },
+  {
+    "word": "tapacaminos",
+    "pos": "noun",
+    "def": "the chuck-will's-widow or the Eastern whippoorwill"
+  },
+  {
+    "word": "arrequín",
+    "pos": "noun",
+    "def": "a companion"
+  },
+  {
+    "word": "asegún",
+    "pos": "prep",
+    "def": "synonym of según"
+  },
+  {
+    "word": "atoleada",
+    "pos": "noun",
+    "def": "an atole party"
+  },
+  {
+    "word": "ahí nos vidrios",
+    "pos": "intj",
+    "def": "laters"
+  },
+  {
+    "word": "banquear",
+    "pos": "verb",
+    "def": "to be on the bench (The place where players (substitutes) and coaches sit when not playing.)"
+  },
+  {
+    "word": "bisbirindo",
+    "pos": "adj",
+    "def": "flirtatious and playful"
+  },
+  {
+    "word": "bizbirindo",
+    "pos": "adj",
+    "def": "alternative form of bisbirindo (flirtatious and playful)"
+  },
+  {
+    "word": "buscaniguas",
+    "pos": "noun",
+    "def": "firecracker set off to move horizontally close to the ground"
+  },
+  {
+    "word": "calorón",
+    "pos": "noun",
+    "def": "excessive hot weather"
+  },
+  {
+    "word": "camagua",
+    "pos": "adj",
+    "def": "close to being ripe, with its kernels beginning to dry and harden"
+  },
+  {
+    "word": "camellar",
+    "pos": "verb",
+    "def": "to work continuously and arduously; to work like a mule"
+  },
+  {
+    "word": "camotillo",
+    "pos": "noun",
+    "def": "Zamia loddigesii"
+  },
+  {
+    "word": "cangrejear",
+    "pos": "verb",
+    "def": "to fish for crabs"
+  },
+  {
+    "word": "capirucha",
+    "pos": "noun",
+    "def": "the capital of a country"
+  },
+  {
+    "word": "cascorvo",
+    "pos": "adj",
+    "def": "duck-footed"
+  },
+  {
+    "word": "casampulga",
+    "pos": "noun",
+    "def": "black widow, especially Latrodectus mactans or Latrodectus curacaviensis"
+  },
+  {
+    "word": "capulina",
+    "pos": "noun",
+    "def": "black widow (spider)"
+  },
+  {
+    "word": "chabacán",
+    "pos": "adj",
+    "def": "alternative form of chabacano"
+  },
+  {
+    "word": "chacachaca",
+    "pos": "noun",
+    "def": "sexual intercourse"
+  },
+  {
+    "word": "chagüite",
+    "pos": "noun",
+    "def": "a muddy place; morass, mire, mudhole"
+  },
+  {
+    "word": "chalchihuite",
+    "pos": "noun",
+    "def": "A precious green stone, especially jade"
+  },
+  {
+    "word": "chalchigüite",
+    "pos": "noun",
+    "def": "A precious green stone, especially jade"
+  },
+  {
+    "word": "chamarrear",
+    "pos": "verb",
+    "def": "to beat up (someone)"
+  },
+  {
+    "word": "chamaquear",
+    "pos": "verb",
+    "def": "to dupe (someone), con, swindle"
+  },
+  {
+    "word": "dar chance",
+    "pos": "verb",
+    "def": "to allow someone to do something; to grant the chance"
+  },
+  {
+    "word": "punketo",
+    "pos": "noun",
+    "def": "a punk; a member of punk subculture"
+  },
+  {
+    "word": "darketo",
+    "pos": "noun",
+    "def": "a goth; a member of the goth subculture"
+  },
+  {
+    "word": "chichicaste",
+    "pos": "noun",
+    "def": "scratchbush (Urera baccifera)"
+  },
+  {
+    "word": "chichicastre",
+    "pos": "noun",
+    "def": "alternative form of chichicaste (scratchbush)"
+  },
+  {
+    "word": "chichicate",
+    "pos": "noun",
+    "def": "alternative form of chichicaste (scratchbush)"
+  },
+  {
+    "word": "chichicaxtle",
+    "pos": "noun",
+    "def": "alternative form of chichicaste (scratchbush)"
+  },
+  {
+    "word": "chichicaztle",
+    "pos": "noun",
+    "def": "alternative form of chichicaste (scratchbush)"
+  },
+  {
+    "word": "chichinguaste",
+    "pos": "noun",
+    "def": "Mesosphaerum suaveolens"
+  },
+  {
+    "word": "cinco negritos",
+    "pos": "noun",
+    "def": "common lantana (Lantana camara)"
+  },
+  {
+    "word": "chinacate",
+    "pos": "noun",
+    "def": "bat"
+  },
+  {
+    "word": "chinamitla",
+    "pos": "noun",
+    "def": "a thatched hut"
+  },
+  {
+    "word": "chingolingo",
+    "pos": "noun",
+    "def": "a carnival game of chance, commonly played by guessing the result of thrown dice, or by dropping a marble on a board with red and black holes, or with figures drawn on the holes"
+  },
+  {
+    "word": "chingolinguear",
+    "pos": "verb",
+    "def": "to play chingolingo"
+  },
+  {
+    "word": "chingolinguero",
+    "pos": "noun",
+    "def": "a person who plays chingolingo"
+  },
+  {
+    "word": "matatena",
+    "pos": "noun",
+    "def": "a pebble"
+  },
+  {
+    "word": "pegoste",
+    "pos": "noun",
+    "def": "synonym of pegote (a lump; a blob)"
+  },
+  {
+    "word": "chilmol",
+    "pos": "noun",
+    "def": "alternative form of chirmol"
+  },
+  {
+    "word": "chirotear",
+    "pos": "verb",
+    "def": "to frolic, romp, caper"
+  },
+  {
+    "word": "tronarle la reversa",
+    "pos": "verb",
+    "def": "to be gay"
+  },
+  {
+    "word": "narcoejecución",
+    "pos": "noun",
+    "def": "an execution or killing performed by drug cartel members"
+  },
+  {
+    "word": "cantadito",
+    "pos": "noun",
+    "def": "accent, and especially its intonation (The distinctive manner of pronouncing a language.)"
+  },
+  {
+    "word": "temporalero",
+    "pos": "adj",
+    "def": "seasonal"
+  },
+  {
+    "word": "azotehuela",
+    "pos": "noun",
+    "def": "patio (an inner courtyard typical of traditional Spanish houses)"
+  },
+  {
+    "word": "chinchinear",
+    "pos": "verb",
+    "def": "to entertain (a child) by shaking a rattle (a baby's toy)"
+  },
+  {
+    "word": "mafufo",
+    "pos": "adj",
+    "def": "crazy; unhinged"
+  },
+  {
+    "word": "batamote",
+    "pos": "noun",
+    "def": "seepwillow"
+  },
+  {
+    "word": "neja",
+    "pos": "noun",
+    "def": "A grayish tortilla made from boiled maize"
+  },
+  {
+    "word": "embracilarse",
+    "pos": "verb",
+    "def": "to become overly dependent on being held all the time"
+  },
+  {
+    "word": "derecho de piso",
+    "pos": "noun",
+    "def": "A fee, akin to protection money, that business owners are obligated to pay to drug cartels for the \"right\" to operate their businesses in territories controlled by these criminal organizations."
+  },
+  {
+    "word": "guácatela",
+    "pos": "intj",
+    "def": "alternative form of guácala (ew, yuck)"
+  },
+  {
+    "word": "guácatelas",
+    "pos": "intj",
+    "def": "alternative form of guácala (ew, yuck)"
+  },
+  {
+    "word": "cursiento",
+    "pos": "adj",
+    "def": "having diarrhea"
+  },
+  {
+    "word": "amuinar",
+    "pos": "verb",
+    "def": "to anger, to annoy, to irritate."
+  },
+  {
+    "word": "ula-ula",
+    "pos": "noun",
+    "def": "alternative form of hula-hula (a game played with a hula hoop)"
+  },
+  {
+    "word": "chacuaco",
+    "pos": "noun",
+    "def": "chimney"
+  },
+  {
+    "word": "pinino",
+    "pos": "noun",
+    "def": "first steps"
+  },
+  {
+    "word": "ingaturroña",
+    "pos": "intj",
+    "def": "an expression of surprise or shock"
+  },
+  {
+    "word": "al chilazo",
+    "pos": "adv",
+    "def": "immediately; right away"
+  },
+  {
+    "word": "ahorititita",
+    "pos": "adv",
+    "def": "right away; immediately"
+  },
+  {
+    "word": "licar",
+    "pos": "verb",
+    "def": "to gaze, stare, look at"
+  },
+  {
+    "word": "justán",
+    "pos": "noun",
+    "def": "synonym of fustán"
+  },
+  {
+    "word": "somatar",
+    "pos": "verb",
+    "def": "to fall with a thud to the ground; to flump"
+  },
+  {
+    "word": "somatada",
+    "pos": "noun",
+    "def": "a heavy fall"
+  },
+  {
+    "word": "somatón",
+    "pos": "noun",
+    "def": "a heavy fall"
+  },
+  {
+    "word": "gazné",
+    "pos": "noun",
+    "def": "an ascot tie"
+  },
+  {
+    "word": "gasné",
+    "pos": "noun",
+    "def": "alternative spelling of gazné"
+  },
+  {
+    "word": "casné",
+    "pos": "noun",
+    "def": "obsolete form of gazné"
+  },
+  {
+    "word": "enclochar",
+    "pos": "verb",
+    "def": "to engage the clutch, to put into gear"
+  },
+  {
+    "word": "bútago",
+    "pos": "adj",
+    "def": "drunk"
+  },
+  {
+    "word": "cazamapaches",
+    "pos": "noun",
+    "def": "a person who opposes electoral fraud"
+  },
+  {
+    "word": "chiflis",
+    "pos": "adj",
+    "def": "kooky; bonkers; nuts"
+  },
+  {
+    "word": "en veces",
+    "pos": "adv",
+    "def": "synonym of a veces"
+  },
+  {
+    "word": "encueratriz",
+    "pos": "noun",
+    "def": "a female stripper"
+  },
+  {
+    "word": "despistolización",
+    "pos": "noun",
+    "def": "firearms confiscation by an authority"
+  },
+  {
+    "word": "congal",
+    "pos": "noun",
+    "def": "brothel"
+  },
+  {
+    "word": "juebebes",
+    "pos": "noun",
+    "def": "Thursday as a day for drinking."
+  },
+  {
+    "word": "bebiernes",
+    "pos": "noun",
+    "def": "Friday as a day for drinking."
+  },
+  {
+    "word": "chíngate",
+    "pos": "intj",
+    "def": "fuck you!"
+  },
+  {
+    "word": "pacheco",
+    "pos": "adj",
+    "def": "stoned, high"
+  },
+  {
+    "word": "puchunguito",
+    "pos": "noun",
+    "def": "darling, sweetheart"
+  },
+  {
+    "word": "sisirisco",
+    "pos": "noun",
+    "def": "anus"
+  },
+  {
+    "word": "medir el agua a los tamales",
+    "pos": "verb",
+    "def": "To weigh up the situation; to weigh things up."
+  },
+  {
+    "word": "chipichipi",
+    "pos": "noun",
+    "def": "drizzle"
+  },
+  {
+    "word": "devedé",
+    "pos": "noun",
+    "def": "a DVD (an optical disc)"
+  },
+  {
+    "word": "acahual",
+    "pos": "noun",
+    "def": "any ruderal herb or shrub"
+  },
+  {
+    "word": "motorolo",
+    "pos": "adj",
+    "def": "drugged-out; under the influence of a narcotic drug, especially marihuana"
+  },
+  {
+    "word": "bardear",
+    "pos": "verb",
+    "def": "alternative form of bardar"
+  },
+  {
+    "word": "cacarizo",
+    "pos": "adj",
+    "def": "pockmarked"
+  },
+  {
+    "word": "parvifundio",
+    "pos": "noun",
+    "def": "smallholding"
+  },
+  {
+    "word": "estar hasta la madre",
+    "pos": "verb",
+    "def": "to be full or filled"
+  },
+  {
+    "word": "no digas mamadas",
+    "pos": "phrase",
+    "def": "don't talk bullshit; don't talk bullcrap; don't talk rubbish; don't talk nonsense; don't say bullshit; don't say bullcrap; don't say rubbish; don't say nonsense"
+  },
+  {
+    "word": "tejaván",
+    "pos": "noun",
+    "def": "shed with no walls"
+  },
+  {
+    "word": "caballerango",
+    "pos": "noun",
+    "def": "a groom (one who takes care of horses)"
+  },
+  {
+    "word": "xpelón",
+    "pos": "noun",
+    "def": "new and tender bean"
+  },
+  {
+    "word": "contlapachear",
+    "pos": "verb",
+    "def": "to cover up"
+  },
+  {
+    "word": "segundear",
+    "pos": "verb",
+    "def": "to support or back someone up in a secondary role."
+  },
+  {
+    "word": "despelucar",
+    "pos": "verb",
+    "def": "to mess up someone's hair"
+  },
+  {
+    "word": "un chingo",
+    "pos": "adv",
+    "def": "a lot, very much (see chingo)"
+  },
+  {
+    "word": "quitagrapas",
+    "pos": "noun",
+    "def": "staple remover (device with two jawlike pincers which is used to remove staples)"
+  },
+  {
+    "word": "estar en chinga",
+    "pos": "verb",
+    "def": "to be working"
+  },
+  {
+    "word": "corbata de mariposa",
+    "pos": "noun",
+    "def": "bowtie"
+  },
+  {
+    "word": "güisayote",
+    "pos": "noun",
+    "def": "chayote"
+  },
+  {
+    "word": "ixcanal",
+    "pos": "noun",
+    "def": "The bullhorn acacia, Vachellia cornigera, native to Mexico and Central America.."
+  },
+  {
+    "word": "cueramarense",
+    "pos": "adj",
+    "def": "of, from or relating to Cuerámaro"
+  },
+  {
+    "word": "entelerido",
+    "pos": "adj",
+    "def": "sickly, weak, thin"
+  },
+  {
+    "word": "en fachas",
+    "pos": "adv",
+    "def": "badly dressed; underdressed"
+  },
+  {
+    "word": "en veremos",
+    "pos": "adv",
+    "def": "undecided, uncommitted"
+  },
+  {
+    "word": "afuerita",
+    "pos": "adv",
+    "def": "outside, out"
+  },
+  {
+    "word": "por detroit",
+    "pos": "adj",
+    "def": "anal"
+  },
+  {
+    "word": "lencha",
+    "pos": "noun",
+    "def": "lesbian"
+  },
+  {
+    "word": "calsonte",
+    "pos": "noun",
+    "def": "a roof frame"
+  },
+  {
+    "word": "zontle",
+    "pos": "noun",
+    "def": "alternative form of zonte"
+  },
+  {
+    "word": "sontle",
+    "pos": "noun",
+    "def": "alternative form of zonte"
+  },
+  {
+    "word": "soncle",
+    "pos": "noun",
+    "def": "alternative form of zonte"
+  },
+  {
+    "word": "tasajero",
+    "pos": "noun",
+    "def": "jerky maker or seller"
+  },
+  {
+    "word": "nadaqueveriento",
+    "pos": "adj",
+    "def": "out of place, inappropriate, irrelevant, or unrelated to the context at hand"
+  },
+  {
+    "word": "de la verga",
+    "pos": "adj",
+    "def": "shitty; very bad"
+  },
+  {
+    "word": "burrote",
+    "pos": "noun",
+    "def": "cameltoe"
+  },
+  {
+    "word": "bien verga",
+    "pos": "adj",
+    "def": "very good"
+  },
+  {
+    "word": "bate de beisbol",
+    "pos": "noun",
+    "def": "alternative form of bate de béisbol"
+  },
+  {
+    "word": "suaje",
+    "pos": "noun",
+    "def": "A tool with sharp edges to cut or shape with precision slabs, cardboard, leather, and other materials."
+  },
+  {
+    "word": "tocar pasto",
+    "pos": "verb",
+    "def": "touch grass"
+  },
+  {
+    "word": "la neta",
+    "pos": "adv",
+    "def": "honestly, to be honest"
+  },
+  {
+    "word": "cacahuatero",
+    "pos": "noun",
+    "def": "a person who sells peanuts"
+  },
+  {
+    "word": "sonayote",
+    "pos": "noun",
+    "def": "loofah, sponge gourd"
+  },
+  {
+    "word": "qué onda",
+    "pos": "phrase",
+    "def": "what's up?"
+  },
+  {
+    "word": "enchumbar",
+    "pos": "verb",
+    "def": "to drench"
+  },
+  {
+    "word": "cuchumbo",
+    "pos": "noun",
+    "def": "dice shaker; a dice cup"
+  },
+  {
+    "word": "pitayo",
+    "pos": "noun",
+    "def": "alternative form of pitahaya (“dragon fruit”)"
+  },
+  {
+    "word": "de huevos",
+    "pos": "adj",
+    "def": "very good"
+  },
+  {
+    "word": "oler a obo",
+    "pos": "verb",
+    "def": "to smell bad"
+  },
+  {
+    "word": "yoyopo",
+    "pos": "noun",
+    "def": "anus"
+  },
+  {
+    "word": "chingue y chingue",
+    "pos": "adj",
+    "def": "pestering"
+  },
+  {
+    "word": "vete a la tuerca",
+    "pos": "intj",
+    "def": "synonym of vete a la verga"
+  },
+  {
+    "word": "perrón",
+    "pos": "adj",
+    "def": "awesome, cool"
+  },
+  {
+    "word": "chikistrikis",
+    "pos": "noun",
+    "def": "butt"
+  },
+  {
+    "word": "cantadera",
+    "pos": "noun",
+    "def": "continuous and repeated singing"
+  },
+  {
+    "word": "zambutir",
+    "pos": "verb",
+    "def": "synonym of zambullir"
+  },
+  {
+    "word": "tercera raíz",
+    "pos": "name",
+    "def": "Afro-American culture in Latin America."
+  },
+  {
+    "word": "acholole",
+    "pos": "noun",
+    "def": "furrow water runoff"
+  },
+  {
+    "word": "fiusha",
+    "pos": "adj",
+    "def": "alternative form of fucsia"
+  },
+  {
+    "word": "halconeo",
+    "pos": "noun",
+    "def": "the act of serving as a lookout for a criminal organization by monitoring law enforcement activity; the job of an halcón"
+  },
+  {
+    "word": "al pedo",
+    "pos": "adj",
+    "def": "no use"
+  },
+  {
+    "word": "fútbol llanero",
+    "pos": "noun",
+    "def": "casual football (soccer)"
+  },
+  {
+    "word": "CURP",
+    "pos": "noun",
+    "def": "Initialism of Clave Única de Registro de Población, ID number, comparable to a SSN in the US"
+  },
+  {
+    "word": "diezmillo",
+    "pos": "noun",
+    "def": "sirloin (cut of beef)"
+  },
+  {
+    "word": "entrecostilla",
+    "pos": "noun",
+    "def": "sirloin (cut of beef)"
+  },
+  {
+    "word": "chacbolay",
+    "pos": "noun",
+    "def": "jaguar"
+  },
+  {
+    "word": "champoltrín",
+    "pos": "noun",
+    "def": "jaguar"
+  },
+  {
+    "word": "encimoso",
+    "pos": "adj",
+    "def": "clingy"
+  },
+  {
+    "word": "huachicol fiscal",
+    "pos": "noun",
+    "def": "a form of fuel smuggling involving the fraudulent importation or misclassification of hydrocarbons to evade taxes and generate illicit profits"
+  },
+  {
+    "word": "hacer la finta",
+    "pos": "verb",
+    "def": "to pretend"
+  },
+  {
+    "word": "amacizar",
+    "pos": "verb",
+    "def": "to fill in something hollow"
+  },
+  {
+    "word": "zanganada",
+    "pos": "noun",
+    "def": "nonsense"
+  },
+  {
+    "word": "LNBP",
+    "pos": "name",
+    "def": "initialism of Liga Nacional de Baloncesto Profesional de México"
+  },
+  {
+    "word": "wachacarros",
+    "pos": "noun",
+    "def": "car watchman"
+  },
+  {
+    "word": "tlachar",
+    "pos": "verb",
+    "def": "to watch"
+  },
+  {
+    "word": "achichiguar",
+    "pos": "verb",
+    "def": "to breastfeed, to suckle"
+  },
+  {
+    "word": "pinchísimo",
+    "pos": "adj",
+    "def": "superlative degree of pinche: fucking"
+  },
+  {
+    "word": "chínguere",
+    "pos": "noun",
+    "def": "distilled alcoholic drink; distilled booze"
+  },
+  {
+    "word": "akalché",
+    "pos": "noun",
+    "def": "swamp, bog"
+  },
+  {
+    "word": "certeneja",
+    "pos": "noun",
+    "def": "small and deep swamp or bog"
+  },
+  {
+    "word": "sarteneja",
+    "pos": "noun",
+    "def": "hoofprints left in mud"
+  },
+  {
+    "word": "calzonera",
+    "pos": "noun",
+    "def": "type of work pants/trousers"
+  },
+  {
+    "word": "qpd",
+    "pos": "phrase",
+    "def": "qué pedo"
+  },
+  {
+    "word": "QPD",
+    "pos": "phrase",
+    "def": "initialism of qué pedo"
+  },
+  {
+    "word": "mechudo",
+    "pos": "noun",
+    "def": "a mop"
+  },
+  {
+    "word": "tiste",
+    "pos": "noun",
+    "def": "a sugared drink made from ground toasted cacao, toasted corn, achiote, and cinnamon"
+  },
+  {
+    "word": "guayín",
+    "pos": "noun",
+    "def": "station wagon, estate car"
+  },
+  {
+    "word": "bebeleche",
+    "pos": "noun",
+    "def": "alternative form of bebelechi"
+  },
+  {
+    "word": "bebelechi",
+    "pos": "noun",
+    "def": "hopscotch"
+  },
+  {
+    "word": "tripié",
+    "pos": "noun",
+    "def": "synonym of trípode"
+  },
+  {
+    "word": "desgarriate",
+    "pos": "noun",
+    "def": "alternative form of desgarreate"
+  },
+  {
+    "word": "desgarreate",
+    "pos": "noun",
+    "def": "clutter; mess"
+  },
+  {
+    "word": "tosedera",
+    "pos": "noun",
+    "def": "persistent coughing"
+  },
+  {
+    "word": "tosiento",
+    "pos": "adj",
+    "def": "affected by cough and fatigue"
+  },
+  {
+    "word": "de a grapa",
+    "pos": "adv",
+    "def": "alternative form of de a gratis"
+  },
+  {
+    "word": "mallugar",
+    "pos": "verb",
+    "def": "alternative form of magullar"
+  },
+  {
+    "word": "mucho muy",
+    "pos": "adv",
+    "def": "emphatic form of muy"
+  },
+  {
+    "word": "entrador",
+    "pos": "adj",
+    "def": "audacious"
+  },
+  {
+    "word": "águila o sol",
+    "pos": "phrase",
+    "def": "heads or tails"
+  },
+  {
+    "word": "tener el nopal en la frente",
+    "pos": "verb",
+    "def": "to act a fool"
+  },
+  {
+    "word": "piyamada",
+    "pos": "noun",
+    "def": "alternative form of pijamada"
+  },
+  {
+    "word": "darle vuelo a la hilacha",
+    "pos": "verb",
+    "def": "to let loose, to go crazy"
+  },
+  {
+    "word": "LNBPF",
+    "pos": "name",
+    "def": "initialism of Liga Nacional de Baloncesto Profesional Femenil de México"
+  },
+  {
+    "word": "de a devis",
+    "pos": "adv",
+    "def": "synonym of de veras (“really, truly”)"
+  },
+  {
+    "word": "de a mentis",
+    "pos": "adv",
+    "def": "synonym of de a mentiras (“jokingly, as a joke”)"
+  },
+  {
+    "word": "de a mentiras",
+    "pos": "adv",
+    "def": "jokingly; as a joke"
+  },
+  {
+    "word": "manolarga",
+    "pos": "noun",
+    "def": "touchy-feely, handsy person"
+  },
+  {
+    "word": "allacito",
+    "pos": "adv",
+    "def": "nearer than there; right over there"
+  },
+  {
+    "word": "ahicito",
+    "pos": "adv",
+    "def": "right over there"
+  },
+  {
+    "word": "aquicito",
+    "pos": "adv",
+    "def": "very close"
+  },
+  {
+    "word": "despuesito",
+    "pos": "adv",
+    "def": "later; soon; immediately"
+  },
+  {
+    "word": "nomasito",
+    "pos": "adv",
+    "def": "synonym of nomás (“only, just”)"
+  },
+  {
+    "word": "antesito",
+    "pos": "adv",
+    "def": "a bit before"
+  },
+  {
+    "word": "antesitos",
+    "pos": "adv",
+    "def": "alternative form of antesito (“a bit before”)"
+  },
+  {
+    "word": "antecitos",
+    "pos": "adv",
+    "def": "alternative form of antesito (“a bit before”)"
+  },
+  {
+    "word": "cacaraquear",
+    "pos": "verb",
+    "def": "synonym of cacarear"
+  },
+  {
+    "word": "camazo",
+    "pos": "noun",
+    "def": "An event in which a baby is born directly in the labor bed before reaching the delivery room."
+  },
+  {
+    "word": "chambeador",
+    "pos": "noun",
+    "def": "worker"
+  },
+  {
+    "word": "ser una cuacha pegada",
+    "pos": "verb",
+    "def": "to be a very stingy, tight-fisted, or miserly person"
+  },
+  {
+    "word": "cacharpa",
+    "pos": "noun",
+    "def": "low-denomination coins; small change"
+  },
+  {
+    "word": "tartajo",
+    "pos": "adj",
+    "def": "stammering; stuttery"
+  },
+  {
+    "word": "cascahuite",
+    "pos": "noun",
+    "def": "Leucaena esculenta"
+  },
+  {
+    "word": "uachi",
+    "pos": "noun",
+    "def": "Leucaena esculenta"
+  },
+  {
+    "word": "me vale verga",
+    "pos": "phrase",
+    "def": "I don't care"
+  },
+  {
+    "word": "chapodar",
+    "pos": "verb",
+    "def": "to clear an area of underbrush and scrub with a machete"
+  }
+]
