@@ -262,15 +262,17 @@
     if (tab === 'library') filterLibrary();
   }
 
-  fetch('spanish.json')
-    .then(r => r.json())
-    .then(data => {
-      rawData = data;
+    Promise.all([
+    fetch('spanish.json?v=2').then(r => r.json()),
+    fetch('Mx_extra.json?v=2').then(r => r.json())
+  ])
+    .then(([base, extra]) => {
+      rawData = [...base, ...extra];
       updateMasteryUI();
       prepareBatch();
       renderLibrary(rawData);
     })
-    .catch(err => alert("Error loading spanish.json: " + err));
+    .catch(err => alert("Error loading vocabulary: " + err));
 </script>
 </body>
 </html>
