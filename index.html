@@ -9,270 +9,267 @@
 <title>Mexican Spanish</title>
 <style>
   :root {
-    --bg: #0f172a;
-    --card: #1e293b;
-    --border: #334155;
-    --text: #f8fafc;
-    --muted: #94a3b8;
-    --accent: #38bdf8;
-    --success: #22c55e;
-    --danger: #ef4444;
+    --bg: #0f172a; --card: #1e293b; --border: #334155;
+    --text: #f8fafc; --muted: #94a3b8; --accent: #38bdf8;
+    --axo: #f48fb1; --ok: #22c55e; --bad: #ef4444;
   }
   * { box-sizing: border-box; font-family: -apple-system, BlinkMacSystemFont, sans-serif; -webkit-tap-highlight-color: transparent; }
-  body { 
-    margin: 0; 
-    padding: calc(env(safe-area-inset-top, 20px) + 12px) 16px calc(env(safe-area-inset-bottom, 20px) + 12px) 16px; 
-    background: var(--bg); 
-    color: var(--text); 
-    min-height: 100vh; 
-    display: flex; 
-    flex-direction: column; 
-    align-items: center; 
+  body {
+    margin: 0; background: var(--bg); color: var(--text); min-height: 100vh;
+    padding: calc(env(safe-area-inset-top, 20px) + 12px) 16px calc(env(safe-area-inset-bottom, 20px) + 12px);
+    display: flex; flex-direction: column; align-items: center;
   }
-  
   .nav { display: flex; width: 100%; max-width: 420px; gap: 8px; margin-bottom: 16px; }
   .tab-btn { flex: 1; padding: 10px; background: var(--card); border: 1px solid var(--border); color: var(--muted); border-radius: 10px; font-weight: 600; font-size: 0.9rem; cursor: pointer; }
   .tab-btn.active { background: var(--accent); color: #000; border-color: var(--accent); }
-
   .view { width: 100%; max-width: 420px; display: none; flex-direction: column; gap: 14px; }
   .view.active { display: flex; }
 
   .progress-card { background: var(--card); border: 1px solid var(--border); border-radius: 12px; padding: 12px 16px; }
   .progress-label { display: flex; justify-content: space-between; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px; }
   .bar-bg { width: 100%; height: 8px; background: #334155; border-radius: 4px; overflow: hidden; }
-  .bar-fill { height: 100%; width: 0%; background: var(--success); transition: width 0.3s; }
+  .bar-fill { height: 100%; width: 0%; background: var(--ok); transition: width 0.3s; }
 
-  .study-card { background: var(--card); border: 1px solid var(--border); border-radius: 16px; min-height: 190px; display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 20px; text-align: center; box-shadow: 0 8px 16px rgba(0,0,0,0.3); }
-  .study-word { font-size: 2rem; font-weight: 700; margin-bottom: 6px; }
-  .study-def { font-size: 1.15rem; color: var(--muted); margin-top: 4px; }
-  .study-pos { font-size: 0.8rem; font-style: italic; color: #64748b; margin-top: 6px; text-transform: uppercase; letter-spacing: 0.5px; }
-  .badge { display: inline-block; font-size: 0.75rem; padding: 2px 8px; border-radius: 6px; background: #334155; color: var(--accent); margin-bottom: 10px; font-weight: 600; }
+  .study-card { background: var(--card); border: 1px solid var(--border); border-radius: 16px; min-height: 150px; display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 20px; text-align: center; box-shadow: 0 8px 16px rgba(0,0,0,0.3); }
+  .study-word { font-size: 2rem; font-weight: 700; margin-bottom: 4px; }
+  .study-pos { font-size: 0.8rem; font-style: italic; color: #64748b; text-transform: uppercase; letter-spacing: 0.5px; }
+  .badge { font-size: 0.75rem; padding: 2px 8px; border-radius: 6px; background: #334155; color: var(--accent); margin-bottom: 10px; font-weight: 600; }
 
-  .choice-btn { width: 100%; background: var(--card); border: 1.5px solid var(--border); color: var(--text); padding: 14px; border-radius: 12px; margin-bottom: 8px; font-size: 0.95rem; text-align: left; cursor: pointer; transition: 0.15s; }
-  .choice-btn.correct { background: var(--success); border-color: var(--success); color: white; }
-  .choice-btn.wrong { background: var(--danger); border-color: var(--danger); color: white; }
+  .axo-row { display: flex; align-items: center; gap: 12px; background: rgba(30,41,59,0.75); border: 1px solid var(--border); border-radius: 16px; padding: 10px 14px; }
+  .axo-canvas { width: 70px; height: 70px; flex-shrink: 0; animation: float 3s ease-in-out infinite; }
+  .axo-canvas.happy { animation: bounce 0.55s ease; }
+  .axo-canvas.encourage { animation: wobble 0.55s ease; }
+  @keyframes float { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-4px)} }
+  @keyframes bounce { 0%,100%{transform:translateY(0) scale(1)} 40%{transform:translateY(-11px) scale(1.08)} }
+  @keyframes wobble { 0%,100%{transform:rotate(0)} 25%{transform:rotate(-8deg)} 75%{transform:rotate(8deg)} }
 
-  .action-btn { background: var(--accent); color: #000; border: none; padding: 14px; border-radius: 12px; font-weight: 700; font-size: 1rem; width: 100%; cursor: pointer; margin-top: 8px; }
+  .bubble { position: relative; flex: 1; background: #273549; border: 1.5px solid #475569; border-radius: 14px; padding: 11px 14px; font-size: 1rem; font-weight: 600; line-height: 1.35; }
+  .bubble::before { content: ""; position: absolute; left: -8px; top: 50%; transform: translateY(-50%); border-width: 7px 8px 7px 0; border-style: solid; border-color: transparent #475569 transparent transparent; }
+  .bubble.ok { border-color: var(--ok); background: rgba(34,197,94,0.16); color: #86efac; }
+  .bubble.ok::before { border-right-color: var(--ok); }
+  .bubble.enc { border-color: var(--axo); background: rgba(244,143,177,0.15); color: #fbcfe8; }
+  .bubble.enc::before { border-right-color: var(--axo); }
+  .tag { display: block; font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.6px; color: var(--axo); margin-bottom: 3px; font-weight: 700; }
 
-  .search-box { width: 100%; padding: 12px 16px; background: var(--card); border: 1px solid var(--border); border-radius: 12px; color: var(--text); font-size: 0.95rem; outline: none; margin-bottom: 8px; }
-  .list-container { max-height: 65vh; overflow-y: auto; display: flex; flex-direction: column; gap: 8px; padding-right: 2px; }
+  .choice-btn { width: 100%; background: var(--card); border: 1.5px solid var(--border); color: var(--text); padding: 14px; border-radius: 12px; margin-bottom: 8px; font-size: 0.95rem; text-align: left; cursor: pointer; }
+  .choice-btn.correct { background: var(--ok); border-color: var(--ok); color: #fff; }
+  .choice-btn.wrong { background: var(--bad); border-color: var(--bad); color: #fff; }
+  .action-btn { background: var(--accent); color: #000; border: none; padding: 14px; border-radius: 12px; font-weight: 700; font-size: 1rem; width: 100%; cursor: pointer; }
+
+  .search-box { width: 100%; padding: 12px 16px; background: var(--card); border: 1px solid var(--border); border-radius: 12px; color: var(--text); font-size: 0.95rem; outline: none; }
+  .list-container { max-height: 65vh; overflow-y: auto; display: flex; flex-direction: column; gap: 8px; }
   .list-item { background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: 12px 14px; display: flex; justify-content: space-between; align-items: center; }
-  .item-word { font-weight: 700; font-size: 1rem; color: var(--text); }
+  .item-word { font-weight: 700; font-size: 1rem; }
   .item-def { font-size: 0.85rem; color: var(--muted); margin-top: 2px; }
 </style>
 </head>
 <body>
 
   <div class="nav">
-    <button class="tab-btn active" onclick="switchTab('learn')">Learn</button>
+    <button class="tab-btn active" onclick="switchTab('learn')">Aprender</button>
     <button class="tab-btn" onclick="switchTab('quiz')">Quiz</button>
-    <button class="tab-btn" onclick="switchTab('library')">Dictionary</button>
+    <button class="tab-btn" onclick="switchTab('library')">Diccionario</button>
   </div>
 
   <div class="view active" id="learn-view">
     <div class="progress-card">
-      <div class="progress-label">
-        <span>Deck Mastery</span>
-        <span id="mastery-stat">0 / 0</span>
-      </div>
+      <div class="progress-label"><span>Dominio del mazo</span><span id="mastery-stat">0 / 0</span></div>
       <div class="bar-bg"><div class="bar-fill" id="mastery-bar"></div></div>
     </div>
-
-    <div class="study-card" id="learn-card">
-      <div class="badge" id="learn-badge">STUDY TERM</div>
-      <div class="study-word" id="learn-word">Loading...</div>
-      <div class="study-def" id="learn-def">...</div>
+    <div class="study-card">
+      <div class="badge" id="learn-badge">ESTUDIAR PALABRA</div>
+      <div class="study-word" id="learn-word">Cargando...</div>
       <div class="study-pos" id="learn-pos"></div>
     </div>
-
+    <div class="axo-row">
+      <canvas class="axo-canvas" id="learn-axo" width="140" height="140"></canvas>
+      <div class="bubble" id="learn-bubble"><span class="tag" id="learn-tag">Traducción en inglés</span><span id="learn-speech">...</span></div>
+    </div>
     <div id="learn-actions"></div>
   </div>
 
   <div class="view" id="quiz-view">
     <div class="study-card">
-      <div class="badge">TRANSLATE TERM</div>
+      <div class="badge">TRADUCE LA PALABRA</div>
       <div class="study-word" id="quiz-word">...</div>
       <div class="study-pos" id="quiz-pos"></div>
+    </div>
+    <div class="axo-row">
+      <canvas class="axo-canvas" id="quiz-axo" width="140" height="140"></canvas>
+      <div class="bubble" id="quiz-bubble"><span class="tag">Ajolote</span><span id="quiz-speech">¡Tú puedes! Elige la traducción correcta:</span></div>
     </div>
     <div id="quiz-choices"></div>
   </div>
 
   <div class="view" id="library-view">
-    <input type="search" class="search-box" id="search-input" placeholder="Search Mexican Spanish or English..." oninput="filterLibrary()">
+    <input type="search" class="search-box" id="search-input" placeholder="Buscar en español o inglés..." oninput="filterLibrary()">
     <div class="list-container" id="library-list"></div>
   </div>
 
 <script>
-  let rawData = [];
-  let mastery = JSON.parse(localStorage.getItem('mexican_spanish_mastery') || '{}');
+  function drawAxolotl(id) {
+    const c = document.getElementById(id), g = c.getContext('2d');
+    g.lineCap = 'round'; g.lineJoin = 'round';
+    // Tail
+    g.fillStyle = '#f6aeb0'; g.strokeStyle = '#9e5b54'; g.lineWidth = 4.5;
+    g.beginPath(); g.moveTo(92, 102); g.bezierCurveTo(118, 104, 130, 84, 126, 66);
+    g.bezierCurveTo(114, 72, 102, 82, 92, 92); g.closePath(); g.fill(); g.stroke();
+    // Gills
+    g.fillStyle = '#e6868a';
+    const gills = [
+      [38,38,16,24,22,42,36,48], [34,50,11,46,16,60,34,60], [36,62,16,70,26,80,42,72],
+      [102,38,124,24,118,42,104,48], [106,50,129,46,124,60,106,60], [104,62,124,70,114,80,98,72]
+    ];
+    gills.forEach(p => { g.beginPath(); g.moveTo(p[0],p[1]); g.bezierCurveTo(p[2],p[3],p[4],p[5],p[6],p[7]); g.fill(); g.stroke(); });
+    // Body & Feet
+    g.fillStyle = '#fbd3d2';
+    g.beginPath(); g.moveTo(48, 76); g.quadraticCurveTo(44, 98, 48, 114);
+    g.quadraticCurveTo(38, 122, 50, 124); g.quadraticCurveTo(60, 125, 60, 117);
+    g.quadraticCurveTo(70, 119, 80, 117); g.quadraticCurveTo(80, 127, 92, 125);
+    g.quadraticCurveTo(102, 122, 92, 114); g.quadraticCurveTo(96, 98, 92, 76);
+    g.closePath(); g.fill(); g.stroke();
+    // Head
+    g.beginPath(); g.ellipse(70, 56, 37, 30, 0, 0, Math.PI * 2); g.fill(); g.stroke();
+    // Cheeks
+    g.fillStyle = '#f5a389';
+    g.beginPath(); g.arc(47, 62, 6, 0, Math.PI * 2); g.arc(93, 62, 6, 0, Math.PI * 2); g.fill();
+    // Eyes & Smile
+    g.fillStyle = '#3a231c';
+    g.beginPath(); g.arc(52, 53, 4.8, 0, Math.PI * 2); g.arc(88, 53, 4.8, 0, Math.PI * 2); g.fill();
+    g.fillStyle = '#fff';
+    g.beginPath(); g.arc(50.5, 51.5, 1.5, 0, Math.PI * 2); g.arc(86.5, 51.5, 1.5, 0, Math.PI * 2); g.fill();
+    g.strokeStyle = '#3a231c'; g.lineWidth = 3.8;
+    g.beginPath(); g.arc(70, 58, 9, 0.2 * Math.PI, 0.8 * Math.PI); g.stroke();
+    // Little Arms
+    g.strokeStyle = '#9e5b54'; g.lineWidth = 3.5;
+    g.beginPath(); g.moveTo(52, 88); g.quadraticCurveTo(64, 92, 61, 100); g.stroke();
+    g.beginPath(); g.moveTo(88, 88); g.quadraticCurveTo(76, 92, 79, 100); g.stroke();
+  }
+  drawAxolotl('learn-axo'); drawAxolotl('quiz-axo');
 
-  function saveMastery() {
-    localStorage.setItem('mexican_spanish_mastery', JSON.stringify(mastery));
-    updateMasteryUI();
+  const PRAISE = ["¡Excelente!", "¡Eso mero! ¡Excelente!", "¡Muy bien, sigue así!", "¡A todo dar! ¡Correcto!", "¡Súper bien!", "¡Órale, qué bien lo hiciste!"];
+  const ENCOURAGE = ["¡Ánimo! ¡No te apures!", "¡No te apures! Tú puedes.", "¡Ánimo! La próxima sale.", "¡No pasa nada, inténtalo otra vez!", "¡Casi! ¡Ánimo, sigue adelante!"];
+  const pick = a => a[Math.floor(Math.random() * a.length)];
+
+  function say(prefix, mood, text, tag) {
+    const av = document.getElementById(prefix + '-axo'), bub = document.getElementById(prefix + '-bubble');
+    av.classList.remove('happy', 'encourage'); bub.classList.remove('ok', 'enc');
+    void av.offsetWidth;
+    if (mood === 'ok') { av.classList.add('happy'); bub.classList.add('ok'); }
+    if (mood === 'enc') { av.classList.add('encourage'); bub.classList.add('enc'); }
+    if (tag) document.getElementById(prefix + '-tag').innerText = tag;
+    document.getElementById(prefix + '-speech').innerText = text;
   }
 
-  function getScore(w) { return mastery[w] || 0; }
-  function addScore(w) { mastery[w] = Math.min((mastery[w] || 0) + 1, 2); saveMastery(); }
-  function resetScore(w) { mastery[w] = 0; saveMastery(); }
+  let rawData = [], mastery = JSON.parse(localStorage.getItem('mexican_spanish_mastery') || '{}');
+  const saveMastery = () => { localStorage.setItem('mexican_spanish_mastery', JSON.stringify(mastery)); updateMasteryUI(); };
+  const getScore = w => mastery[w] || 0;
+  const addScore = w => { mastery[w] = Math.min((mastery[w] || 0) + 1, 2); saveMastery(); };
+  const resetScore = w => { mastery[w] = 0; saveMastery(); };
 
   function updateMasteryUI() {
-    let masteredCount = Object.values(mastery).filter(v => v === 2).length;
-    document.getElementById('mastery-stat').innerText = masteredCount + ' / ' + rawData.length;
-    let pct = (masteredCount / (rawData.length || 1)) * 100;
-    document.getElementById('mastery-bar').style.width = pct + '%';
+    const done = Object.values(mastery).filter(v => v === 2).length;
+    document.getElementById('mastery-stat').innerText = done + ' / ' + rawData.length;
+    document.getElementById('mastery-bar').style.width = ((done / (rawData.length || 1)) * 100) + '%';
   }
 
-  let activeBatch = [];
-  let currentLearnItem = null;
-
+  let activeBatch = [], curItem = null;
   function prepareBatch() {
-    let unmastered = rawData.filter(i => getScore(i.word) < 2);
-    if (!unmastered.length) {
-      alert("You have mastered the entire deck! Resetting progress...");
-      mastery = {};
-      saveMastery();
-      unmastered = rawData;
-    }
-    activeBatch = unmastered.sort(() => Math.random() - 0.5).slice(0, 7);
+    let unm = rawData.filter(i => getScore(i.word) < 2);
+    if (!unm.length) { alert("¡Dominaste todo el mazo! Reiniciando..."); mastery = {}; saveMastery(); unm = rawData; }
+    activeBatch = unm.sort(() => Math.random() - 0.5).slice(0, 7);
     nextLearnStep();
   }
 
   function nextLearnStep() {
     updateMasteryUI();
-    let remaining = activeBatch.filter(i => getScore(i.word) < 2);
-    if (!remaining.length) {
-      alert("Round complete! Loading the next 7 terms...");
-      prepareBatch();
-      return;
-    }
+    const rem = activeBatch.filter(i => getScore(i.word) < 2);
+    if (!rem.length) { alert("¡Ronda completada! Cargando las siguientes 7 palabras..."); prepareBatch(); return; }
+    curItem = rem[Math.floor(Math.random() * rem.length)];
+    const sc = getScore(curItem.word), badge = document.getElementById('learn-badge'), box = document.getElementById('learn-actions');
+    document.getElementById('learn-word').innerText = curItem.word;
+    document.getElementById('learn-pos').innerText = curItem.pos || '';
+    box.innerHTML = '';
 
-    currentLearnItem = remaining[Math.floor(Math.random() * remaining.length)];
-    let score = getScore(currentLearnItem.word);
-
-    let badge = document.getElementById('learn-badge');
-    let wordEl = document.getElementById('learn-word');
-    let defEl = document.getElementById('learn-def');
-    let posEl = document.getElementById('learn-pos');
-    let actBox = document.getElementById('learn-actions');
-    actBox.innerHTML = '';
-
-    wordEl.innerText = currentLearnItem.word;
-    posEl.innerText = currentLearnItem.pos || '';
-
-    if (score === 0) {
-      badge.innerText = "STUDY TERM";
-      badge.style.color = "#38bdf8";
-      defEl.style.display = 'block';
-      defEl.innerText = currentLearnItem.def;
-
-      let btn = document.createElement('button');
-      btn.className = 'action-btn';
-      btn.innerText = "Got it! Test me";
-      btn.onclick = () => { addScore(currentLearnItem.word); nextLearnStep(); };
-      actBox.appendChild(btn);
+    if (sc === 0) {
+      badge.innerText = "ESTUDIAR PALABRA"; badge.style.color = "#38bdf8";
+      say('learn', '', '"' + curItem.def + '"', 'Traducción en inglés');
+      const btn = document.createElement('button');
+      btn.className = 'action-btn'; btn.innerText = "¡Entendido! Ponme a prueba";
+      btn.onclick = () => { addScore(curItem.word); nextLearnStep(); };
+      box.appendChild(btn);
     } else {
-      badge.innerText = "CHECK RETENTION";
-      badge.style.color = "#fbbf24";
-      defEl.style.display = 'none';
-
-      let options = [currentLearnItem];
-      while (options.length < 4) {
-        let r = rawData[Math.floor(Math.random() * rawData.length)];
-        if (!options.includes(r)) options.push(r);
-      }
-      options.sort(() => Math.random() - 0.5);
-
-      options.forEach(opt => {
-        let b = document.createElement('button');
-        b.className = 'choice-btn';
-        b.innerText = opt.def;
+      badge.innerText = "COMPROBAR MEMORIA"; badge.style.color = "#fbbf24";
+      say('learn', '', '¿Recuerdas qué significa en inglés?', 'Ajolote pregunta');
+      const opts = [curItem];
+      while (opts.length < 4) { const r = rawData[Math.floor(Math.random() * rawData.length)]; if (!opts.includes(r)) opts.push(r); }
+      opts.sort(() => Math.random() - 0.5);
+      let lock = false;
+      opts.forEach(o => {
+        const b = document.createElement('button');
+        b.className = 'choice-btn'; b.innerText = o.def;
         b.onclick = () => {
-          if (opt === currentLearnItem) {
-            b.classList.add('correct');
-            addScore(currentLearnItem.word);
-            setTimeout(nextLearnStep, 450);
-          } else {
-            b.classList.add('wrong');
-            resetScore(currentLearnItem.word);
-            setTimeout(nextLearnStep, 750);
-          }
+          if (lock) return; lock = true;
+          if (o === curItem) { b.classList.add('correct'); say('learn', 'ok', pick(PRAISE), 'Ajolote'); addScore(curItem.word); setTimeout(nextLearnStep, 850); }
+          else { b.classList.add('wrong'); say('learn', 'enc', pick(ENCOURAGE), 'Ajolote'); resetScore(curItem.word); setTimeout(nextLearnStep, 1100); }
         };
-        actBox.appendChild(b);
+        box.appendChild(b);
       });
     }
   }
 
   function nextQuickQuiz() {
-    let item = rawData[Math.floor(Math.random() * rawData.length)];
+    const item = rawData[Math.floor(Math.random() * rawData.length)];
     document.getElementById('quiz-word').innerText = item.word;
     document.getElementById('quiz-pos').innerText = item.pos || '';
-
-    let opts = [item];
-    while (opts.length < 4) {
-      let r = rawData[Math.floor(Math.random() * rawData.length)];
-      if (!opts.includes(r)) opts.push(r);
-    }
+    say('quiz', '', '¡Tú puedes! Elige la traducción correcta:');
+    const opts = [item];
+    while (opts.length < 4) { const r = rawData[Math.floor(Math.random() * rawData.length)]; if (!opts.includes(r)) opts.push(r); }
     opts.sort(() => Math.random() - 0.5);
-
-    let box = document.getElementById('quiz-choices');
-    box.innerHTML = '';
+    const box = document.getElementById('quiz-choices'); box.innerHTML = '';
+    let solved = false;
     opts.forEach(o => {
-      let b = document.createElement('button');
-      b.className = 'choice-btn';
-      b.innerText = o.def;
+      const b = document.createElement('button');
+      b.className = 'choice-btn'; b.innerText = o.def;
       b.onclick = () => {
-        if (o === item) {
-          b.classList.add('correct');
-          setTimeout(nextQuickQuiz, 450);
-        } else {
-          b.classList.add('wrong');
-        }
+        if (solved) return;
+        if (o === item) { solved = true; b.classList.add('correct'); say('quiz', 'ok', pick(PRAISE)); setTimeout(nextQuickQuiz, 850); }
+        else { b.classList.add('wrong'); say('quiz', 'enc', pick(ENCOURAGE)); }
       };
       box.appendChild(b);
     });
   }
 
   function renderLibrary(items) {
-    let container = document.getElementById('library-list');
-    container.innerHTML = '';
-    items.slice(0, 100).forEach(item => {
-      let sc = getScore(item.word);
-      let div = document.createElement('div');
+    const box = document.getElementById('library-list'); box.innerHTML = '';
+    items.slice(0, 100).forEach(i => {
+      const sc = getScore(i.word), div = document.createElement('div');
       div.className = 'list-item';
-      div.innerHTML = '<div><div class="item-word">' + item.word + '</div><div class="item-def">' + item.def + (item.pos ? ' <i>(' + item.pos + ')</i>' : '') + '</div></div>' +
-                      '<span style="font-size:0.75rem; color:' + (sc === 2 ? 'var(--success)' : (sc === 1 ? '#fbbf24' : '#64748b')) + '; font-weight:600;">' + (sc === 2 ? 'Mastered' : (sc === 1 ? 'Learning' : 'New')) + '</span>';
-      container.appendChild(div);
+      div.innerHTML = '<div><div class="item-word">' + i.word + '</div><div class="item-def">' + i.def + (i.pos ? ' <i>(' + i.pos + ')</i>' : '') + '</div></div>' +
+                      '<span style="font-size:0.75rem;color:' + (sc===2?'var(--ok)':(sc===1?'#fbbf24':'#64748b')) + ';font-weight:600">' + (sc===2?'Dominada':(sc===1?'Aprendiendo':'Nueva')) + '</span>';
+      box.appendChild(div);
     });
   }
 
   function filterLibrary() {
-    let q = document.getElementById('search-input').value.toLowerCase().trim();
-    if (!q) { renderLibrary(rawData); return; }
-    let matches = rawData.filter(i => (i.word && i.word.toLowerCase().includes(q)) || (i.def && i.def.toLowerCase().includes(q)));
-    renderLibrary(matches);
+    const q = document.getElementById('search-input').value.toLowerCase().trim();
+    renderLibrary(q ? rawData.filter(i => (i.word && i.word.toLowerCase().includes(q)) || (i.def && i.def.toLowerCase().includes(q))) : rawData);
   }
 
   function switchTab(tab) {
-    document.querySelectorAll('.tab-btn').forEach((b, i) => b.classList.toggle('active', (tab === 'learn' && i === 0) || (tab === 'quiz' && i === 1) || (tab === 'library' && i === 2)));
-    document.getElementById('learn-view').classList.toggle('active', tab === 'learn');
-    document.getElementById('quiz-view').classList.toggle('active', tab === 'quiz');
-    document.getElementById('library-view').classList.toggle('active', tab === 'library');
-
+    document.querySelectorAll('.tab-btn').forEach((b, i) => b.classList.toggle('active', (tab==='learn'&&i===0)||(tab==='quiz'&&i===1)||(tab==='library'&&i===2)));
+    ['learn','quiz','library'].forEach(t => document.getElementById(t + '-view').classList.toggle('active', tab === t));
     if (tab === 'quiz' && !document.getElementById('quiz-choices').children.length) nextQuickQuiz();
     if (tab === 'library') filterLibrary();
   }
 
-    Promise.all([
-    fetch('spanish.json?v=2').then(r => r.json()),
-    fetch('Mx_extra.json?v=2').then(r => r.json())
-  ])
-    .then(([base, extra]) => {
-      rawData = [...base, ...extra];
-      updateMasteryUI();
-      prepareBatch();
-      renderLibrary(rawData);
-    })
-    .catch(err => alert("Error loading vocabulary: " + err));
+  Promise.all([
+    fetch('spanish.json?v=6').then(r => r.json()),
+    fetch('Mx_extra.json?v=6').then(r => r.json()).catch(() => [])
+  ]).then(([base, extra]) => {
+    rawData = [...base, ...extra];
+    updateMasteryUI(); prepareBatch(); renderLibrary(rawData);
+  }).catch(err => alert("Error cargando vocabulario: " + err));
 </script>
 </body>
 </html>
